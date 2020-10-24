@@ -2,12 +2,10 @@
 0,Anchorage Regional Landfill,AK,Anchorage
 1,Capitol Disposal Landfill,AK,Juneau
 2,Central Peninsula Landfill (CPL),AK,Kenai Peninsula
-4,Merrill Field Landfill,AK,Anchorage
 5,Palmer Central Landfill,AK,Matanuska-Susitna
 6,South Cushman Landfill,AK,Fairbanks North Star
 7,Unalaska Landfill,AK,Aleutians West
 8,Advanced Disposal Cedar Hill Landfill,AL,St. Clair
-9,Advanced Disposal Star Ridge Landfill,AL,St. Clair
 10,Arrowhead Landfill,AL,Perry
 11,Athens/Limestone County SLF MSWLF,AL,Limestone
 12,Bishop Landfill Company,AL,Marshall
@@ -22,20 +20,14 @@
 23,Cullman Environmental Waste Management Center,AL,Cullman
 24,Eastern Area Landfill,AL,Jefferson
 25,Florence SLF MSWLF,AL,Lauderdale
-26,Florence SLF MSWLF (Old),AL,Lauderdale
 27,Huntsville MSWLF,AL,Madison
-28,Irvington SLF,AL,Mobile
-29,Jefferson County LF No. 1,AL,Jefferson
-30,Jefferson County LF No. 2,AL,Jefferson
 31,Magnolia Subtitle D MSW LF,AL,Baldwin
 33,Morris Farm Landfill,AL,Lawrence
-34,New Georgia MSWLF,AL,Jefferson
 35,North Montgomery SLF MSWLF,AL,Montgomery
 36,Pine View SLF MSWLF,AL,Walker
 37,Salem Landfill,AL,Lee
 38,Sand Valley Landfill,AL,DeKalb
 40,Scottsboro Landfill,AL,Jackson
-41,Shannon SLF,AL,Jefferson
 42,Shelby County Highway 70 Landfill,AL,Shelby
 43,Shoals Solid Waste Disposal Authority (SSWDA) LF,AL,Colbert
 44,"Stones Throw Landfill, LLC",AL,Tallapoosa
@@ -47,55 +39,28 @@
 55,City of Morrilton Landfill,AR,Conway
 56,Craighead County Solid Waste Disposal Authority LF,AR,Craighead
 57,Crittenden County Sanitary Landfill,AR,Crittenden
-58,Eco-Vista Landfill,AR,Washington
 60,Fort Smith SLF,AR,Sebastian
 61,IESI Cherokee Village Landfill,AR,Fulton
-63,Jefferson County Landfill,AR,Jefferson
 64,Little Rock City SW Landfill,AR,Pulaski
 65,Mississippi County LF,AR,Mississippi
-66,Modelfill Landfill,AR,Pulaski
 68,Northeast AR RSWMD Landfill Phases 2 & 3,AR,Greene
 69,Ozark Ridge Landfill,AR,Yell
 70,"Rolling Meadows Landfill, Inc.",AR,Prairie
 71,Saline County RWMD LF,AR,Saline
-72,Shannon Road Landfill,AR,Jefferson
-73,Two Pine Landfill,AR,Pulaski
 74,Union County Recycling & Disposal Facility,AR,Union
 75,Upper Southwest RSWMD,AR,Howard
 76,27th Avenue Landfill,AZ,Maricopa
 77,Apache County Regional Landfill - Blue Hills,AZ,Apache
 78,Apache Junction LF,AZ,Pinal
-79,Butterfield Station Landfill,AZ,Maricopa
-80,Cactus Landfill,AZ,Pinal
-81,Cave Creek MSW Landfill,AZ,Maricopa
 82,Cinder Lake MSW LF,AZ,Coconino
-83,City of Chandler Landfill,AZ,Maricopa
-84,City of Glendale Municipal Landfill,AZ,Maricopa
 85,Cochise County Western Regional Landfill,AZ,Cochise
 87,Copper Mountain Landfill,AZ,Yuma
-90,Durham Regional Landfill,AZ,Pinal
 91,Gray Wolf Regional Landfill,AZ,Yavapai
 92,Harrison Landfill,AZ,Pima
-94,Ironwood Landfill,AZ,Pinal
 95,La Paz County Landfill,AZ,La Paz
 96,Lake Havasu Landfill,AZ,Mohave
-97,Lone Cactus Landfill,AZ,Maricopa
-98,Los Reales Landfill,AZ,Pima
-99,Marana Regional Landfill,AZ,Pima
-100,Mohave Valley Landfill,AZ,Mohave
-101,North Center Street Landfill,AZ,Maricopa
-102,Northwest Regional MSW Landfill,AZ,Maricopa
 103,Painted Desert Landfill,AZ,Navajo
-104,Queen Creek MSW Landfill,AZ,Maricopa
 105,Rio Rico MSW Landfill,AZ,Santa Cruz
-106,Salt River Landfill,AZ,Maricopa
-108,Skunk Creek Landfill,AZ,Maricopa
-109,South Yuma County Landfill,AZ,Yuma
-110,Southwest Regional Landfill,AZ,Maricopa
-111,State Route 85 Landfill,AZ,Maricopa
-112,Tangerine Road MSW Landfill,AZ,Pima
-113,Tri-Cities Landfill,AZ,Maricopa
-114,Vincent Mullins Landfill,AZ,Pima
 115,Acme LF,CA,Contra Costa
 117,All Purpose Landfill,CA,Santa Clara
 118,Allied Imperial Landfill,CA,Imperial
@@ -108,287 +73,100 @@
 130,Arvin SLF,CA,Kern
 132,Austin Road Landfill,CA,San Joaquin
 133,Avenal Regional Landfill,CA,Kings
-134,"Azusa Land Reclamation Company, Inc.",CA,Los Angeles
 135,Badlands SLF,CA,Riverside
-136,Baker Refuse Disposal Site,CA,San Bernardino
-137,Bakersfield City Landfill,CA,Kern
-138,Bakersfield Metropolitan SLF (BENA),CA,Kern
-140,Barstow Sanitary Landfill,CA,San Bernardino
 141,Bass Hill LF,CA,Lassen
-143,Ben Lomond Solid Waste Disposal Site,CA,Santa Cruz
-148,Big Bear Refuse Disposal Site,CA,San Bernardino
 150,Billy Wright Landfill,CA,Merced
 151,Bishop Sunland,CA,Inyo
-152,BKK Landfill-Phases I & II,CA,Los Angeles
-154,Blythe Disposal Site,CA,Riverside
 156,Bonzi SLF,CA,Stanislaus
-157,Boron SLF,CA,Kern
 158,Borrego Landfill,CA,San Diego
-159,Bradley Landfill,CA,Los Angeles
-163,Buena Vista Drive SLF,CA,Santa Cruz
-164,Burbank LF Site No. 3,CA,Los Angeles
-166,Calabasas SLF,CA,Los Angeles
-168,California Street LF,CA,San Bernardino
-177,Chateau Fresno LF,CA,Fresno
-179,Chestnut Avenue SLF,CA,Fresno
 180,Chicago Grade LF,CA,San Luis Obispo
-181,China Grade SLF,CA,Kern
-183,Chiquita Canyon SLF,CA,Los Angeles
-184,City of Clovis LF,CA,Fresno
-185,City of Fresno Landfill,CA,Fresno
 186,City of Lompoc SLF,CA,Santa Barbara
-187,City of Paso Robles LF,CA,San Luis Obispo
 189,City of Sacramento Landfill,CA,Sacramento
-190,City of Santa Cruz SLF,CA,Santa Cruz
 191,City of Ukiah Solid Waste Disposal Site,CA,Mendocino
-192,City of Watsonville Landfill,CA,Santa Cruz
-195,Clover Flat Landfill,CA,Napa
-196,Coachella Valley Disposal Site,CA,Riverside
-197,Coalinga Disposal Site,CA,Fresno
-198,Cold Canyon LF Solid Waste Disposal Site,CA,San Luis Obispo
-199,Colton Sanitary Landfill,CA,San Bernardino
-200,Contra Costa SLF,CA,Contra Costa
-201,Corona Disposal Site,CA,Riverside
-202,Corral Hollow LF,CA,San Joaquin
 203,Coyote Canyon SLF,CA,Orange
 204,Crazy Horse Landfill,CA,Monterey
 205,Crescent City SLF,CA,Del Norte
 206,Cummings Road Landfill,CA,Humboldt
-207,CWMI - KHF (MSW Landfill B-19),CA,Kings
-208,Davis Street LF,CA,Alameda
-213,Double Butte Disposal Site,CA,Riverside
 218,Eastlake SLF,CA,Lake
-219,Edom Hill Disposal Site,CA,Riverside
-221,El Sobrante SLF,CA,Riverside
 224,Fairmead Solid Waste Disposal Site,CA,Madera
-225,Fink Road LF,CA,Stanislaus
-226,"Foothill Sanitary Landfill, Inc.",CA,San Joaquin
-229,Forward Landfill,CA,San Joaquin
-231,Frank R. Bowerman SLF,CA,Orange
-234,Geer Road SLF,CA,Stanislaus
-239,Guadalupe Rubbish Disposal Facility,CA,Santa Clara
-240,Hanford SLF,CA,Kings
-242,Harney Lane SLF,CA,San Joaquin
 243,Healdsburg Landfill,CA,Sonoma
-244,Herlong Disposal Facility,CA,Lassen
-245,Hesperia Refuse Disposal Site,CA,San Bernardino
-246,Highgrove SLF,CA,Riverside
-247,Highway 59 Landfill,CA,Merced
 248,Hillside Solid Waste Disposal Site,CA,San Mateo
-250,Hot Spa Cut & Fill Site,CA,Imperial
-254,Industry Hills Sheraton Resort,CA,Los Angeles
 257,John Smith Road Class III Landfill,CA,San Benito
-258,Johnson Canyon SLF,CA,Monterey
-260,Keller Canyon LF,CA,Contra Costa
-264,Kiefer LF,CA,Sacramento
-265,Kirby Canyon Recycling & Disposal Facility,CA,Santa Clara
-266,L & D Landfill Company,CA,Sacramento
-268,Lamb Canyon Sanitary Landfill,CA,Riverside
-269,Lancaster Landfill,CA,Los Angeles
-270,Landers Sanitary Landfill,CA,San Bernardino
-271,Las Pulgas LF,CA,San Diego
-275,Lenwood-Hinkley Refuse Disposal Site,CA,San Bernardino
-276,Lewis Road SLF,CA,Monterey
-278,Lopez Canyon SLF,CA,Los Angeles
-279,Lost Hills SLF,CA,Kern
 281,Loyalton LF,CA,Sierra
-282,Lucerne Valley Disposal Site,CA,San Bernardino
-285,Marsh Road LF,CA,San Mateo
 287,McCourtney LF,CA,Nevada
-288,McFarland-Delano SLF,CA,Kern
-289,Mead Valley Disposal Site,CA,Riverside
-292,Mid-Valley Sanitary LF,CA,San Bernardino
-293,Milliken SLF,CA,San Bernardino
-294,Mission Canyon Landfill,CA,Los Angeles
-295,Mission Hills,CA,Los Angeles
-296,Mojave-Rosamond SLF,CA,Kern
-297,Monterey Peninsula SLF,CA,Monterey
-298,Morongo Disposal Site,CA,San Bernardino
 300,Neal Road Recycling and Waste Facility,CA,Butte
-301,Needles Solid Waste Disposal Site,CA,San Bernardino
-303,Newberry Springs Disposal Site,CA,San Bernardino
-304,"Newby Island SLF Phases I, II, & III",CA,Santa Clara
-305,Niland Cut & Fill Site,CA,Imperial
-307,North County SLF,CA,San Joaquin
-308,North Miramar SLF,CA,San Diego
-311,Olinda Alpha SLF,CA,Orange
-312,"Operating Industries, Inc. LF (OII)",CA,Los Angeles
-313,Orange Avenue Disposal Inc.,CA,Fresno
-315,Otay LF,CA,San Diego
-316,Ox Mountain SLF,CA,San Mateo
 317,Oxnard Landfills,CA,Ventura
-318,Palo Alto LF,CA,Santa Clara
-320,Palos Verdes Landfill,CA,Los Angeles
-322,Penrose LF,CA,Los Angeles
-323,Phelan Refuse Disposal Site,CA,San Bernardino
 328,Potrero Hills SLF,CA,Solano
-329,Prima Deshecha SLF,CA,Orange
-330,Puente Hills LF,CA,Los Angeles
-332,Ramona Avenue Landfill,CA,San Diego
-334,Recology Hay Road LF,CA,Solano
 335,Recology Ostrom Road LF,CA,Yuba
-336,Recology Pacheco Pass LF,CA,Santa Clara
-337,Recology Yuba-Sutter Landfill,CA,Yuba
 339,Redwood SLF,CA,Marin
-340,Ridgecrest-Inyokern SLF,CA,Kern
 342,Rock Creek LF,CA,Calaveras
-347,San Marcos LF,CA,San Diego
-349,San Onofre LF,CA,San Diego
-350,San Timoteo Solid Waste Disposal Site,CA,San Bernardino
-351,Santa Maria Regional Landfill,CA,Santa Barbara
-353,Santiago Canyon SLF,CA,Orange
-354,Savage Canyon LF,CA,Los Angeles
-355,Scholl Canyon SLF,CA,Los Angeles
-356,Shafter-Wasco SLF,CA,Kern
-357,Sheldon-Arleta LF,CA,Los Angeles
-358,Shoreline LF at Mountain View,CA,Santa Clara
-360,Sierra Army Depot,CA,Lassen
-361,Simi Valley LF,CA,Ventura
-363,Sonoma County Central Disposal Site,CA,Sonoma
-364,South Chollas SLF,CA,San Diego
-366,South Miramar LF,CA,San Diego
-367,Southeast Regional Solid Waste Disposal Site,CA,Fresno
-368,Spadra LF,CA,Los Angeles
-370,Sunnyvale LF,CA,Santa Clara
-371,Sunshine Canyon Landfill,CA,Los Angeles
-372,Sycamore SLF,CA,San Diego
-373,Taft SLF,CA,Kern
-374,Tajiguas SLF,CA,Santa Barbara
 375,Teapot Dome Landfill,CA,Tulare
-377,Tehachapi SLF,CA,Kern
 378,Tehama County/Red Bluff Landfill,CA,Tehama
-380,Toland Road SLF,CA,Ventura
-381,Toyon Canyon LF,CA,Los Angeles
-382,Tri-Cities Landfill,CA,Alameda
-383,Trona-Argus Refuse Disposal Site,CA,San Bernardino
-386,Twentynine Palms Disposal Site,CA,San Bernardino
 390,Union Mine Disposal Site,CA,El Dorado
-392,Upland LF,CA,San Bernardino
-394,Vandenberg Air Force Base LF,CA,Santa Barbara
-395,Vasco Road SLF,CA,Alameda
-396,Victorville Sanitary Landfill,CA,San Bernardino
-397,Visalia Landfill,CA,Tulare
-401,West Central LF,CA,Shasta
-402,West Contra Costa SLF,CA,Contra Costa
-404,West Miramar SLF,CA,San Diego
 406,Western Regional SLF,CA,Placer
-408,Woodville Landfill,CA,Tulare
-409,Yermo Disposal Site,CA,San Bernardino
 410,Yolo County Central LF,CA,Yolo
 411,Yreka Solid Waste LF,CA,Siskiyou
-413,Yucaipa Refuse Disposal Site,CA,San Bernardino
-414,Zanker Road (Nine Par) SLF,CA,Santa Clara
 415,Archuleta County Landfill,CO,Archuleta
 416,Bondad Landfill,CO,La Plata
 417,Boulder Landfill,CO,Boulder
 418,Broad Canyon Landfill,CO,Montrose
 419,Broadacres Landfill Inc.,CO,Pueblo
 420,Buffalo Ridge Landfill,CO,Weld
-421,Central Weld County SLF,CO,Weld
 422,Colorado Springs Landfill,CO,El Paso
 424,County Line LF,CO,Douglas
 425,Denver Arapahoe Disposal Site (DADS),CO,Arapahoe
-426,Denver Regional Landfill (North),CO,Weld
-427,Denver Regional Landfill (South),CO,Weld
 428,Eagle County Landfill,CO,Eagle
 429,East Regional Landfill (ERL),CO,Adams
-430,Foothills Landfill,CO,Jefferson
-431,Fountain Landfill,CO,El Paso
-432,Front Range Landfill,CO,Weld
 434,Larimer County Landfill,CO,Larimer
 436,Mesa County Landfill,CO,Mesa
-437,Midway Landfill,CO,El Paso
 438,Milner Landfill,CO,Routt
-439,Montrose County Landfill,CO,Montrose
-440,Morgan County SWDLF,CO,Morgan
-441,North Weld SLF,CO,Weld
 442,Phantom Landfill,CO,Fremont
 443,Pitkin County Solid Waste Center,CO,Pitkin
-445,Sedalia Recycling Center & Depository,CO,Douglas
 446,South Canyon Landfill,CO,Garfield
-447,Southside Solid Waste Disposal Site,CO,Pueblo
 448,Summit County Landfill,CO,Summit
-450,Tower Landfill Inc.,CO,Adams
 455,Canterbury LF,CT,Windham
 457,East Windsor LF,CT,Hartford
 459,Groton LF,CT,New London
-461,Hartford LF,CT,Hartford
-463,Manchester LF,CT,Hartford
 465,Middletown Avenue Landfill,CT,New Haven
-466,Montville LF,CT,New London
 467,New Milford LF,CT,Litchfield
-470,Putnam LF,CT,Windham
 471,Shelton LF,CT,Fairfield
-474,Waterbury-North End LF,CT,New Haven
-476,Windsor-Bloomfield LF,CT,Hartford
 477,Cherry Island Landfill,DE,New Castle
 478,Jones Crossroads Landfill,DE,Sussex
-479,Pigeon Point Landfill,DE,New Castle
 480,Sandtown Landfill,DE,Kent
 481,58th Street Landfill,FL,Miami-Dade
 482,A.C.M.S. Inc.,FL,Sumter
-483,Aucilla Area SW Facility Class I & 2,FL,Madison
 484,Baseline Landfill,FL,Marion
 485,Bee Ridge LF,FL,Sarasota
 487,Brevard County Central Disposal Facility,FL,Brevard
 488,Bridgeway Acres LF,FL,Pinellas
 489,Broward County Landfill,FL,Broward
-490,Buckingham Landfill,FL,Lee
 491,Cedar Trail Landfill (CTL),FL,Polk
-492,Central County Solid Waste Disposal Complex,FL,Sarasota
 493,Citrus County Central Landfill,FL,Citrus
 494,Collier County Landfill,FL,Collier
 496,Croom SLF,FL,Hernando
 497,DeSoto City SLF,FL,Highlands
 498,Dyer Boulevard LF,FL,Palm Beach
 499,East Duval SLF,FL,Duval
-500,Gulf Coast RDF,FL,Lee
-501,Hernando County Northwest Landfill,FL,Hernando
-502,Highlands County Solid Waste Management Center,FL,Highlands
 503,Hillsborough Heights LF,FL,Hillsborough
 505,Indian River County LF Class I,FL,Indian River
 506,J.E.D. Solid Waste Management Facility,FL,Osceola
-507,Jacksonville North SLF,FL,Duval
-508,Lake County Central Phase I Landfill,FL,Lake
-509,Lantana Landfill,FL,Palm Beach
 511,Lee/Hendry County Regional SW Disposal Facility,FL,Hendry
 512,Lena Road Class I Landfill,FL,Manatee
 513,Leon County Landfill,FL,Leon
-514,Madison City/County SLF,FL,Madison
 515,Majette North SLF,FL,Bay
 516,Martin County Palm City II SLF,FL,Martin
-517,Medley Landfill,FL,Miami-Dade
-518,Monarch Hill Landfill,FL,Broward
-519,New River Regional LF,FL,Union
-521,North Central Landfill,FL,Polk
-522,North Dade Landfill,FL,Miami-Dade
 523,Okeechobee LF,FL,Okeechobee
-524,Orange County SLF,FL,Orange
 525,Osceola Landfill,FL,Seminole
-526,PBCSWA RRF Site #7,FL,Palm Beach
 527,PCSW Resource Recovery Facility,FL,Pasco
-528,Perdido LF,FL,Escambia
-529,Pine Ridge Recycling & Disposal,FL,Orange
 530,Putnam County Central SLF,FL,Putnam
 532,Rosemary Hill LF Expansion Class I,FL,Clay
-533,Saint Cloud City LF Class I,FL,Osceola
-534,Sandler Road SLF,FL,Duval
 535,Santa Rosa Central LF,FL,Santa Rosa
-536,South Dade Dump,FL,Miami-Dade
-537,South Dade Solid Waste Disposal Facility,FL,Miami-Dade
-539,Southeast Hillsborough County LF,FL,Hillsborough
-540,Southport Road SLF Phase I & II,FL,Osceola
-541,Springhill Regional Landfill,FL,Jackson
 542,St. Lucie County Baling and Recycling Facility,FL,St. Lucie
-543,Steelfield Road Landfill,FL,Bay
 544,Stock Island LF,FL,Monroe
-545,Sunbeam Road SLF,FL,Duval
 546,SW Alachua SLF,FL,Alachua
 547,Taylor County Central LF,FL,Taylor
 548,Tillman Ridge SLF,FL,St. Johns
 549,Tomoka Farms Road LF,FL,Volusia
-550,Toytown SLF,FL,Pinellas
-551,Trail Ridge Landfill Inc.,FL,Duval
 552,West Nassau SLF,FL,Nassau
 553,Winfield Solid Waste Facility,FL,Columbia
 554,Wright LF,FL,Okaloosa
@@ -396,111 +174,64 @@
 556,"Advanced Disposal Services Evergreen Landfill, Inc.",GA,Lowndes
 557,Athens-Clarke County Landfill,GA,Clarke
 558,Atkinson County - SR 50 MSWL,GA,Atkinson
-559,Baker Place Road Landfill (Ph 1 & 2),GA,Columbia
 560,Bartow County MSWLF,GA,Bartow
 561,BJ Landfill,GA,Gwinnett
 562,Broadhurst Environmental Landfill,GA,Wayne
-563,Button-Gwinnett Landfill Phase III,GA,Gwinnett
 564,Camden County SR 110 MSW Landfill,GA,Camden
 565,Carroll County - Carrollton SR 166 MSW Landfill,GA,Carroll
-566,Cascade Road Landfill,GA,Fulton
 567,Catoosa County MSW LF,GA,Catoosa
 568,Cedar Grove Landfill,GA,Lamar
-569,Chambers-Bolton Road,GA,Fulton
 571,"Chesser Island Road Landfill, Inc. MSWL",GA,Charlton
-572,"City of Forsyth-Old Brent Road, Phase I&II",GA,Monroe
 573,City of LaGrange Landfill,GA,Troup
 574,City of Thomasville MSWLF,GA,Thomas
 575,City of Tifton / Omega / Eldorado Road LF,GA,Tift
 576,Clayton County SR 3 Lovejoy Landfill,GA,Clayton
 577,Columbus Pine Grove MSWLF,GA,Muscogee
-578,Columbus-Schatulga Road SLF,GA,Muscogee
 580,Crisp County Landfill,GA,Crisp
 581,Deans Bridge Road MSWLF,GA,Richmond
 582,Decatur County Solid Waste Facility,GA,Decatur
 583,Dougherty County Fleming/Gaissert Road LF,GA,Dougherty
 585,Eagle Point Landfill LLC,GA,Forsyth
-587,Fort Benning LF,GA,Muscogee
-589,Fulton County Merk Miles Road Landfill,GA,Fulton
 590,Gordon County Redbone Ridges LF,GA,Gordon
-591,Grady Road Landfill,GA,Polk
-592,Gun Club Road landfill,GA,Fulton
 593,Habersham County SR13 MSWL,GA,Habersham
 594,Hall County Allen Creek Landfill,GA,Hall
-595,Hall County Candler Road MSWLF,GA,Hall
-597,Hickory Ridge Landfill,GA,DeKalb
-598,Highway 309 Landfill,GA,Decatur
-599,Jefferson County CR-138 MSWL,GA,Jefferson
-600,Key Road Landfill,GA,DeKalb
 601,Laurens County - Old Macon Road MSWL,GA,Laurens
 602,Liberty County LF,GA,Liberty
-603,Live Oak LF,GA,DeKalb
 604,Macon Bibb Walker Road MSWL,GA,Bibb
-605,Marble Top Road Landfill,GA,Walker
-606,Morgan Falls,GA,Fulton
 607,Murray County Landfill,GA,Murray
 608,Newton County Landfill,GA,Newton
 609,Oak Grove Landfill,GA,Barrow
 610,Old Dixie Highway MSW Landfill,GA,Whitfield
-612,Pine Bluff Landfill,GA,Cherokee
 613,Pine Ridge Landfill,GA,Butts
-614,Polk County Landfill #1,GA,Polk
 615,R & B (Banks) Landfill,GA,Banks
-616,Richland Creek Road Landfill,GA,Gwinnett
 617,Roberts Road Landfill,GA,Fayette
 618,Savannah-Dean Forest Road SL,GA,Chatham
-619,Seminole Road MSW Landfill,GA,DeKalb
-620,Southern States-Bolton Road,GA,Fulton
-621,SR247 MSW Landfill,GA,Houston
-622,Superior Landfill & Recycling Center,GA,Chatham
-623,Swift Creek Environmental Landfill,GA,Bibb
 625,Turkey Run Landfill,GA,Meriwether
 628,Walker Mountain Landfill,GA,Floyd
-629,Watts Road LF,GA,Fulton
-630,"WI Taylor County Disposal, LLC",GA,Taylor
 632,"Wolf Creek Landfill, LLC",GA,Twiggs
 635,Central Maui Landfill,HI,Maui
-636,Hana Landfill,HI,Maui
-638,Kalamaula Landfill,HI,Maui
 639,Kaneohe Marine Corps Air Station Landfill,HI,Honolulu
-640,Kapaa,HI,Honolulu
-641,Kapaa and Kalaheo Sanitary Landfills,HI,Honolulu
 642,Kekaha Landfill/Phases I & II,HI,Kauai
-643,Lanai Landfill,HI,Maui
-644,Naiwa Landfill,HI,Maui
-645,Olowalu Landfill,HI,Maui
-646,Palailai Landfill,HI,Honolulu
 647,South Hilo Sanitary Landfill (SHSL),HI,Hawaii
-648,Waimanalo Gulch Landfill & Ash Monofill,HI,Honolulu
-649,West Hawaii Landfill/Puuanahulu,HI,Hawaii
 651,Black Hawk County SLF (Area E),IA,Black Hawk
 652,Boone County Landfill,IA,Boone
-653,Carroll County Sanitary Landfill,IA,Carroll
 655,Cedar Rapids Linn County Solid Waste Landfill #1,IA,Linn
-656,Cedar Rapids Linn County Solid Waste Landfill #2,IA,Linn
 657,Central Disposal Landfill,IA,Winnebago
 659,City of Muscatine LF,IA,Muscatine
 660,Clinton County SLF (East),IA,Clinton
 661,Des Moines County Regional Sanitary Landfill,IA,Des Moines
 662,Dickinson Landfill Inc.,IA,Dickinson
 663,Dubuque Metropolitan SLF,IA,Dubuque
-664,Fayette County Landfill,IA,Fayette
 665,Floyd-Mitchell-Chickasaw Counties Landfill,IA,Mitchell
-667,Great River Regional Solid Waste Authority Landfill,IA,Lee
 669,Iowa City SLF,IA,Johnson
 671,Landfill of North Iowa,IA,Cerro Gordo
 672,Loess Hills Regional SLF,IA,Mills
-674,Marshall County SLF,IA,Marshall
-675,Metro Park East Landfill,IA,Polk
-677,Montgomery County Sanitary Landfill,IA,Montgomery
 678,Newton SLF,IA,Jasper
 679,North Central Iowa Regional SWA Sanitary Landfill,IA,Webster
 681,Northwest Iowa Area SWA Landfill,IA,Sioux
 683,Ottumwa-Wapello County SLF,IA,Wapello
 684,Page County Sanitary Landfill,IA,Page
 688,Scott Area SLF,IA,Scott
-691,South Central Iowa Landfill,IA,Madison
-692,South Central Iowa Sanitary Landfill,IA,Marion
 697,Winneshiek County Sanitary Landfill,IA,Winneshiek
 698,Ada County Landfill,ID,Ada
 700,Bear Lake County Landfill,ID,Bear Lake
@@ -508,118 +239,50 @@
 703,Bingham County Landfill-Ridge Road,ID,Bingham
 705,Bonneville County Landfill,ID,Bonneville
 706,Boundary County Landfill,ID,Boundary
-709,Circular Butte Sanitary LF,ID,Jefferson
 710,Clay Peak Landfill,ID,Payette
 711,Fighting Creek Farm Landfill,ID,Kootenai
 712,Fort Hall Mine Landfill,ID,Bannock
 713,Franklin County Sanitary Landfill,ID,Franklin
 717,Hub Butte Landfill,ID,Twin Falls
-718,Island Park Sanitary Landfill,ID,Fremont
 719,Latah Sanitary Landfill,ID,Latah
 720,Lemhi County Landfill 1,ID,Lemhi
-721,Lemhi County Landfill 2,ID,Lemhi
 722,Milner Butte Landfill,ID,Cassia
-723,Mud Lake Landfill,ID,Jefferson
 725,Pickles Butte SLF,ID,Canyon
-726,Simco Road Regional Landfill,ID,Elmore
-727,St. Anthony Landfill,ID,Fremont
 728,Teton County Landfill,ID,Teton
 729,31st Street Landfill,IL,Cook
 730,ADS/McLean County LF #2,IL,McLean
 731,Advanced Disposal Orchard Hills Landfill Inc.,IL,Ogle
 732,Advanced Disposal Valley View Landfill Inc.,IL,Macon
-733,Advanced Disposal Zion Landfill,IL,Lake
-734,Alton Municipal Landfill,IL,Madison
 736,Beecher Landfill,IL,Will
-737,Belleville Sanitary LF,IL,St. Clair
 740,Bond County LF,IL,Bond
 741,Brickyard Disposal & Recycling Inc.,IL,Vermilion
-742,CDT LF,IL,Will
-743,Chain of Rocks RDF,IL,Madison
-744,CID Recycling and Disposal Facility,IL,Cook
 745,Clinton Landfill Inc.,IL,De Witt
 746,Coles County Landfill,IL,Coles
-747,Congress Development Company LF,IL,Cook
-748,Cottonwood Hills LF,IL,St. Clair
-749,Countryside LF,IL,Lake
-750,Davis Junction Landfill,IL,Ogle
-751,DeKalb County LF,IL,DeKalb
-752,Des Plaines Landfill,IL,Cook
 753,Envirofil of Illinois Inc.,IL,McDonough
 754,Environtech LF,IL,Grundy
 756,Five Oaks RDF,IL,Christian
 757,Freeport Municipal Landfill #4,IL,Stephenson
 758,Greene Valley RDF,IL,DuPage
-759,H.O.D. Landfill,IL,Lake
-761,Hickory Ridge Landfill Inc.,IL,Pike
-762,Illinois Landfill Inc.,IL,Vermilion
 764,Indian Creek Landfill #2,IL,Tazewell
 765,Jerseyville Sanitation Landfill,IL,Jersey
 766,K & H Disposal Landfill,IL,Iroquois
 767,Kankakee County RDF,IL,Kankakee
 769,Knox County LF #3,IL,Knox
-770,Lake LF,IL,Cook
-771,Land & Lakes #1 and #2,IL,Cook
-772,Land & Lakes #3,IL,Cook
-773,Land & Lakes/Willow Ranch Landfill,IL,Will
 774,LandComp Landfill,IL,LaSalle
 775,Landfill 33 Ltd.,IL,Effingham
-777,Laraway RDF,IL,Will
-778,Lee County Landfill,IL,Lee
-779,Litchfield-Hillsboro LF,IL,Montgomery
 780,Livingston LF,IL,Livingston
-781,Mallard Lake LF,IL,DuPage
-782,Milam Recycling and Disposal Facility,IL,St. Clair
-783,Modern Landfill,IL,St. Clair
-784,Morris Community LF,IL,Grundy
-789,Pekin Metropolitan Landfill,IL,Tazewell
 790,Peoria City/County Landfills #1 and #2,IL,Peoria
-791,Peoria Disposal Company #1,IL,Peoria
-792,"Perry Ridge Landfill, Inc.",IL,Perry
-793,Prairie View RDF,IL,Will
 794,Quad Cities Landfill Phase IV,IL,Rock Island
-795,"Quad Cities LF Phases 1, 2, & 3",IL,Rock Island
-796,Quincy Landfills #2 and #3,IL,Adams
-798,River Bend Prairie Landfill,IL,Cook
-799,Rochelle Municipal #2,IL,Ogle
-800,Roxana LF,IL,Madison
-801,Salem Municipal Landfill #2,IL,Marion
-802,"Saline County Landfill, Inc.",IL,Saline
 803,Sangamon Valley Landfill Inc.,IL,Sangamon
 804,Settler's Hill Recycling & Disposal Facility,IL,Kane
-805,South Barrington Landfill,IL,Cook
-806,Southern Illinois Regional LF,IL,Jackson
-807,Spoon Ridge Landfill,IL,Fulton
-808,Streator Area LF No. 3,IL,Livingston
-809,Sumner Landfill,IL,Lawrence
-810,Taylor Ridge LF,IL,Rock Island
-811,Tazewell RDF,IL,Tazewell
-812,Upper Rock Island County LF,IL,Rock Island
 813,Urbana Municipal #1,IL,Champaign
-814,Urbana Municipal #2,IL,Champaign
-816,Washington LF Inc.,IL,Tazewell
-817,Wayne County Landfill,IL,Wayne
-818,West End Disposal Facility,IL,Saline
-819,Wheatland Prairie RDF,IL,Will
 820,Whiteside County Landfill,IL,Whiteside
-821,Winnebago Landfill,IL,Winnebago
-822,Woodland RDF,IL,Kane
-823,Adams County North & South LFs,IN,Adams
-824,Advanced Disposal Blackfoot Landfill,IN,Pike
 825,"Advanced Disposal Services Hoosier Landfill, Inc.",IN,Kosciusko
 827,Bartholomew County Landfill I,IN,Bartholomew
-828,Bartholomew County Landfill II,IN,Bartholomew
-832,Caldwell LF,IN,Shelby
-834,Center Point LF,IN,Clay
 835,Clark-Floyd LF,IN,Clark
-836,Clinton County Landfill,IN,Clinton
-839,County Line LF,IN,Fulton
 841,Daviess County LF,IN,Daviess
-843,Decatur Hills LF,IN,Decatur
 844,Deercroft RDF,IN,LaPorte
 846,Earthmovers LF,IN,Elkhart
-848,Elkhart County Landfill,IN,Elkhart
-852,Gary Sanitary LF,IN,Lake
 858,Hayes Landfill,IN,Henry
 859,Huntington City LF,IN,Huntington
 862,Jay County LF,IN,Jay
@@ -627,351 +290,173 @@
 864,LaGrange County LF,IN,LaGrange
 865,Laubscher Meadows LF,IN,Vanderburgh
 867,Liberty Landfill,IN,White
-870,Medora SLF,IN,Jackson
-871,Monroe County LF,IN,Monroe
-872,Munster LF,IN,Lake
 873,National Serv-All LF,IN,Allen
-875,New Paris Pike LF,IN,Wayne
-877,Newton County Landfill,IN,Newton
 882,Oak Ridge RDF,IN,Cass
 885,Prairie View RDF,IN,St. Joseph
 886,Randolph Farms LF,IN,Randolph
-890,South Side Landfill Inc.,IN,Marion
 893,Spencer County,IN,Spencer
 895,Sullivan County LF,IN,Sullivan
 896,Sycamore Ridge Landfill & Victory Landfill,IN,Vigo
 899,Tipton County LF,IN,Tipton
 900,Twin Bridges RDF,IN,Hendricks
-901,Uniontown Landfill,IN,Jackson
-902,United Refuse LF,IN,Allen
 904,Wabash Valley LF,IN,Wabash
-907,Washington County LF,IN,Washington
 908,West Clinton LF,IN,Vermillion
-909,Wheeler RDF,IN,LaPorte
-911,Worthington LF,IN,Greene
-912,Allen County LF,KS,Allen
 914,Barton County SLF,KS,Barton
 915,Brooks Landfill,KS,Sedgwick
 916,Butler County Landfill,KS,Butler
 924,Coffey County LF,KS,Coffey
 928,Finney County Landfill / Western Plains Regional LF,KS,Finney
 929,Ford County Closed LF,KS,Ford
-930,Ford County Open LF,KS,Ford
 931,"Forest View Landfill, LLC",KS,Wyandotte
-935,Hamm SLF,KS,Jefferson
 936,Harvey County LF,KS,Harvey
-939,Johnson County LF,KS,Johnson
 941,Kiowa County Landfill,KS,Kiowa
-942,Kiowa County LF,KS,Kiowa
-944,Marion County LF,KS,Marion
 945,McPherson County Landfill,KS,McPherson
-946,Mitchell County LF,KS,Mitchell
 949,Oak Grove Landfill,KS,Crawford
 951,Phillips County LF,KS,Phillips
 952,Plumb Thicket Landfill,KS,Harper
 953,Pratt County LF,KS,Pratt
 956,Reno County MSWLF,KS,Reno
-957,Resource Recovery LF,KS,Montgomery
 958,Rolling Meadows LF,KS,Shawnee
 959,Rooks County LF,KS,Rooks
 961,Russell County LF,KS,Russell
-962,Salina MSWLF,KS,Saline
 963,Seward County Landfill,KS,Seward
 969,Trego County LF,KS,Trego
-971,Wheatland LF,KS,Cherokee
 972,Wichita County LF,KS,Wichita
 973,Advanced Disposal Morehead Landfill Inc.,KY,Rowan
-974,Bavarian Trucking Company LF,KY,Boone
-975,Benson Valley LF,KY,Franklin
 976,Big Run Landfill,KY,Boyd
 977,Blue Ridge RDF,KY,Estill
-978,Central Kentucky Landfill,KY,Scott
-979,City of Bowling Green LF,KY,Butler
-980,City of Hopkinsville LF,KY,Christian
-981,City of Owensboro LF,KY,Daviess
-983,"Cooksey Brothers Disposal Company, Inc. LF",KY,Boyd
-984,Dozit Company Inc. Landfill,KY,Union
 985,Epperson Waste Disposal,KY,Grant
 987,Glasgow Regional Landfill,KY,Barren
 988,Green Valley Landfill,KY,Greenup
-989,Haley Pike Landfill,KY,Fayette
 990,Hardin County Landfill,KY,Hardin
 991,Hopkins County Regional Landfill,KY,Hopkins
 992,Laurel Ridge Landfill Inc.,KY,Laurel
 994,Maysville-Mason County LF,KY,Mason
 996,Nelson County SWDF,KY,Nelson
 997,Ohio County Balefill Landfill,KY,Ohio
-998,Outer Loop RDF,KY,Jefferson
-1000,Pike County Landfill,KY,Pike
-1001,Pulaski Grading LF,KY,Pulaski
-1002,Rumpke/Montgomery County LF,KY,Montgomery
 1003,Rumpke/Pendleton County LF,KY,Pendleton
 1004,Southern Sanitation LF,KY,Logan
 1006,"Tri-K Landfill, Inc.",KY,Lincoln
 1007,Valley View LF,KY,Trimble
-1008,Waste Path Sanitary Landfill LLC,KY,Marshall
-1009,West Daviess County Landfill,KY,Daviess
 1010,West Kentucky Landfill,KY,Graves
-1011,Williams LF,KY,Spencer
 1012,Acadia Parish SLF,LA,Acadia
-1013,Area 90 LF,LA,Jefferson
-1014,Choctaw Road Landfill,LA,Washington
 1015,Colonial LF,LA,Ascension
 1016,Crescent Acres LF,LA,Orleans
 1017,East Baton Rouge Parish LF,LA,East Baton Rouge
-1018,EBR Parish North Landfill,LA,East Baton Rouge
-1019,Greater New Orleans LF,LA,Jefferson
 1020,"Harold J. ""Babe"" Landry LF",LA,St. Mary
-1021,IESI Timberlane Landfill,LA,Allen
 1022,Jefferson Davis Parish Landfill,LA,Jefferson Davis
-1023,Jefferson Parish SLF,LA,Jefferson
 1024,La Salle/Grant Parish SLF,LA,La Salle
 1027,Magnolia Landfill,LA,Ouachita
 1028,Mundy Landfill,LA,De Soto
 1029,N. Dugas LF,LA,Lafayette
-1030,Recovery I LF,LA,Orleans
 1031,"Reliable Landfill, LLC",LA,Pointe Coupee
-1032,River Birch Landfill,LA,Jefferson
 1033,Sabine Parish SLF,LA,Sabine
 1035,St. Landry Parish LF,LA,St. Landry
 1037,Tangipahoa Parish Regional Solid Waste Facility,LA,Tangipahoa
 1038,Tensas Parish LF,LA,Tensas
 1039,Terrebonne Parish LF,LA,Terrebonne
-1040,Union Parish SLF,LA,Union
 1041,Venice Landfill,LA,Plaquemines
-1042,Vermilion Parish Landfill,LA,Vermilion
-1043,Webster Parish LF,LA,Webster
 1044,West Carroll SLF,LA,West Carroll
-1045,White Oaks Landfill,LA,Ouachita
 1046,Woodland Hills LF,LA,Calcasieu
-1047,Woodside SLF & Recycling Center,LA,Livingston
 1048,Woolworth Road Landfill,LA,Caddo
 1049,Acushnet LF,MA,Bristol
 1050,Amherst LF,MA,Hampshire
-1051,"Attleboro Landfill, Incorporated",MA,Bristol
 1052,Barnstable LF,MA,Barnstable
 1053,Bondi Island Landfill,MA,Hampden
-1054,Bourne LF,MA,Barnstable
 1056,Carver-Marion-Wareham Landfill,MA,Plymouth
-1058,Chicopee Landfill (Republic),MA,Hampden
-1059,Chicopee Landfill (WMI),MA,Hampden
-1060,Crapo Hill LF,MA,Bristol
-1061,Dartmouth LF,MA,Plymouth
-1062,East Bridgewater LF,MA,Plymouth
-1063,Fall River Landfill,MA,Bristol
 1064,Fitchburg-Westminster LF,MA,Worcester
 1065,Gardner Street Landfill,MA,Suffolk
-1067,Granby SLF,MA,Hampshire
-1068,Greenwood Street LF,MA,Worcester
-1069,Halifax LF,MA,Plymouth
-1070,Hardwick Landfill,MA,Hampshire
 1071,Haverhill Landfill,MA,Essex
-1072,Hull Landfill,MA,Plymouth
-1073,Leicester LF,MA,Worcester
 1074,Lowell LF,MA,Middlesex
-1075,Marion LF,MA,Plymouth
-1076,Marshfield LF,MA,Plymouth
-1077,Martone Landfill,MA,Worcester
-1078,Middleborough Landfill,MA,Plymouth
 1079,Nantucket LF,MA,Nantucket
-1080,New Bedford LF,MA,Bristol
-1081,Northampton Landfill,MA,Hampshire
-1082,Otis Air Force Base LF,MA,Barnstable
-1083,Palmer LF,MA,Hampden
 1084,Plainville LF,MA,Norfolk
-1085,Quarry Hills Soils LF,MA,Norfolk
-1086,Randolph LF,MA,Norfolk
-1087,RCI Hudson/Stow LF,MA,Middlesex
-1089,South Hadley Landfill LLC,MA,Hampshire
-1091,Southbridge Recycling & Disposal Park,MA,Worcester
-1092,Sturbridge Landfill,MA,Worcester
-1093,Taunton SLF,MA,Bristol
-1094,Wayland LF,MA,Middlesex
-1095,West Street Landfill,MA,Worcester
-1098,Alpha Ridge SLF,MD,Howard
 1102,Beulah Municipal Landfill,MD,Dorchester
 1104,Brown Station Road Sanitary Landfill,MD,Prince George's
 1105,Cecil County Central Landfill,MD,Cecil
-1106,Central SLF,MD,Worcester
 1108,Charles County Landfill #2,MD,Charles
 1109,Eastern Sanitary Landfill Solid Waste Management Facility (ESL),MD,Baltimore
-1112,Forty West SLF,MD,Washington
 1113,Garrett County SWD and RF,MD,Garrett
 1114,Glen Burnie Landfill,MD,Anne Arundel
-1115,Gude LF,MD,Montgomery
 1117,Harford Waste Disposal Center,MD,Harford
-1120,Hoods Mill Road SLF,MD,Carroll
 1121,Midshore I - Regional Solid Waste Facility,MD,Talbot
 1122,Midshore II - Regional Solid Waste Facility,MD,Caroline
-1123,Millersville SLF,MD,Anne Arundel
 1124,Mountainview SLF,MD,Allegany
-1125,New Cut Landfill,MD,Howard
 1126,Newland Park SLF,MD,Wicomico
-1128,Norris Farms Landfill,MD,Baltimore
-1129,Northern SLF,MD,Carroll
-1130,Oaks SLF,MD,Montgomery
 1132,Pennington Avenue LF,MD,Baltimore city
-1133,Pisgah SLF,MD,Charles
-1135,Quarantine Road SLF,MD,Baltimore city
 1136,Reich's Ford Road SLF,MD,Frederick
-1137,Resh Road II SLF,MD,Washington
 1139,Saint Andrews SLF,MD,St. Mary's
-1140,Sandy Hill SLF,MD,Prince George's
-1142,Solley Road Landfill,MD,Anne Arundel
-1143,Sudley Road SLF,MD,Anne Arundel
 1144,Westover/Ring SLF,MD,Somerset
 1146,Bath LF,ME,Sagadahoc
 1147,Brunswick LF,ME,Cumberland
-1148,"Caratunks Forks, West Forks (CFWF) Landfill",ME,Somerset
-1150,Crossroads LF,ME,Somerset
 1151,Dolby Landfill,ME,Penobscot
-1152,ecomaine Landfill/Ashfill,ME,Cumberland
 1153,Hatch Hill LF,ME,Kennebec
-1154,Juniper Ridge Landfill,ME,Penobscot
 1155,Little Squaw LF,ME,Piscataquis
-1156,Pine Tree Landfill,ME,Penobscot
 1157,Presque Isle LF,ME,Aroostook
-1158,Regional Waste Systems LF,ME,Cumberland
-1161,Town of Dover-Foxcroft Landfill,ME,Piscataquis
-1163,Tri-Community LF,ME,Aroostook
 1165,Adrian Landfill,MI,Lenawee
 1166,Advanced Disposal Arbor Hills Landfill Inc.,MI,Washtenaw
-1167,Ann Arbor SLF Phase I & II,MI,Washtenaw
 1168,Autumn Hills Recycling & Disposal Facility,MI,Ottawa
 1169,Brent Run Landfill,MI,Genesee
-1170,C&C Landfill,MI,Calhoun
-1171,Carleton Farms Landfill,MI,Wayne
 1172,Cedar Ridge Recycling & Disposal Facility,MI,Charlevoix
 1173,"Central Sanitary Landfill, Inc.",MI,Montcalm
-1174,Cereal City Landfill,MI,Calhoun
-1175,Citizens Disposal Landfill,MI,Genesee
 1176,City of Midland Sanitary LF,MI,Midland
-1177,"City Sand & Landfill, Inc.",MI,Wayne
 1178,Dafter Sanitary Landfill Inc,MI,Chippewa
 1179,Delta County Landfill,MI,Delta
 1180,Eagle Valley RDF,MI,Oakland
 1181,Elk Run Sanitary Landfill,MI,Presque Isle
 1182,Forest Lawn Landfill,MI,Berrien
 1183,Glen's Sanitary Landfill Inc.,MI,Leelanau
-1184,Granger Grand River LF,MI,Clinton
-1185,Granger Wood Street Landfill,MI,Clinton
 1186,Hastings Sanitary Landfill,MI,Barry
 1188,Huron Landfill,MI,Huron
 1189,K&W LF,MI,Ontonagon
-1190,Kent County - South Kent LF,MI,Kent
-1191,Livingston County Landfill,MI,Livingston
-1192,Lyon Development LF,MI,Oakland
 1193,Manistee County LF,MI,Manistee
 1194,Marquette County SWL,MI,Marquette
-1195,McGill Road Landfill,MI,Jackson
 1196,Menominee Landfill,MI,Menominee
 1197,Montmorency-Oscoda-Alpena Landfill,MI,Montmorency
 1198,Muskegon County SWF,MI,Muskegon
 1199,Northern Oaks Recycling & Disposal Facility,MI,Clare
-1200,Oakland Heights Development Landfill,MI,Oakland
-1201,Orchard Hill SLF,MI,Berrien
-1202,Ottawa County Farms Landfill,MI,Ottawa
 1203,"People's Landfill, Inc.",MI,Saginaw
 1204,Pine Tree Acres LF Inc.,MI,Macomb
-1206,Richfield Landfill,MI,Genesee
-1207,Riverview Land Preserve,MI,Wayne
-1208,Saginaw Valley Landfill,MI,Saginaw
-1209,Sauk Trail Hills Landfill,MI,Wayne
-1210,Seymour Road Landfill,MI,Genesee
-1211,Smiths Creek Landfill,MI,St. Clair
-1212,Southeast Berrien County Landfill,MI,Berrien
 1214,Tri-City RDF,MI,Sanilac
 1215,Venice Park Recycling & Disposal Facility,MI,Shiawassee
-1216,Vienna Junction Landfill,MI,Monroe
-1217,Waters Landfill,MI,Crawford
-1218,Wayne Disposal LF,MI,Wayne
-1219,Westside Recycling and Disposal Facility,MI,St. Joseph
 1220,Wexford County Landfill,MI,Wexford
-1221,White Lake Landfill,MI,Muskegon
-1222,Whitefeather Landfill,MI,Bay
 1223,Wood Island Waste Management Inc.,MI,Alger
-1224,Woodland Meadows Landfill,MI,Wayne
 1225,Advanced Disposal Rolling Hills Landfill Inc.,MN,Wright
 1226,Albert Lea Landfill,MN,Freeborn
 1227,Anoka-Ramsey Sanitary LF,MN,Anoka
 1229,Blue Earth County/Ponderosa Sanitary Landfill,MN,Blue Earth
 1231,Burnsville SLF,MN,Dakota
-1232,Clay County SLF,MN,Clay
 1234,Crow Wing County SLF,MN,Crow Wing
 1235,East Central SLF (ECSWC),MN,Kanabec
 1236,Elk River SLF Inc.,MN,Sherburne
 1237,Flying Cloud SLF,MN,Hennepin
 1240,Kandiyohi County SLF,MN,Kandiyohi
-1242,Louisville Landfill,MN,Scott
 1243,Lyon County SLF,MN,Lyon
 1244,Mar-Kit Sanitary Landfill,MN,Kittson
 1245,Morrison County Landfill,MN,Morrison
 1246,Nobles County Landfill Inc.,MN,Nobles
 1247,Olmsted County/Kalmar LF,MN,Olmsted
-1248,Pine Bend Landfill,MN,Dakota
 1250,Rice County SLF,MN,Rice
 1251,Roseau County LF,MN,Roseau
 1252,Spruce Ridge Landfill,MN,McLeod
 1255,Steele County SLF,MN,Steele
-1256,Washington County Landfill,MN,Washington
-1257,Waste Disposal Engineering (WDE) SLF,MN,Anoka
 1258,WLSSD SLF,MN,St. Louis
-1259,Woodlake SLF,MN,Hennepin
-1262,Advanced Disposal Maple Hill Landfill Inc.,MO,Macon
-1263,Advanced Disposal Oak Ridge Landfill,MO,St. Louis
 1266,Backridge Landfill,MO,Lewis
-1268,Black Oak Landfill,MO,Wright
-1270,Bridgeton Landfill,MO,St. Louis
-1272,Butler County Landfill,MO,Butler
 1274,Central Missouri SLF,MO,Pettis
-1277,Champ Landfill,MO,St. Louis
 1278,City of Maryville Sanitary Landfill,MO,Nodaway
-1281,Columbia SLF,MO,Boone
-1282,"Courtney Ridge Landfill, LLC",MO,Jackson
-1286,Eagle Ridge Sanitary Landfill,MO,Pike
-1288,Ellis-Scott Landfill,MO,Henry
 1293,Fulton SLF,MO,Callaway
-1302,IESI Timber Ridge Landfill,MO,Washington
 1303,Jackson County Landfill,MO,Cape Girardeau
 1304,Jefferson City Sanitary Landfill,MO,Cole
-1305,Johnson County Landfill,MO,Johnson
-1311,Lamar Landfill,MO,Barton
-1312,Lee's Summit SLF,MO,Jackson
 1313,Lemons East Sanitary Landfill / Lemons West Landfill,MO,Stoddard
-1316,Midwest Landfill,MO,Franklin
-1319,Missouri Pass Landfill,MO,St. Louis
-1320,Moberly Municipal SLF,MO,Randolph
-1328,Newton McDonald County Landfill Inc.,MO,Newton
 1334,Plattco/Riverview,MO,Platte
-1335,Prairie Valley Landfill,MO,Crawford
-1336,Prairie View Regional Waste Facility,MO,Barton
-1337,Redbird Landfill,MO,Jefferson
-1339,Rumble Landfill #2,MO,Jackson
-1344,Show-Me Regional Landfill,MO,Johnson
-1345,Southeast SLF,MO,Jackson
-1346,Springfield Sanitary Landfill,MO,Greene
 1348,St. Joseph City SLF,MO,Buchanan
-1358,Wayne County Landfill,MO,Wayne
-1364,Woods Chapel SLF,MO,Jackson
-1366,Big River Landfill,MS,Washington
 1367,Byram Landfill,MS,Hinds
 1368,Central Landfill,MS,Pearl River
-1369,City of Canton SLF,MS,Madison
 1370,City of Durant LF,MS,Holmes
-1371,City of Louisville Solid Waste Landfill,MS,Winston
-1372,Clearview Environmental Control Facility,MS,Scott
 1374,Golden Triangle Regional Landfill,MS,Oktibbeha
 1375,Gulf Pines LF,MS,Harrison
-1378,Jefferson County LF,MS,Jefferson
 1379,Kemper County Solid Waste Landfill,MS,Kemper
 1380,Leflore County Landfill,MS,Leflore
-1381,Little Dixie Landfill,MS,Madison
-1382,MacLand Landfill,MS,Jackson
 1383,Northeast Mississippi Regional Landfill,MS,Tippah
-1384,Pecan Grove Sanitary Landfill,MS,Harrison
-1385,Pine Belt Regional Landfill,MS,Perry
-1386,Pine Ridge Sanitary Landfill,MS,Lauderdale
-1387,Plantation Oaks Sanitary Landfill,MS,Adams
 1388,Pleasant Hills,MS,DeSoto
 1389,Prairie Bluff Sanitary Landfill,MS,Chickasaw
 1390,Three Rivers Regional Landfill,MS,Pontotoc
@@ -979,12 +464,9 @@
 1393,Billings City Landfill,MT,Yellowstone
 1395,City of Bozeman SLF,MT,Gallatin
 1404,Flathead County Landfill,MT,Flathead
-1405,Gallatin County Logan Landfill,MT,Gallatin
 1406,High Plains SLF,MT,Cascade
-1408,Lake County Landfill,MT,Lake
 1409,Lewis & Clark County Landfill,MT,Lewis and Clark
 1412,Missoula Landfill,MT,Missoula
-1421,Valley View Landfill,MT,Lewis and Clark
 1422,Alamance County Landfill,NC,Alamance
 1423,Alexander County Landfill,NC,Alexander
 1425,Anderson Creek LF Harnett County,NC,Harnett
@@ -994,13 +476,10 @@
 1432,Blackburn SLF,NC,Catawba
 1434,Brunswick County LF,NC,Brunswick
 1435,Buncombe County New Landfill,NC,Buncombe
-1436,Buncombe County Old Landfill,NC,Buncombe
 1437,Caldwell County Mt. Herman Landfill,NC,Caldwell
 1438,Canton LF-Haywood County,NC,Haywood
 1440,Caswell County LF,NC,Caswell
 1441,Charlotte Motor Speedway Landfill V,NC,Cabarrus
-1442,Chatham County LF,NC,Chatham
-1443,Cherokee County Landfill,NC,Cherokee
 1445,City of Albemarle LF,NC,Stanly
 1446,City of Durham SLF,NC,Durham
 1447,City of Greensboro White Street Landfill,NC,Guilford
@@ -1008,516 +487,231 @@
 1450,Cliffside South Rutherford County LF,NC,Rutherford
 1451,"Columbus County, ARS",NC,Columbus
 1452,Craven County LF,NC,Craven
-1453,Cumberland County Ann Street Landfill,NC,Cumberland
 1456,Davidson County LF,NC,Davidson
 1457,Davie County LF,NC,Davie
 1459,East Carolina Regional LF,NC,Bertie
 1461,Edgecombe County LF,NC,Edgecombe
 1462,Feltonsville Sanitary Landfill,NC,Wake
-1463,Foothills Environmental Landfill,NC,Caldwell
-1464,Franklin County LF,NC,Franklin
 1465,Gaston County LF,NC,Gaston
 1467,Granville County LF 1,NC,Granville
-1468,Great Oak Landfill,NC,Randolph
-1469,Greene County Landfill,NC,Greene
-1470,Hanes Mill Road Landfill,NC,Forsyth
-1471,Harnett County LF,NC,Harnett
-1472,Haywood County LF,NC,Haywood
-1473,Haywood County White Oak LF,NC,Haywood
 1474,Henderson County LF,NC,Henderson
 1475,Hertford County LF,NC,Hertford
 1476,Hoke County LF,NC,Hoke
 1477,Iredell County LF,NC,Iredell
 1480,Johnston County MSW LF,NC,Johnston
 1481,Jones County LF,NC,Jones
-1482,Kersey Valley Landfill,NC,Guilford
-1483,Lee County LF,NC,Lee
 1484,Lenoir County LF,NC,Lenoir
-1485,Lincoln County Landfill,NC,Lincoln
-1486,Macon County LF,NC,Macon
-1487,Madison County LF 1,NC,Madison
-1488,Madison County LF 2,NC,Madison
 1489,McDowell County LF,NC,McDowell
 1490,Mecklenburg County LF,NC,Mecklenburg
 1492,Moore County LF,NC,Moore
 1493,Nash County LF,NC,Nash
 1494,New Hanover County Secure Landfill,NC,New Hanover
-1495,Newton LF,NC,Catawba
-1496,North Wake County Landfill,NC,Wake
 1497,Northampton County LF,NC,Northampton
 1498,Onslow County LF,NC,Onslow
-1499,Orange County Regional Landfill,NC,Orange
 1501,Pasquotank County LF,NC,Pasquotank
-1504,Piedmont SLF,NC,Forsyth
 1505,Pitt County LF,NC,Pitt
-1506,Polk County LF,NC,Polk
-1507,Randolph County SWF,NC,Randolph
-1508,Richmond County LF,NC,Richmond
-1509,Riverdale Landfill,NC,Guilford
 1510,Robeson County LF,NC,Robeson
 1511,Rockingham County LF,NC,Rockingham
-1512,Rowan County LF,NC,Rowan
-1513,"Rowland Landfill, Inc.",NC,Wake
-1515,Rutherford County LF,NC,Rutherford
 1516,"Sampson County Disposal, LLC",NC,Sampson
-1517,Sampson County LF,NC,Sampson
 1518,Scotland County LF,NC,Scotland
-1520,South Wake LF (New),NC,Wake
 1521,Stokes County LF,NC,Stokes
 1522,Surry County LF 1 & LF 3,NC,Surry
-1523,Surry County LF 2,NC,Surry
 1524,Swain County LF,NC,Swain
-1525,Swepsonville LF,NC,Alamance
-1526,Thomasville LF-Davidson County,NC,Davidson
 1527,Transylvania County SLF,NC,Transylvania
-1528,Tuscarora Long-Term Regional Landfill,NC,Craven
-1529,Union County LF,NC,Union
 1530,Upper Piedmont Regional Landfill,NC,Person
-1531,US Army Fort Bragg Landfill,NC,Cumberland
-1532,US Marine Corps Base Camp Lejeune,NC,Onslow
-1533,Uwharrie Environmental Regional LF,NC,Montgomery
 1534,Vance County LF,NC,Vance
 1536,Watauga County Landfill,NC,Watauga
-1537,Wayne County LF,NC,Wayne
-1539,Wilder's Grove Landfill,NC,Wake
 1541,Wilkes County LF 2,NC,Wilkes
 1542,Wilson County LF,NC,Wilson
 1543,Yancey/Mitchell County LF,NC,Yancey
-1546,City of Fargo Landfill,ND,Cass
 1547,City of Minot LF,ND,Ward
 1548,Dakota MSW Landfill,ND,Sargent
 1550,Grand Forks Active Landfill,ND,Grand Forks
-1551,Grand Forks Landfill,ND,Grand Forks
-1554,McDaniel Landfill,ND,Ward
 1559,Alliance Disposal Area LF,NE,Box Butte
 1560,Beatrice Disposal Area LF,NE,Gage
 1561,Bluff Road Landfill,NE,Lancaster
-1562,Butler County Landfill Inc.,NE,Butler
-1564,"Community Refuse Disposal, Incorporated - Norfolk",NE,Madison
-1565,Douglas County Landfill,NE,Douglas
-1566,Douglas County Recycling and Disposal Facility LF,NE,Douglas
 1567,Fremont Landfill,NE,Dodge
-1568,G&P Development Inc. Landfill,NE,Seward
-1570,Grand Island Regional Landfill,NE,Hall
-1571,Hastings SLF,NE,Adams
 1572,Holdrege Prairie Hill Landfill,NE,Phelps
 1573,J Bar J Landfill,NE,Perkins
 1574,Kearney Area Solid Waste Agency Landfill,NE,Buffalo
-1576,L.P. Gill LF,NE,Dakota
 1577,Lexington Area Solid Waste Agency Landfill,NE,Dawson
 1580,NNSWC LF,NE,Stanton
-1581,North 48th Street Landfill,NE,Lancaster
-1582,North Platte Disposal Area LF,NE,Lincoln
 1583,Otoe County LF,NE,Otoe
-1584,Plattsmouth LF,NE,Cass
 1585,Sarpy County SLF,NE,Sarpy
 1586,Scottsbluff Disposal LF,NE,Scotts Bluff
 1590,York County LF,NE,York
 1595,City of Keene Landfill,NH,Cheshire
 1596,Colebrook Landfill,NH,Coos
 1597,Concord Suncook Road Landfill Pre-1981,NH,Merrimack
-1601,Dunbarton LF,NH,Hillsborough
 1602,Durham Primary Landfill,NH,Strafford
-1603,Effingham Municipal Sanitary Landfill,NH,Carroll
-1604,Errol Municipal Landfill,NH,Coos
-1606,Former Dover Municipal Landfill,NH,Strafford
-1607,Four Hills Landfill,NH,Hillsborough
-1610,Hampton Municipal Landfill,NH,Rockingham
-1615,Kingston Landfill,NH,Rockingham
 1616,Laconia Disposal Gardens,NH,Belknap
 1617,Lebanon Regional Solid Waste Facility,NH,Grafton
-1618,Loudon Municipal Landfill,NH,Merrimack
-1620,Manchester Dunbarton Road Landfill,NH,Hillsborough
-1621,Merrimack Landfill,NH,Hillsborough
-1622,Milford Municipal Landfill,NH,Hillsborough
-1623,Milton Municipal Landfill,NH,Strafford
-1624,Mount Carberry Landfill,NH,Coos
-1627,North Country Environmental Services LF,NH,Grafton
-1629,Raymond Municipal Landfill,NH,Rockingham
-1631,Sandwich Municipal Landfill,NH,Carroll
-1632,Shelburne Municipal Landfill,NH,Coos
-1633,Tamworth Landfill,NH,Carroll
-1634,Thornton Municipal Landfill,NH,Grafton
-1636,Tuftonboro Landfill,NH,Carroll
-1637,Turnkey Recycling and Environmental Enterprise (TREE),NH,Strafford
-1638,Wakefield Landfill,NH,Carroll
 1639,Atlantic County Utilities Authority Landfill,NJ,Atlantic
 1640,Burlington County SLF,NJ,Burlington
 1641,Cape May County MUA Secure Landfill,NJ,Cape May
-1642,Cumberland County SWC,NJ,Cumberland
-1644,Edgeboro LF,NJ,Middlesex
-1645,Edison Township SLF,NJ,Middlesex
 1647,Gloucester County Solid Waste Complex,NJ,Gloucester
 1653,Kingsland Landfill,NJ,Bergen
-1654,Kinsley's LF,NJ,Gloucester
-1655,L & D LF,NJ,Burlington
-1656,Linden City SLF,NJ,Union
-1657,Middlesex County LF,NJ,Middlesex
 1658,Monmouth County Reclamation Center,NJ,Monmouth
-1659,NJMC 1-E Landfill,NJ,Bergen
 1660,Ocean County LF,NJ,Ocean
-1661,Parklands Reclamation Project,NJ,Burlington
-1662,Pennsauken SLF,NJ,Camden
-1663,Pinelands Park LF,NJ,Atlantic
 1664,Salem County SLF,NJ,Salem
-1665,Sussex County LF 1-E,NJ,Sussex
 1666,Warren County District Landfill,NJ,Warren
 1667,Caja del Rio Landfill,NM,Santa Fe
 1668,Camino Real Landfill,NM,Dona Ana
 1669,Cerro Colorado LF,NM,Bernalillo
 1670,Clovis Regional Solid Waste Facility,NM,Curry
-1671,Corralitos Regional Landfill,NM,Dona Ana
 1673,Lea County Landfill,NM,Lea
 1674,Los Alamos County LF,NM,Los Alamos
-1675,Los Angeles Landfill,NM,Bernalillo
 1676,Northeastern New Mexico Regional Landfill,NM,Mora
 1677,Otero/Greentree Regional Landfill,NM,Otero
 1678,Rio Rancho Landfill,NM,Sandoval
 1679,San Juan County Regional Landfill,NM,San Juan
 1680,Sand Point Landfill,NM,Eddy
-1681,Sandoval County Landfill,NM,Sandoval
-1683,Apex Regional LF,NV,Clark
 1684,Battle Mountain Sanitary Landfill,NV,Lander
-1685,Boulder City LF,NV,Clark
 1686,Carson City Sanitary Landfill,NV,Carson City
 1687,City of Elko Municipal Landfill,NV,Elko
-1688,Crestline Sanitary Landfill,NV,Lincoln
 1690,Ely Sanitary Landfill,NV,White Pine
 1691,Eureka Sanitary Landfill,NV,Eureka
 1692,Goldfield Sanitary Landfill,NV,Esmeralda
 1693,Hawthorne Sanitary Landfill,NV,Mineral
-1694,Laughlin Landfill,NV,Clark
 1695,Lockwood Regional LF,NV,Storey
-1696,Mesquite Sanitary Landfill,NV,Lincoln
 1700,Pahrump Valley Sanitary Landfill,NV,Nye
 1701,Pershing County Sanitary Landfill,NV,Pershing
-1702,Round Mountain Sanitary Landfill,NV,Nye
 1703,Russell Pass Sanitary Landfill,NV,Churchill
-1704,Sunrise Landfill,NV,Clark
-1705,Tonopah Sanitary Landfill,NV,Nye
-1706,Tonopah Test Range Sanitary Landfill,NV,Nye
-1709,Al Turi LF,NY,Orange
 1710,Albany Landfill,NY,Albany
-1711,Allegany County LF,NY,Allegany
 1712,Auburn SLF #1 & #2,NY,Cayuga
 1714,Ava Landfill,NY,Oneida
-1715,Blydenburgh Road Landfill,NY,Suffolk
 1716,Bristol Hill SLF,NY,Oswego
-1717,Brookfield Avenue Landfill,NY,Richmond
-1718,Brookhaven LF,NY,Suffolk
 1719,Broome County Landfill,NY,Broome
 1721,Chaffee LF,NY,Erie
 1722,Chautauqua County Landfill,NY,Chautauqua
 1723,Chemung County Landfill,NY,Chemung
 1725,Chenango County Landfill,NY,Chenango
-1727,City of Gloversville Landfill,NY,Fulton
 1728,Clifton Park LF,NY,Saratoga
-1729,Clinton County Regional Landfill,NY,Clinton
 1730,Cortland County SLF,NY,Cortland
 1731,Croton Point Landfill,NY,Westchester
-1733,DANC Solid Waste Management Facility,NY,Jefferson
 1734,Delaware County LF,NY,Delaware
-1738,East Northport SLF,NY,Suffolk
 1740,Edgemere SLF,NY,Queens
-1743,Former Town of Babylon Landfill,NY,Suffolk
-1745,Fountain Avenue LF,NY,Kings
-1746,Franklin County Regional Landfill,NY,Franklin
-1747,Fresh Kills SLF,NY,Richmond
-1748,Fulton County LF,NY,Fulton
-1749,Green Ridge Landfill,NY,Saratoga
 1750,Haverstraw SLF,NY,Rockland
-1751,High Acres LF and Recycling Center,NY,Monroe
-1753,Hyland LF,NY,Allegany
-1756,Madison County Landfill,NY,Madison
-1758,Mill Seat LF,NY,Monroe
 1759,Modern Landfill Inc,NY,Niagara
 1760,Mohawk Valley SLF,NY,Herkimer
-1761,Monroe Livingston SLF,NY,Livingston
 1763,New Bath Landfill,NY,Steuben
-1764,Niagara Falls Landfill,NY,Niagara
-1765,Niagara Landfill,NY,Erie
-1767,North Sea LF,NY,Suffolk
-1769,Oceanside LF,NY,Nassau
 1771,Ontario County SLF,NY,Ontario
-1772,Orange County LF,NY,Orange
-1776,Philipstown SLF,NY,Putnam
-1777,"Port Washington LF, L-5",NY,Nassau
-1778,Queensbury LF,NY,Warren
-1780,Saratoga Springs LF,NY,Saratoga
 1782,Seneca Meadows SWMF,NY,Seneca
-1783,Smithtown Municipal Services Facility,NY,Suffolk
-1784,Sullivan County LF,NY,Sullivan
-1786,Tonawanda Landfill,NY,Erie
-1787,Town of Colonie SLF,NY,Albany
 1790,Troy SLF,NY,Rensselaer
-1791,Village of Lake George Landfill,NY,Warren
-1793,Watertown Landfill,NY,Jefferson
-1795,Akron Regional Landfill,OH,Summit
 1796,American LF,OH,Stark
-1797,Apex Sanitary Landfill,OH,Jefferson
 1799,Athens-Hocking Reclamation Center,OH,Athens
-1800,Bedford #1 and #2 LFs,OH,Franklin
-1801,Beech Hollow SLF,OH,Jackson
-1802,Bigfoot Run Landfill,OH,Warren
-1803,Bobmeyer Road MSW Landfill,OH,Butler
 1805,Carbon Limestone LF,OH,Mahoning
 1806,Celina Landfill,OH,Mercer
-1807,"Central Waste, Inc. LF",OH,Mahoning
-1808,"Cherokee Run Landfill, Inc.",OH,Logan
 1809,City of Brooklyn LF,OH,Cuyahoga
-1811,City of Xenia LF,OH,Greene
-1812,CLD Landfill,OH,Mahoning
-1813,Cleveland Land Development LF,OH,Cuyahoga
 1814,"Coshocton Landfill, Inc.",OH,Coshocton
 1815,County Environmental Landfill of Wyandot,OH,Wyandot
-1816,Countywide Recycling & Disposal LF,OH,Stark
-1817,Crawford County Sanitary LF,OH,Crawford
-1818,Cuyahoga Regional Sanitary LF,OH,Cuyahoga
 1819,Defiance County Landfill,OH,Defiance
-1820,Duck Creek,OH,Washington
 1821,"East Liverpool LF, Inc.",OH,Columbiana
 1822,ELDA RDF,OH,Hamilton
-1823,Erie County SLF,OH,Erie
 1824,Evergreen Recycling & Disposal LF,OH,Wood
-1826,Franklin County SLF,OH,Franklin
 1827,Gallia County LF,OH,Gallia
 1828,Geneva Landfill,OH,Ashtabula
-1829,Glenwillow Landfill,OH,Cuyahoga
 1830,Hancock County Sanitary LF,OH,Hancock
-1831,Henry County LF,OH,Henry
 1832,Hoffman Road Sanitary LF,OH,Lucas
-1833,Holmes County LF,OH,Holmes
-1834,Huron County LF,OH,Huron
 1835,Kimble Sanitary LF,OH,Tuscarawas
 1836,Lake County Recycling and Disposal Facility,OH,Geauga
-1837,Lake County SWF,OH,Lake
 1838,Lorain County Landfill I & II,OH,Lorain
-1839,Mahoning LF,OH,Mahoning
-1840,Middletown City LF,OH,Butler
-1841,Model Landfill,OH,Franklin
-1842,Mt. Eaton East Landfill,OH,Wayne
 1843,Muskingum,OH,Muskingum
 1844,Noble Road LF,OH,Richland
-1845,North Sanitary Landfill,OH,Montgomery
-1846,Ottawa County LF,OH,Ottawa
-1847,Pike Sanitation LF,OH,Pike
-1848,Pine Grove Landfill,OH,Fairfield
 1849,Preble County SLF,OH,Preble
-1850,Putnam County LF,OH,Putnam
-1851,Royalton Road Sanitary LF,OH,Cuyahoga
 1852,Rumpke Brown County Landfill,OH,Brown
-1853,"Rumpke SLF, Inc.",OH,Hamilton
-1854,Seneca East Landfill,OH,Seneca
-1855,Springfield Landfill,OH,Clark
-1856,State Wide LF,OH,Stark
-1857,Stony Hollow Landfill Inc.,OH,Montgomery
-1858,Suburban South R&D,OH,Perry
-1859,"Sunny Farms Landfill, LLC",OH,Seneca
-1860,Tremont LF,OH,Clark
 1861,"Triangle Landfill, Inc.",OH,Ross
-1862,Tunnel Hill Reclamation Landfill,OH,Perry
 1863,Williams County LF,OH,Williams
 1864,Willowcreek Landfill,OH,Portage
-1865,Wilmington Sanitary LF,OH,Clinton
-1866,Wood County Landfill,OH,Wood
 1867,"Absolute Waste Solutions, Inc. Landfill",OK,Pottawatomie
 1868,Alderson Regional Landfill,OK,Pittsburg
 1869,American Environmental Landfill,OK,Osage
 1870,Broken Arrow LF,OK,Wagoner
-1871,Canadian Valley Landfill,OK,Pottawatomie
-1872,Center Point Landfill,OK,Lincoln
 1873,Cherokee Nation SLF,OK,Adair
 1876,City of Okmulgee Landfill,OK,Okmulgee
 1877,City of Sallisaw Solid Waste Disposal Facility,OK,Sequoyah
 1878,East Oak SLF,OK,Oklahoma
-1880,Enid City Landfill,OK,Garfield
-1881,Fillsand Landfill,OK,Oklahoma
 1882,Great Plains Landfill,OK,Grady
 1883,Lawton LF,OK,Comanche
 1885,Muskogee Community LF,OK,Muskogee
 1886,Newcastle Landfill,OK,McClain
-1889,Oklahoma City Landfill,OK,Oklahoma
 1890,Oklahoma Environmental Management Authority (OEMA) Landfill,OK,Canadian
-1891,Osage Landfill,OK,Osage
 1893,Perkins,OK,Payne
 1894,Ponca City Landfill,OK,Kay
-1895,Porter Landfill,OK,Wagoner
 1896,Quarry LF,OK,Tulsa
 1897,Red Carpet Landfill Inc.,OK,Major
-1899,Sooner Landfill,OK,Seminole
-1900,Southeast OKC Landfill,OK,Oklahoma
 1901,Southern OK Regional Disposal LF,OK,Carter
-1902,Southern Plains Landfill,OK,Grady
-1903,Stillwater Sanitary Landfill,OK,Payne
 1908,Coffin Butte LF,OR,Benton
 1909,Columbia Ridge LF,OR,Gilliam
 1910,Crook County Landfill,OR,Crook
-1911,Dry Creek Landfill,OR,Jackson
 1912,Finley Buttes Regional Landfill,OR,Morrow
 1915,Klamath Falls LF,OR,Klamath
 1916,Knott Landfill,OR,Deschutes
 1920,"Riverbend Landfill Company, Inc.",OR,Yamhill
-1921,Roseburg LF,OR,Douglas
 1922,Rossman's Landfill,OR,Clackamas
 1923,Short Mountain LF,OR,Lane
-1924,South Stage Landfill,OR,Jackson
 1925,St. Johns LF,OR,Multnomah
 1927,Wasco County Landfill,OR,Wasco
-1928,"Adams Sanitation Company, Inc. Landfill",PA,Adams
-1929,"Advanced Disposal Chestnut Valley Landfill, Inc.",PA,Fayette
 1930,Advanced Disposal Greentree Landfill,PA,Elk
 1931,Advanced Disposal Services Sandy Run Landfill,PA,Bedford
 1932,Alliance SLF,PA,Lackawanna
-1933,Amity LF Environmental & Recycling Services,PA,Lackawanna
-1934,Arden LF,PA,Washington
-1935,Bethlehem Landfill,PA,Northampton
-1936,Blue Ridge Landfill,PA,Franklin
 1937,Bradford County Landfill,PA,Bradford
-1939,Chrin Brothers LF,PA,Northampton
 1940,Commonwealth Environmental Systems (CES) LF,PA,Schuylkill
 1941,Conestoga LF,PA,Berks
 1943,County Environmental Landfill of Clarion,PA,Clarion
-1944,Cumberland County LF,PA,Cumberland
 1945,Dauphin Meadows LF,PA,Dauphin
 1948,Evergreen Landfill,PA,Indiana
 1949,Fairless Landfill,PA,Bucks
-1951,Frey Farm-Creswell LF,PA,Lancaster
-1952,Grand Central SLF,PA,Northampton
 1953,Greater Lebanon Refuse Authority LF,PA,Lebanon
 1954,Greenridge Reclamation Landfill,PA,Westmoreland
-1955,GROWS Landfill,PA,Bucks
 1957,Imperial Sanitary Landfill,PA,Allegheny
 1958,J.J. Brunner LF,PA,Beaver
-1959,Kelly Run SLF,PA,Allegheny
-1961,"Keystone Sanitary Landfill, Inc.",PA,Lackawanna
-1964,Lake View LF,PA,Erie
-1965,Lanchester LF,PA,Lancaster
 1967,Laurel Highlands LF,PA,Cambria
 1969,Lycoming County Landfill,PA,Lycoming
-1972,Mazzaro LF,PA,Allegheny
 1973,McKean County LF,PA,McKean
 1974,Mifflin County Solid Waste Authority LF,PA,Mifflin
-1975,Modern LF,PA,York
-1977,Monroeville LF,PA,Allegheny
-1979,"Mostoller Landfill, Inc.",PA,Somerset
-1980,Mountain View Reclamation Landfill,PA,Franklin
-1981,Northwest SLF,PA,Butler
-1982,Pine Grove Landfill Inc.,PA,Schuylkill
-1983,Pioneer Crossing LF,PA,Berks
-1984,Pottstown LF,PA,Montgomery
-1986,Rolling Hills LF,PA,Berks
 1989,SECCRA Community Landfill,PA,Chester
-1990,Seneca Landfill Inc.,PA,Butler
-1991,Shade Landfill,PA,Somerset
-1992,South Hills Landfill,PA,Allegheny
-1993,Southern Alleghenies LF,PA,Somerset
-1995,Tullytown LF,PA,Bucks
-1996,Valley LF,PA,Westmoreland
-1998,Wayne Township LF,PA,Clinton
-1999,Western Berks Community Landfill & Recycling Center,PA,Berks
-2000,Westmoreland Waste SLF LLC,PA,Westmoreland
-2001,York County SLF,PA,York
 2035,Central LF,RI,Providence
-2036,Cranston Sanitary Landfill,RI,Providence
 2037,Tiverton Landfill #2,RI,Newport
 2043,Anderson Regional Landfill,SC,Anderson
 2046,Bees Ferry Road Subtitle D LF,SC,Charleston
 2047,Berkeley County Subtitle D LF,SC,Berkeley
 2048,Blackberry Valley Landfill,SC,Greenville
-2049,Cherokee County Landfill,SC,Cherokee
-2050,Chester County Landfill,SC,Chester
-2051,City of Greenville Closed Landfill,SC,Greenville
 2053,Croft Landfill,SC,Spartanburg
-2054,Enoree Landfill,SC,Greenville
 2057,Georgetown County Subtitle D LF,SC,Georgetown
 2058,Greenwood County Landfills,SC,Greenwood
-2059,Hickory Hill MSWLF,SC,Jasper
 2060,Highway 321 Lexington County Landfill,SC,Lexington
 2061,Horry County SWA Landfill,SC,Horry
 2062,Kershaw County Landfill,SC,Kershaw
 2064,Langley Landfill,SC,Aiken
-2066,"Lee County LF, LLC",SC,Lee
-2067,Lexington County Edmund Facility,SC,Lexington
-2068,Northeast Sanitary Landfill,SC,Richland
-2069,Oakridge Landfill Inc.,SC,Dorchester
-2071,Palmetto Landfill,SC,Spartanburg
-2074,Richland County Landfill,SC,Richland
-2075,Richland County Landfill (closed),SC,Richland
 2077,Seneca MSWLF,SC,Oconee
-2078,Starr Sanitary Landfill,SC,Anderson
-2079,Sumter County MSW LF,SC,Sumter
-2080,Three Rivers Regional Subtitle D MSWLF,SC,Aiken
-2081,Twin Chimneys Landfill,SC,Greenville
-2082,Union County Regional MSW Landfill,SC,Union
-2083,Wellford LF,SC,Spartanburg
 2085,Williamsburg County MSWLF,SC,Williamsburg
-2086,York County LF,SC,York
 2087,Brookings Regional Landfill,SD,Brookings
-2088,Brown County Landfill,SD,Brown
 2089,City of Mitchell Landfill,SD,Davison
 2090,Pierre Landfill,SD,Hughes
 2091,Rapid City Landfill,SD,Pennington
 2092,Sioux Falls Regional Sanitary Landfill (SFRSL),SD,Minnehaha
 2093,Tri-County Landfill,SD,Brule
-2094,Vermillion Landfill,SD,Clay
 2095,Watertown Regional Landfill,SD,Codington
-2096,Alcoa/ Maryville/ Blount County Landfill,TN,Blount
-2097,Bi-County LF,TN,Montgomery
 2100,Bolivar-Hardeman County LF,TN,Hardeman
-2101,Bordeaux Landfill,TN,Davidson
 2102,Bradley County LF,TN,Bradley
 2106,Carter Valley Landfill,TN,Hawkins
-2109,Cedar Ridge LF,TN,Marshall
 2110,Cheatham County LF,TN,Cheatham
-2112,Chestnut Ridge LF,TN,Anderson
-2113,City of Chattanooga Landfill,TN,Hamilton
 2117,Cocke County LF,TN,Cocke
-2120,Cumberland County LF,TN,Cumberland
-2124,Decatur County LF,TN,Decatur
-2125,DeKalb County LF,TN,DeKalb
 2128,Dyersburg City LF,TN,Dyer
-2130,Eco-Safe Landfill,TN,Sullivan
-2133,Fayette County LF,TN,Fayette
-2137,Franklin County LF,TN,Franklin
 2140,Gratio LF,TN,Obion
-2141,Greeneville/Greene County LF,TN,Greene
-2155,Iris Glen Environmental Center,TN,Washington
-2156,Jackson-Madison County Landfill,TN,Madison
-2157,Jefferson County LF,TN,Jefferson
-2161,Johnson City Regional LF,TN,Washington
 2164,Lakeway Sanitation & Recycling Class I,TN,Hamblen
-2165,Lauderdale County LF,TN,Lauderdale
-2166,Lawrenceburg City/County Balefill,TN,Lawrence
-2170,Marion County LF,TN,Marion
 2172,Matlock Bend Landfill,TN,Loudon
 2175,McMinn County LF,TN,McMinn
-2178,Meadow Branch Landfill,TN,McMinn
-2179,Middle Point Landfill,TN,Rutherford
 2181,Milan City LF,TN,Gibson
-2184,Morristown Balefill Landfill,TN,Hamblen
-2186,North Shelby Landfill,TN,Shelby
-2188,Northwest Tennessee Landfill,TN,Obion
 2192,Pickett County LF,TN,Pickett
 2193,Pulaski City LF,TN,Giles
-2195,Quail Hollow LF,TN,Bedford
 2198,Rhea County LF,TN,Rhea
 2199,Roane County Solid Waste Authority,TN,Roane
-2201,Rutherford County LF,TN,Rutherford
 2205,"Sevier Solid Waste, Incorporated",TN,Sevier
-2206,Shelby County Millington LF,TN,Shelby
 2207,Smith County LF,TN,Smith
-2209,South Shelby Landfill,TN,Shelby
-2210,Summit Landfill,TN,Hamilton
-2211,Sykes Road,TN,Shelby
-2214,Twin Oaks,TN,Knox
-2216,Upper Cumberland LF,TN,Clay
-2219,Volunteer Regional Landfill,TN,Scott
-2221,West Camden Sanitary Landfill,TN,Benton
-2222,White County LF,TN,White
 2223,Williamson County LF,TN,Williamson
 2225,121 Regional Disposal Facility,TX,Collin
-2226,Abilene Environmental Landfill,TX,Jones
-2227,Abilene Regional Landfill,TX,Jones
 2228,Altair Disposal Services LLC,TX,Colorado
 2229,Angelina County Waste Management Center,TX,Angelina
 2230,Arlington LF,TX,Tarrant
@@ -1525,9 +719,6 @@
 2232,Austin Community RDF,TX,Travis
 2233,Baytown Landfill,TX,Chambers
 2234,Bell County/Sparks LF,TX,Bell
-2236,Bellfort Boulevard Landfill,TX,Harris
-2239,Blossom Prairie Landfill,TX,Lamar
-2240,Blue Bonnet LF,TX,Harris
 2241,Blue Ridge LF,TX,Fort Bend
 2242,Brownsville Municipal Landfill,TX,Cameron
 2243,C&T Regional Landfill,TX,Hidalgo
@@ -1537,138 +728,56 @@
 2247,Charles M Hinton Jr Regional Landfill,TX,Dallas
 2248,Charter Waste Landfill,TX,Ector
 2249,City of Amarillo Landfill,TX,Potter
-2250,City of Beaumont LF,TX,Jefferson
-2251,City of Brownwood Landfill,TX,Brown
-2253,City of Conroe LF,TX,Montgomery
 2254,City of Corsicana LF,TX,Navarro
-2255,City of Denton Landfill,TX,Denton
-2256,City of Edinburg Landfill,TX,Hidalgo
-2257,City of Fort Worth Southeast Landfill,TX,Tarrant
-2258,City of Garland Castle Drive Landfill,TX,Dallas
-2259,City of Grand Prairie LF,TX,Dallas
 2260,City of Kingsville Landfill,TX,Kleberg
 2261,City of Laredo LF,TX,Webb
-2263,City of Midland MSW Landfill,TX,Midland
 2264,City of Nacogdoches Landfill,TX,Nacogdoches
 2266,City of Pampa LF,TX,Gray
 2267,City of Perryton Landfill,TX,Ochiltree
-2268,City of Port Arthur Landfill,TX,Jefferson
 2270,City of Snyder Landfill,TX,Scurry
 2271,City of Sweetwater LF,TX,Nolan
 2272,City of Victoria Landfill,TX,Victoria
 2273,City of Waco LF,TX,McLennan
-2274,City of Wichita Falls LF,TX,Wichita
-2275,Clint Landfill,TX,El Paso
 2276,Coastal Plains RDF,TX,Galveston
-2277,Colorado City Landfill,TX,Mitchell
 2278,Covel Gardens RDF,TX,Bexar
 2279,CSC Disposal and Landfill,TX,Ellis
-2280,DFW Recycling & Disposal Facility,TX,Denton
-2281,Eastside Landfill,TX,Tarrant
-2282,ECD Landfill,TX,Ellis
-2284,El Centro Landfill,TX,Nueces
-2286,FM 812 Landfill,TX,Travis
-2287,Fort Bend County Landfill,TX,Fort Bend
-2288,Fort Bend Regional Landfill,TX,Fort Bend
-2289,Fort Bliss Municipal Solid Waste Landfill,TX,El Paso
 2290,Fort Hood Landfill,TX,Coryell
-2291,Fort Worth Regional LF,TX,Tarrant
-2292,Galveston County LF,TX,Galveston
-2293,Golden Triangle Landfill,TX,Jefferson
-2294,Greenwood Farms Landfill,TX,Smith
 2297,Hillside Landfill,TX,Grayson
-2298,Hunter Ferrell Landfill,TX,Dallas
-2299,Hutchins Landfill,TX,Dallas
-2300,IESI Buffalo Creek Landfill,TX,Wichita
 2301,IESI East Texas Regional Landfill,TX,Rusk
-2302,IESI Hardin County Landfill,TX,Hardin
-2303,IESI Turkey Creek Landfill,TX,Johnson
 2304,IESI Weatherford Landfill,TX,Parker
 2305,Itasca Landfill,TX,Hill
-2306,J.C. Elliott LF,TX,Nueces
 2307,Kerrville Landfill,TX,Kerr
-2308,La Gloria Ranch Landfill,TX,Hidalgo
-2309,Lacy Lakeview RDF,TX,McLennan
-2311,Lewisville Landfill,TX,Denton
 2312,Maloy Landfill,TX,Hunt
-2313,Maxwell Creek LF,TX,Collin
-2314,McCarty Road LF,TX,Harris
-2315,McCombs LF,TX,El Paso
-2316,McCommas Bluff Landfill,TX,Dallas
-2317,McKinney Landfill,TX,Collin
 2318,Mesquite Creek LF,TX,Comal
-2319,Mexia Landfill,TX,Limestone
-2320,Mill Creek LF,TX,Tarrant
-2321,Nelson Gardens LF,TX,Bexar
 2322,New Boston Landfill,TX,Bowie
-2323,Newton County Landfill,TX,Newton
-2325,Orange County LF,TX,Orange
-2326,Paris Landfill,TX,Lamar
-2327,Pecan Prairie Landfill,TX,Hunt
 2328,Pine Hill LF,TX,Gregg
 2329,Pleasant Oaks Landfill,TX,Titus
-2330,Polk County Landfill,TX,Polk
-2331,Quail Canyon,TX,Lubbock
-2332,Rio Grande Valley,TX,Hidalgo
 2333,Rock Prairie Road Landfill,TX,Brazos
-2334,Royal Oaks Landfill,TX,Cherokee
 2335,San Angelo Landfill,TX,Tom Green
 2336,Seabreeze Environmental Landfill,TX,Brazoria
-2337,Security Recycling and Disposal LF,TX,Montgomery
 2338,Sinton Landfill,TX,San Patricio
-2339,Skyline LF,TX,Ellis
 2340,Southwest Landfill,TX,Randall
-2341,Sunset Farms Landfill,TX,Travis
-2342,Temple Recycling & Disposal Facility,TX,Bell
-2343,Tessman Road Landfill,TX,Bexar
-2344,Texas Disposal Systems LF,TX,Travis
-2345,Texoma Area Solid Waste Authority Landfill,TX,Grayson
-2347,Trinity Oaks Landfill,TX,Dallas
 2348,Twin Oaks Landfill,TX,Grimes
-2349,West Texas Region Disposal Facility,TX,Lubbock
-2350,Westside RDF,TX,Tarrant
-2351,Whispering Pines LF,TX,Harris
-2352,Williamson County LF,TX,Williamson
 2353,Bayview LF,UT,Utah
-2354,Beaver County LF,UT,Beaver
 2356,Bountiful Sanitary LF,UT,Davis
 2359,Carbon County LF,UT,Carbon
 2360,City of Logan Sanitary Landfill,UT,Cache
-2362,Davis County Landfill,UT,Davis
 2363,Duchesne County LF,UT,Duchesne
-2364,ECDC Environmental Landfill,UT,Carbon
 2365,Emery County LF,UT,Emery
 2373,Iron County/ Armstrong Pit LF,UT,Iron
 2374,Juab Rural Development Agency Landfill,UT,Juab
 2376,Leekay Landfill,UT,Salt Lake
-2377,Long Valley Sanitary Landfill,UT,Kane
 2378,Manila City LF,UT,Daggett
 2379,Millard County LF,UT,Millard
-2380,North Valley Landfill (NVL),UT,Cache
-2383,Payson City LF,UT,Utah
-2384,Provo LF,UT,Utah
 2385,Rich County LF,UT,Rich
-2386,Salt Lake Valley LF,UT,Salt Lake
-2393,Summit County/Three Mile Canyon LF,UT,Summit
 2394,Tekoi Landfill,UT,Tooele
-2397,Trans-Jordan LF,UT,Salt Lake
 2399,Uintah County/Vernal City LF,UT,Uintah
-2401,Wasatch Regional Landfill,UT,Tooele
-2402,Washington County Landfill,UT,Washington
 2403,Weber County LF,UT,Weber
 2409,Amherst County Landfill,VA,Amherst
-2410,Atlantic Waste Disposal Inc.,VA,Sussex
 2411,Augusta County Service Authority Landfill,VA,Augusta
-2412,Battle Creek Landfill,VA,Page
-2413,Bedford City Hylton Site,VA,Bedford
-2414,Bedford County SLF,VA,Bedford
-2415,Bedford County SLF 2,VA,Bedford
 2416,Bethel LF,VA,Hampton city
 2417,Botetourt County Landfill,VA,Botetourt
-2418,Brunswick Waste Management Facility,VA,Brunswick
 2419,Campbell County Landfill,VA,Campbell
-2420,Caroline County LF,VA,Caroline
-2421,Carroll-Grayson-Galax SW Authority (CGGSWA) Regional Landfill,VA,Carroll
 2423,Charles City County SLF,VA,Charles City
 2424,Chesterfield County Northern Area LF,VA,Chesterfield
 2425,City of Bristol Virginia Integrated Solid Waste Management Facility,VA,Bristol city
@@ -1676,137 +785,67 @@
 2427,Corral Farm Landfill,VA,Fauquier
 2428,Danville City SLF,VA,Danville city
 2429,Dinwiddie County Landfill,VA,Dinwiddie
-2430,Franklin County SLF,VA,Franklin
-2431,Frederick County Regional Landfill,VA,Frederick
-2432,Greene County Landfill,VA,Greene
 2434,Hanover 301 LF,VA,Hanover
 2435,I-66 Landfill,VA,Fairfax
-2436,I-95 Landfill,VA,Fairfax
 2437,Ivy Material Utilization Center,VA,Albemarle
 2438,King and Queen Landfill,VA,King and Queen
 2439,King George Landfill Inc.,VA,King George
 2440,Livingston Landfill,VA,Spotsylvania
 2441,Loudoun County SLF,VA,Loudoun
-2444,Lynchburg City LF,VA,Lynchburg city
-2445,Madison District LF,VA,Cumberland
 2446,Maplewood Recycling & Waste Disposal,VA,Amelia
-2447,Martinsville SLF,VA,Henry
-2448,Mecklenburg County LF,VA,Mecklenburg
 2449,Menchville Road Landfill,VA,Newport News city
-2450,Mid-County Landfill,VA,Montgomery
-2451,Middle Peninsula Landfill,VA,Gloucester
-2452,New River Resource Authority SWMF,VA,Pulaski
-2453,Newport News City Landfill No. 2,VA,Newport News city
 2455,Nottoway County Sanitary Landfill - Blackstone,VA,Nottoway
 2456,Old Dominion LF,VA,Henrico
-2457,Orange County Landfill,VA,Orange
 2460,Pittsylvania County Landfill,VA,Pittsylvania
 2461,Prince Edward County SLF,VA,Prince Edward
 2462,Prince William County Sanitary Landfill,VA,Prince William
-2463,Region 2000 Regional Landfill - Livestock Road Facility,VA,Campbell
-2464,Richmond Landfill,VA,Henrico
 2465,Roanoke Regional Landfill,VA,Roanoke
 2466,Rockbridge County SLF,VA,Rockbridge
-2467,Rockingham County Landfill,VA,Rockingham
-2468,Scott County Sanitary LF,VA,Scott
 2469,Shenandoah County LF,VA,Shenandoah
-2470,Shoosmith SLF,VA,Chesterfield
-2471,Smith Gap Regional Landfill,VA,Roanoke
 2472,South Boston Sanitary LF,VA,Halifax
-2473,Springfield Road LF,VA,Henrico
 2474,SPSA Regional LF,VA,Suffolk city
-2475,SRPSA Butcher Creek Landfill,VA,Mecklenburg
 2476,Stafford County LF,VA,Stafford
-2477,Tazewell County Landfill,VA,Tazewell
 2478,Tri-City Regional Landfill,VA,Petersburg city
 2479,Virginia Beach Landfill No. 2,VA,Virginia Beach city
-2483,Brattleboro,VT,Windham
-2487,Moretown Landfill Inc.,VT,Washington
-2488,NEWSVT Landfill,VT,Orleans
 2496,Cathcart LF,WA,Snohomish
 2497,Cedar Hills Regional LF,WA,King
-2499,Centralia LF,WA,Lewis
 2500,Cheyne Road LF,WA,Yakima
 2501,Cowlitz County Headquarters Landfill,WA,Cowlitz
-2502,Cowlitz County Landfill,WA,Cowlitz
-2505,Ephrata LF,WA,Grant
 2506,Fort Lewis LF #5,WA,Pierce
-2508,Greater Wenatchee LF,WA,Douglas
-2510,Hidden Valley LF,WA,Pierce
-2511,Hobart LF,WA,King
-2513,Horn Rapids Landfill,WA,Benton
 2514,Inman LF,WA,Skagit
-2515,Kent Highlands LF,WA,King
-2516,Land Recovery Landfill,WA,Pierce
-2517,Leichner LF,WA,Clark
 2522,Northside LF,WA,Spokane
 2527,"Olympic View Sanitary LF, Inc. (OVSL)",WA,Kitsap
 2530,Port Angeles SLF,WA,Clallam
-2531,Purdy LF,WA,Pierce
 2532,Rainbow Valley LF,WA,Pacific
 2533,Roosevelt Regional MSW Landfill,WA,Klickitat
 2539,Sudbury Road LF,WA,Walla Walla
-2540,Tacoma City Solid Waste Facility,WA,Pierce
-2541,Terrace Heights LF,WA,Yakima
 2542,Thurston County Waste and Recovery Center,WA,Thurston
-2543,Vashon LF,WA,King
-2546,Adams County Resource Recovery LF,WI,Adams
-2547,Advanced Disposal Cranberry Creek Landfill LLC,WI,Wood
 2548,Advanced Disposal Emerald Park Landfill LLC,WI,Waukesha
-2549,Advanced Disposal Glacier Ridge Landfill LLC,WI,Dodge
 2550,Advanced Disposal Hickory Meadows Landfill LLC,WI,Calumet
 2551,Advanced Disposal Mallard Ridge Landfill Inc.,WI,Walworth
 2552,Advanced Disposal Seven Mile Creek Landfill,WI,Eau Claire
-2553,Brown County East LF,WI,Brown
-2554,Brown County West LF,WI,Brown
 2555,Dane County LF #1-Verona,WI,Dane
-2556,Dane County LF #2-Rodefeld,WI,Dane
-2557,Deer Track Park Landfill,WI,Jefferson
 2565,Janesville City/Rock County Landfill,WI,Rock
 2566,Kestrel Hawk Landfill,WI,Racine
 2567,Kewaunee County Solid Waste Balefill,WI,Kewaunee
 2568,La Crosse County Landfill,WI,La Crosse
 2569,Lake Area Landfill,WI,Washburn
-2570,Lincoln County SLF,WI,Lincoln
 2571,Marathon County Landfill,WI,Marathon
 2572,Marinette/Oconto County LF,WI,Marinette
 2574,Metro RDF,WI,Milwaukee
-2576,Moccasin Mike SLF,WI,Douglas
-2579,Orchard Ridge RDF,WI,Waukesha
 2580,Outagamie County LF,WI,Outagamie
 2581,Pheasant Run Recycling and Disposal Facility,WI,Kenosha
-2583,Portage County Sanitary Landfill,WI,Portage
 2586,Ridgeview RDF,WI,Manitowoc
-2587,Ridgeville Site I,WI,Monroe
-2588,Ridgeville Site II,WI,Monroe
 2591,Sauk County SLF,WI,Sauk
 2592,Sheboygan Falls City LF,WI,Sheboygan
-2593,Timberline Trail Recycling & Disposal Facility,WI,Rusk
-2594,Troy Area Landfill,WI,Walworth
 2596,Valley Trail Recycling & Disposal Facility,WI,Green Lake
-2599,Winnebago County Snell Road Landfill,WI,Winnebago
-2600,Winnebago County Sunnyview Landfill,WI,Winnebago
-2601,WMWI Stone Ridge Recycling and Disposal,WI,Waukesha
 2603,Brooke County LF (Subtitle D),WV,Brooke
 2604,City of Charleston Landfill,WV,Kanawha
-2605,Copper Ridge LF,WV,McDowell
-2606,Disposal Service Inc. Landfill,WV,Putnam
-2607,Elkins Landfill,WV,Randolph
 2608,Greenbrier County Landfill,WV,Greenbrier
-2609,Ham Sanitary Landfill Inc.,WV,Monroe
-2610,LCS Services Landfill,WV,Berkeley
-2611,Meadowfill Landfill,WV,Harrison
-2612,Mercer County Landfill,WV,Mercer
-2614,Northwestern Landfill,WV,Wood
 2616,Pocahontas County Landfill,WV,Pocahontas
 2617,Raleigh County SWA Landfill,WV,Raleigh
-2618,S & S Grading Inc. Landfill,WV,Harrison
-2619,Short Creek Sanitary Landfill,WV,Ohio
-2620,Sycamore Landfill,WV,Putnam
 2621,Tucker County Landfill,WV,Tucker
 2623,Wetzel County Landfill,WV,Wetzel
-2624,Campbell County Landfill No.2,WY,Campbell
 2625,Casper Balefill,WY,Natrona
 2626,Cheyenne Landfill,WY,Laramie
-2627,Eastern Laramie County SWDD,WY,Laramie
 2628,Sheridan Existing Landfill,WY,Sheridan
