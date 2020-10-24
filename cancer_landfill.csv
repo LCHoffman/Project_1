@@ -1,2935 +1,767 @@
 ,Landfill Name,State,County,Average Annual Count
-5,South Cushman Landfill,AK,Fairbanks North Star,317.0
-1182,Carson City Sanitary Landfill,NV,Carson City,346.0
-1811,0,0,Los Angeles County,39939.0
-1812,0,0,Cook County,25748.0
-1813,0,0,Maricopa County,17933.0
-1814,0,0,Harris County,15735.0
-1815,0,0,San Diego County,14412.0
-1816,0,0,Orange County,14072.0
-1817,0,0,Miami-Dade County,13536.0
-1818,0,0,Kings County,12044.0
-1819,0,0,Queens County,11239.0
-1820,0,0,Broward County,10313.0
-1821,0,0,Wayne County,10298.0
-1822,0,0,Riverside County,10046.0
-1823,0,0,King County,9969.0
-1824,0,0,Suffolk County,9819.0
-1825,0,0,Dallas County,9700.0
-1826,0,0,Palm Beach County,9678.0
-1827,0,0,Nassau County,8862.0
-1828,0,0,Clark County,8804.0
-1829,0,0,New York County,8623.0
-1830,0,0,Philadelphia County,8258.0
-1831,0,0,Tarrant County,8096.0
-1832,0,0,Middlesex County,8027.0
-1833,0,0,Allegheny County,7927.0
-1834,0,0,San Bernardino County,7925.0
-1835,0,0,Cuyahoga County,7772.0
-1836,0,0,Santa Clara County,7720.0
-1837,0,0,Oakland County,7343.0
-1838,0,0,Pinellas County,7148.0
-1839,0,0,Bexar County,7118.0
-1840,0,0,Hillsborough County,7014.0
-1841,0,0,Sacramento County,6900.0
-1842,0,0,Alameda County,6829.0
-1843,0,0,Erie County,6402.0
-1844,0,0,Bronx County,6306.0
-1845,0,0,St. Louis County,6053.0
-1846,0,0,Westchester County,5771.0
-1847,0,0,Franklin County,5658.0
-1848,0,0,Bergen County,5571.0
-1849,0,0,Contra Costa County,5512.0
-1850,0,0,Macomb County,5320.0
-1851,0,0,Orange County,5262.0
-1852,0,0,Fairfield County,5240.0
-1853,0,0,Hartford County,5173.0
-1854,0,0,Duval County,5161.0
-1855,0,0,New Haven County,5084.0
-1856,0,0,Honolulu County,5073.0
-1857,0,0,Montgomery County,5041.0
-1858,0,0,Baltimore County,5024.0
-1859,0,0,Pima County,5007.0
-1860,0,0,DuPage County,4918.0
-1861,0,0,Milwaukee County,4918.0
-1862,0,0,Lee County,4894.0
-1863,0,0,Jefferson County,4728.0
-1864,0,0,Monroe County,4598.0
-1865,0,0,Worcester County,4544.0
-1866,0,0,Montgomery County,4517.0
-1867,0,0,Fulton County,4512.0
-1868,0,0,Ocean County,4511.0
-1869,0,0,Shelby County,4506.0
-1870,0,0,Essex County,4439.0
-1871,0,0,Wake County,4439.0
-1872,0,0,Pierce County,4434.0
-1873,0,0,Marion County,4431.0
-1874,0,0,Hamilton County,4410.0
-1875,0,0,Polk County,4338.0
-1876,0,0,Middlesex County,4293.0
-1877,0,0,Mecklenburg County,4274.0
-1878,0,0,Brevard County,4178.0
-1879,0,0,Monmouth County,4160.0
-1880,0,0,Norfolk County,4087.0
-1881,0,0,Fairfax County,4084.0
-1882,0,0,Bucks County,4081.0
-1883,0,0,San Francisco County,4032.0
-1884,0,0,Snohomish County,3990.0
-1885,0,0,Salt Lake County,3989.0
-1886,0,0,Ventura County,3968.0
-1887,0,0,Sarasota County,3942.0
-1888,0,0,Volusia County,3939.0
-1889,0,0,Essex County,3930.0
-1890,0,0,Travis County,3889.0
-1891,0,0,Prince Georges County,3838.0
-1892,0,0,Oklahoma County,3759.0
-1893,0,0,San Mateo County,3750.0
-1894,0,0,Multnomah County,3743.0
-1895,0,0,Pasco County,3736.0
-1896,0,0,Fresno County,3674.0
-1897,0,0,Jackson County,3554.0
-1898,0,0,Jefferson County,3496.0
-1899,0,0,Gwinnett County,3487.0
-1900,0,0,Delaware County,3445.0
-1901,0,0,Lake County,3442.0
-1902,0,0,Will County,3425.0
-1903,0,0,Cobb County,3394.0
-1904,0,0,Collin County,3374.0
-1905,0,0,Providence County,3359.0
-1906,0,0,Tulsa County,3284.0
-1907,0,0,Baltimore City,3263.0
-1908,0,0,DeKalb County,3249.0
-1909,0,0,Plymouth County,3187.0
-1910,0,0,Suffolk County,3178.0
-1911,0,0,Montgomery County,3146.0
-1912,0,0,Kern County,3137.0
-1913,0,0,Camden County,3123.0
-1914,0,0,Summit County,3120.0
-1915,0,0,El Paso County,3104.0
-1916,0,0,New Castle County,3073.0
-1917,0,0,Lancaster County,3054.0
-1918,0,0,Marion County,3044.0
-1919,0,0,Bristol County,3030.0
-1920,0,0,Morris County,3030.0
-1921,0,0,Bernalillo County,3018.0
-1922,0,0,Davidson County,3013.0
-1923,0,0,Richmond County,2965.0
-1924,0,0,San Joaquin County,2964.0
-1925,0,0,Onondaga County,2962.0
-1926,0,0,Burlington County,2956.0
-1927,0,0,Anne Arundel County,2937.0
-1928,0,0,Chester County,2933.0
-1929,0,0,District of Columbia,2837.0
-1930,0,0,Sonoma County,2832.0
-1931,0,0,El Paso County,2824.0
-1932,0,0,Guilford County,2810.0
-1933,0,0,Union County,2802.0
-1934,0,0,Kent County,2802.0
-1935,0,0,Jefferson County,2789.0
-1936,0,0,Lake County,2758.0
-1937,0,0,Lake County,2757.0
-1938,0,0,Denton County,2746.0
-1939,0,0,Douglas County,2687.0
-1940,0,0,York County,2663.0
-1941,0,0,Denver County,2656.0
-1942,0,0,Manatee County,2634.0
-1943,0,0,Greenville County,2628.0
-1944,0,0,Westmoreland County,2609.0
-1945,0,0,Hudson County,2607.0
-1946,0,0,Jefferson Parish,2584.0
-1947,0,0,Arapahoe County,2553.0
-1948,0,0,Passaic County,2510.0
-1949,0,0,Waukesha County,2499.0
-1950,0,0,Berks County,2491.0
-1951,0,0,Washington County,2459.0
-1952,0,0,Fort Bend County,2451.0
-1953,0,0,Knox County,2445.0
-1954,0,0,Genesee County,2440.0
-1955,0,0,Hampden County,2431.0
-1956,0,0,Collier County,2427.0
-1957,0,0,Dane County,2399.0
-1958,0,0,Lucas County,2392.0
-1959,0,0,Kane County,2378.0
-1960,0,0,Hidalgo County,2357.0
-1961,0,0,Clackamas County,2336.0
-1962,0,0,Seminole County,2315.0
-1963,0,0,Spokane County,2293.0
-1964,0,0,Placer County,2286.0
-1965,0,0,Stark County,2285.0
-1966,0,0,Hillsborough County,2277.0
-1967,0,0,Stanislaus County,2273.0
-1968,0,0,Lehigh County,2238.0
-1969,0,0,Luzerne County,2228.0
-1970,0,0,East Baton Rouge Parish,2224.0
-1971,0,0,Washoe County,2220.0
-1972,0,0,Virginia Beach City,2200.0
-1973,0,0,Polk County,2187.0
-1974,0,0,Montgomery County,2178.0
-1975,0,0,Mobile County,2164.0
-1976,0,0,Pulaski County,2154.0
-1977,0,0,Solano County,2151.0
-1978,0,0,Mercer County,2138.0
-1979,0,0,Clark County,2136.0
-1980,0,0,Santa Barbara County,2102.0
-1981,0,0,Ada County,2080.0
-1982,0,0,Northampton County,2073.0
-1983,0,0,Horry County,2068.0
-1984,0,0,Williamson County,2052.0
-1985,0,0,Charleston County,2044.0
-1986,0,0,Forsyth County,2041.0
-1987,0,0,Hamilton County,2039.0
-1988,0,0,Orange County,2009.0
-1989,0,0,St. Charles County,1989.0
-1990,0,0,St. Lucie County,1983.0
-1991,0,0,Rockingham County,1969.0
-1992,0,0,Albany County,1919.0
-1993,0,0,Orleans Parish,1905.0
-1994,0,0,Barnstable County,1901.0
-1995,0,0,Butler County,1855.0
-1996,0,0,Gloucester County,1853.0
-1997,0,0,Lane County,1846.0
-1998,0,0,Pinal County,1845.0
-1999,0,0,Escambia County,1838.0
-2000,0,0,Somerset County,1827.0
-2001,0,0,Lorain County,1820.0
-2002,0,0,Madison County,1800.0
-2003,0,0,Rockland County,1794.0
-2004,0,0,Richland County,1776.0
-2005,0,0,Dutchess County,1773.0
-2006,0,0,Adams County,1736.0
-2007,0,0,Allen County,1732.0
-2008,0,0,Charlotte County,1730.0
-2009,0,0,Cumberland County,1720.0
-2010,0,0,Monterey County,1711.0
-2011,0,0,Marin County,1704.0
-2012,0,0,Atlantic County,1699.0
-2013,0,0,Marion County,1697.0
-2014,0,0,Sussex County,1691.0
-2015,0,0,Chesterfield County,1688.0
-2016,0,0,Spartanburg County,1675.0
-2017,0,0,Winnebago County,1674.0
-2018,0,0,Hernando County,1667.0
-2019,0,0,Yavapai County,1654.0
-2020,0,0,Henrico County,1648.0
-2021,0,0,Erie County,1643.0
-2022,0,0,New London County,1640.0
-2023,0,0,San Luis Obispo County,1622.0
-2024,0,0,Kitsap County,1615.0
-2025,0,0,Madison County,1601.0
-2026,0,0,Buncombe County,1597.0
-2027,0,0,St. Louis City,1586.0
-2028,0,0,Dauphin County,1585.0
-2029,0,0,Niagara County,1579.0
-2030,0,0,Mohave County,1579.0
-2031,0,0,Thurston County,1573.0
-2032,0,0,Fayette County,1553.0
-2033,0,0,Washtenaw County,1551.0
-2034,0,0,Harford County,1546.0
-2035,0,0,McHenry County,1546.0
-2036,0,0,Tulare County,1541.0
-2037,0,0,Oneida County,1525.0
-2038,0,0,Saratoga County,1514.0
-2039,0,0,Cameron County,1511.0
-2040,0,0,Citrus County,1506.0
-2041,0,0,St. Tammany Parish,1499.0
-2042,0,0,Larimer County,1491.0
-2043,0,0,Osceola County,1489.0
-2044,0,0,Lake County,1486.0
-2045,0,0,St. Johns County,1485.0
-2046,0,0,Washington County,1484.0
-2047,0,0,Nueces County,1471.0
-2048,0,0,Lexington County,1466.0
-2049,0,0,Utah County,1452.0
-2050,0,0,St. Clair County,1441.0
-2051,0,0,Mahoning County,1433.0
-2052,0,0,Caddo Parish,1427.0
-2053,0,0,Cumberland County,1413.0
-2054,0,0,Sumter County,1413.0
-2055,0,0,Cumberland County,1403.0
-2056,0,0,Bell County,1403.0
-2057,0,0,Greene County,1388.0
-2058,0,0,Chatham County,1388.0
-2059,0,0,Brazoria County,1384.0
-2060,0,0,Lackawanna County,1381.0
-2061,0,0,Galveston County,1380.0
-2062,0,0,Howard County,1371.0
-2063,0,0,Lancaster County,1369.0
-2064,0,0,Durham County,1356.0
-2065,0,0,York County,1346.0
-2066,0,0,Butte County,1342.0
-2067,0,0,Santa Cruz County,1337.0
-2068,0,0,Prince William County,1334.0
-2069,0,0,St. Joseph County,1333.0
-2070,0,0,Trumbull County,1330.0
-2071,0,0,Jackson County,1316.0
-2072,0,0,Sangamon County,1315.0
-2073,0,0,Brown County,1305.0
-2074,0,0,Martin County,1304.0
-2075,0,0,Hamilton County,1304.0
-2076,0,0,York County,1302.0
-2077,0,0,Indian River County,1297.0
-2078,0,0,Litchfield County,1278.0
-2079,0,0,Kanawha County,1275.0
-2080,0,0,Broome County,1274.0
-2081,0,0,Boulder County,1272.0
-2082,0,0,Cherokee County,1260.0
-2083,0,0,Ingham County,1259.0
-2084,0,0,Baldwin County,1257.0
-2085,0,0,Gaston County,1256.0
-2086,0,0,Shasta County,1253.0
-2087,0,0,Hinds County,1241.0
-2088,0,0,Frederick County,1239.0
-2089,0,0,Jefferson County,1227.0
-2090,0,0,Linn County,1226.0
-2091,0,0,Alachua County,1221.0
-2092,0,0,New Hanover County,1219.0
-2093,0,0,Racine County,1209.0
-2094,0,0,Douglas County,1207.0
-2095,0,0,Butler County,1203.0
-2096,0,0,Whatcom County,1198.0
-2097,0,0,Rutherford County,1194.0
-2098,0,0,Loudoun County,1190.0
-2099,0,0,Smith County,1186.0
-2100,0,0,Lubbock County,1185.0
-2101,0,0,Clay County,1182.0
-2102,0,0,Beaver County,1181.0
-2103,0,0,Clay County,1178.0
-2104,0,0,Lafayette Parish,1171.0
-2105,0,0,Ottawa County,1168.0
-2106,0,0,Saginaw County,1167.0
-2107,0,0,Kalamazoo County,1160.0
-2108,0,0,Anderson County,1152.0
-2109,0,0,Anchorage Borough,1152.0
-2110,0,0,Beaufort County,1147.0
-2111,0,0,Benton County,1147.0
-2112,0,0,Ulster County,1147.0
-2113,0,0,El Dorado County,1145.0
-2114,0,0,Clermont County,1143.0
-2115,0,0,Bay County,1137.0
-2116,0,0,Davis County,1136.0
-2117,0,0,Jefferson County,1134.0
-2118,0,0,Montgomery County,1127.0
-2119,0,0,Kent County,1122.0
-2120,0,0,Chesapeake City,1116.0
-2121,0,0,Cleveland County,1116.0
-2122,0,0,Weld County,1113.0
-2123,0,0,Warren County,1110.0
-2124,0,0,Clayton County,1098.0
-2125,0,0,Middlesex County,1097.0
-2126,0,0,Harrison County,1096.0
-2127,0,0,Leon County,1094.0
-2128,0,0,Peoria County,1094.0
-2129,0,0,Sullivan County,1087.0
-2130,0,0,Calcasieu Parish,1087.0
-2131,0,0,McLennan County,1081.0
-2132,0,0,Kent County,1067.0
-2133,0,0,Medina County,1065.0
-2134,0,0,Deschutes County,1064.0
-2135,0,0,Okaloosa County,1044.0
-2136,0,0,Union County,1042.0
-2137,0,0,Norfolk City,1042.0
-2138,0,0,Vanderburgh County,1040.0
-2139,0,0,Davidson County,1039.0
-2140,0,0,Hall County,1036.0
-2141,0,0,Monroe County,1035.0
-2142,0,0,Schuylkill County,1030.0
-2143,0,0,Henry County,1030.0
-2144,0,0,Hawaii County,1025.0
-2145,0,0,Rensselaer County,1025.0
-2146,0,0,Carroll County,1022.0
-2147,0,0,Forsyth County,1014.0
-2148,0,0,Richmond City,1014.0
-2149,0,0,Richmond County,1007.0
-2150,0,0,Penobscot County,1004.0
-2151,0,0,Brunswick County,1002.0
-2152,0,0,Cabarrus County,998.0
-2153,0,0,Licking County,996.0
-2154,0,0,Minnehaha County,985.0
-2155,0,0,Muscogee County,984.0
-2156,0,0,Yakima County,979.0
-2157,0,0,Williamson County,973.0
-2158,0,0,Scott County,971.0
-2159,0,0,St. Clair County,969.0
-2160,0,0,Livingston County,969.0
-2161,0,0,Shelby County,968.0
-2162,0,0,Alamance County,962.0
-2163,0,0,Yellowstone County,962.0
-2164,0,0,Berkeley County,960.0
-2165,0,0,Sumner County,959.0
-2166,0,0,Elkhart County,956.0
-2167,0,0,Berrien County,953.0
-2168,0,0,Iredell County,952.0
-2169,0,0,Cambria County,952.0
-2170,0,0,Canyon County,952.0
-2171,0,0,Merrimack County,947.0
-2172,0,0,Rock County,944.0
-2173,0,0,Washington County,943.0
-2174,0,0,Muskegon County,942.0
-2175,0,0,Chautauqua County,937.0
-2176,0,0,Johnston County,937.0
-2177,0,0,Schenectady County,936.0
-2178,0,0,Sussex County,932.0
-2179,0,0,Kootenai County,930.0
-2180,0,0,Outagamie County,929.0
-2181,0,0,Flagler County,929.0
-2182,0,0,Merced County,928.0
-2183,0,0,Randolph County,926.0
-2184,0,0,Catawba County,922.0
-2185,0,0,Dona Ana County,921.0
-2186,0,0,Fayette County,919.0
-2187,0,0,Santa Rosa County,918.0
-2188,0,0,Winnebago County,915.0
-2189,0,0,Porter County,913.0
-2190,0,0,Delaware County,911.0
-2191,0,0,Tuscaloosa County,905.0
-2192,0,0,Kenton County,905.0
-2193,0,0,Portage County,905.0
-2194,0,0,Kenosha County,900.0
-2195,0,0,Cumberland County,895.0
-2196,0,0,Weber County,893.0
-2197,0,0,Aiken County,891.0
-2198,0,0,Washington County,888.0
-2199,0,0,Jackson County,888.0
-2200,0,0,Rowan County,881.0
-2201,0,0,Cape May County,881.0
-2202,0,0,Bibb County,880.0
-2203,0,0,Rock Island County,875.0
-2204,0,0,Franklin County,871.0
-2205,0,0,Benton County,870.0
-2206,0,0,Tazewell County,870.0
-2207,0,0,Clark County,868.0
-2208,0,0,Yuma County,866.0
-2209,0,0,Greene County,865.0
-2210,0,0,Champaign County,863.0
-2211,0,0,Pueblo County,861.0
-2212,0,0,Lebanon County,855.0
-2213,0,0,Berkshire County,849.0
-2214,0,0,Blair County,849.0
-2215,0,0,Washington County,847.0
-2216,0,0,Ouachita Parish,842.0
-2217,0,0,Maui County,837.0
-2218,0,0,Henderson County,836.0
-2219,0,0,Washington County,831.0
-2220,0,0,Highlands County,831.0
-2221,0,0,Blount County,828.0
-2222,0,0,Mercer County,819.0
-2223,0,0,Johnson County,812.0
-2224,0,0,Newport News City,811.0
-2225,0,0,Washington County,810.0
-2226,0,0,Fairfield County,809.0
-2227,0,0,DeSoto County,807.0
-2228,0,0,Yolo County,806.0
-2229,0,0,Chittenden County,803.0
-2230,0,0,Hunterdon County,794.0
-2231,0,0,Skagit County,794.0
-2232,0,0,Tolland County,794.0
-2233,0,0,Napa County,794.0
-2234,0,0,Mesa County,792.0
-2235,0,0,Johnson County,789.0
-2236,0,0,Madison County,788.0
-2237,0,0,Macon County,786.0
-2238,0,0,Florence County,778.0
-2239,0,0,Oswego County,776.0
-2240,0,0,Hendricks County,772.0
-2241,0,0,Kennebec County,772.0
-2242,0,0,Sarpy County,771.0
-2243,0,0,Marathon County,770.0
-2244,0,0,McLean County,769.0
-2245,0,0,Hampshire County,767.0
-2246,0,0,Richland County,762.0
-2247,0,0,Jackson County,762.0
-2248,0,0,Rankin County,759.0
-2249,0,0,Washington County,759.0
-2250,0,0,Cass County,757.0
-2251,0,0,Grayson County,754.0
-2252,0,0,Lycoming County,754.0
-2253,0,0,Monroe County,752.0
-2254,0,0,La Salle County,750.0
-2255,0,0,Ontario County,748.0
-2256,0,0,Ellis County,743.0
-2257,0,0,Black Hawk County,742.0
-2258,0,0,Rapides Parish,742.0
-2259,0,0,Dorchester County,739.0
-2260,0,0,Pitt County,737.0
-2261,0,0,Garland County,733.0
-2262,0,0,Onslow County,726.0
-2263,0,0,Houston County,723.0
-2264,0,0,Charles County,714.0
-2265,0,0,Douglas County,714.0
-2266,0,0,Humboldt County,712.0
-2267,0,0,Arlington County,710.0
-2268,0,0,Wayne County,710.0
-2269,0,0,Morgan County,708.0
-2270,0,0,Saline County,708.0
-2271,0,0,Windham County,708.0
-2272,0,0,Warren County,706.0
-2273,0,0,Santa Fe County,705.0
-2274,0,0,Hampton City,705.0
-2275,0,0,Strafford County,703.0
-2276,0,0,Moore County,699.0
-2277,0,0,Coweta County,690.0
-2278,0,0,Calhoun County,689.0
-2279,0,0,Linn County,689.0
-2280,0,0,Boone County,688.0
-2281,0,0,Sheboygan County,687.0
-2282,0,0,Centre County,686.0
-2283,0,0,Sandoval County,685.0
-2284,0,0,Webb County,685.0
-2285,0,0,Hays County,683.0
-2286,0,0,Montgomery County,682.0
-2287,0,0,Pickens County,681.0
-2288,0,0,Imperial County,681.0
-2289,0,0,Sebastian County,680.0
-2290,0,0,Wilson County,680.0
-2291,0,0,Parker County,679.0
-2292,0,0,Tippecanoe County,675.0
-2293,0,0,Rockingham County,674.0
-2294,0,0,Gregg County,674.0
-2295,0,0,Adams County,672.0
-2296,0,0,Guadalupe County,671.0
-2297,0,0,Bay County,671.0
-2298,0,0,Calhoun County,670.0
-2299,0,0,Kankakee County,668.0
-2300,0,0,Paulding County,668.0
-2301,0,0,Nevada County,667.0
-2302,0,0,Flathead County,667.0
-2303,0,0,Cochise County,664.0
-2304,0,0,LaPorte County,662.0
-2305,0,0,Northumberland County,661.0
-2306,0,0,Wood County,661.0
-2307,0,0,Comal County,660.0
-2308,0,0,Livingston Parish,660.0
-2309,0,0,Fayette County,658.0
-2310,0,0,Androscoggin County,657.0
-2311,0,0,Clark County,654.0
-2312,0,0,St. Lawrence County,653.0
-2313,0,0,Daviess County,652.0
-2314,0,0,Clallam County,651.0
-2315,0,0,Wichita County,647.0
-2316,0,0,Tangipahoa Parish,647.0
-2317,0,0,Douglas County,644.0
-2318,0,0,Craven County,643.0
-2319,0,0,Putnam County,642.0
-2320,0,0,Lawrence County,640.0
-2321,0,0,Jasper County,640.0
-2322,0,0,Columbiana County,639.0
-2323,0,0,Cleveland County,638.0
-2324,0,0,Robeson County,638.0
-2325,0,0,Orange County,638.0
-2326,0,0,Steuben County,637.0
-2327,0,0,Wayne County,637.0
-2328,0,0,Madera County,637.0
-2329,0,0,Sevier County,635.0
-2330,0,0,Etowah County,635.0
-2331,0,0,Cecil County,635.0
-2332,0,0,Boone County,634.0
-2333,0,0,Cabell County,632.0
-2334,0,0,Taylor County,632.0
-2335,0,0,Franklin County,632.0
-2336,0,0,Nassau County,632.0
-2337,0,0,Delaware County,630.0
-2338,0,0,Jefferson County,628.0
-2339,0,0,Fond du Lac County,628.0
-2340,0,0,Wayne County,627.0
-2341,0,0,Spotsylvania County,626.0
-2342,0,0,Josephine County,623.0
-2343,0,0,Wicomico County,622.0
-2344,0,0,Walworth County,621.0
-2345,0,0,Eaton County,620.0
-2346,0,0,Terrebonne Parish,620.0
-2347,0,0,Bossier Parish,617.0
-2348,0,0,Cowlitz County,617.0
-2349,0,0,Hardin County,614.0
-2350,0,0,Randall County,614.0
-2351,0,0,Allen County,612.0
-2352,0,0,Columbia County,611.0
-2353,0,0,Harnett County,609.0
-2354,0,0,Hanover County,608.0
-2355,0,0,Berkeley County,608.0
-2356,0,0,Miami County,603.0
-2357,0,0,Johnson County,603.0
-2358,0,0,Grand Traverse County,602.0
-2359,0,0,La Crosse County,600.0
-2360,0,0,Sumter County,599.0
-2361,0,0,Chemung County,597.0
-2362,0,0,Dubuque County,595.0
-2363,0,0,Crawford County,592.0
-2364,0,0,Vigo County,591.0
-2365,0,0,Ashtabula County,591.0
-2366,0,0,Roanoke County,585.0
-2367,0,0,Carroll County,585.0
-2368,0,0,Canadian County,583.0
-2369,0,0,Island County,582.0
-2370,0,0,Brazos County,581.0
-2371,0,0,Burke County,581.0
-2372,0,0,Warren County,579.0
-2373,0,0,Monroe County,577.0
-2374,0,0,Geauga County,576.0
-2375,0,0,Henderson County,574.0
-2376,0,0,Midland County,574.0
-2377,0,0,Allegan County,573.0
-2378,0,0,Houston County,571.0
-2379,0,0,Woodbury County,569.0
-2380,0,0,Bradley County,567.0
-2381,0,0,Stafford County,567.0
-2382,0,0,Grafton County,565.0
-2383,0,0,Ector County,562.0
-2384,0,0,Ozaukee County,561.0
-2385,0,0,Roanoke City,559.0
-2386,0,0,Pottawattamie County,559.0
-2387,0,0,Wood County,558.0
-2388,0,0,Tom Green County,556.0
-2389,0,0,Lee County,555.0
-2390,0,0,Tuscarawas County,555.0
-2391,0,0,Newport County,555.0
-2392,0,0,Faulkner County,555.0
-2393,0,0,Yamhill County,555.0
-2394,0,0,LaFourche Parish,553.0
-2395,0,0,Maury County,552.0
-2396,0,0,Muskingum County,551.0
-2397,0,0,Pennington County,551.0
-2398,0,0,Cass County,551.0
-2399,0,0,Newton County,550.0
-2400,0,0,Nash County,549.0
-2401,0,0,Ascension Parish,549.0
-2402,0,0,Campbell County,548.0
-2403,0,0,Floyd County,548.0
-2404,0,0,Lancaster County,547.0
-2405,0,0,Cayuga County,547.0
-2406,0,0,Albemarle County,544.0
-2407,0,0,Potter County,543.0
-2408,0,0,Caldwell County,542.0
-2409,0,0,Lenawee County,540.0
-2410,0,0,Kaufman County,539.0
-2411,0,0,Erie County,538.0
-2412,0,0,Putnam County,535.0
-2413,0,0,St. Marys County,533.0
-2414,0,0,Missoula County,532.0
-2415,0,0,Somerset County,532.0
-2416,0,0,Kendall County,529.0
-2417,0,0,Manitowoc County,529.0
-2418,0,0,Mendocino County,528.0
-2419,0,0,Warren County,528.0
-2420,0,0,Lapeer County,527.0
-2421,0,0,Bartow County,526.0
-2422,0,0,Lauderdale County,526.0
-2423,0,0,Vermilion County,525.0
-2424,0,0,Craighead County,525.0
-2425,0,0,Comanche County,525.0
-2426,0,0,Cattaraugus County,523.0
-2427,0,0,Clearfield County,523.0
-2428,0,0,Howard County,521.0
-2429,0,0,Grays Harbor County,520.0
-2430,0,0,Madison County,518.0
-2431,0,0,Surry County,516.0
-2432,0,0,Marshall County,513.0
-2433,0,0,Oconee County,511.0
-2434,0,0,Allegany County,511.0
-2435,0,0,St. Landry Parish,510.0
-2436,0,0,Alexandria City,510.0
-2437,0,0,Raleigh County,510.0
-2438,0,0,Aroostook County,508.0
-2439,0,0,Carteret County,508.0
-2440,0,0,Portsmouth City,507.0
-2441,0,0,Clinton County,506.0
-2442,0,0,Eau Claire County,506.0
-2443,0,0,James City County,503.0
-2444,0,0,Madison County,502.0
-2445,0,0,Burleigh County,500.0
-2446,0,0,Monroe County,500.0
-2447,0,0,Buchanan County,499.0
-2448,0,0,Bullitt County,498.0
-2449,0,0,Hunt County,498.0
-2450,0,0,Lincoln County,496.0
-2451,0,0,Chatham County,496.0
-2452,0,0,Augusta County,495.0
-2453,0,0,DeKalb County,495.0
-2454,0,0,Orangeburg County,494.0
-2455,0,0,St. Clair County,494.0
-2456,0,0,Haywood County,492.0
-2457,0,0,Limestone County,492.0
-2458,0,0,Laramie County,491.0
-2459,0,0,Walton County,490.0
-2460,0,0,Dodge County,489.0
-2461,0,0,Dougherty County,487.0
-2462,0,0,Scioto County,487.0
-2463,0,0,Bedford City and County,484.0
-2464,0,0,Armstrong County,484.0
-2465,0,0,Calvert County,483.0
-2466,0,0,Kings County,483.0
-2467,0,0,Glynn County,482.0
-2468,0,0,Greene County,482.0
-2469,0,0,Rogers County,480.0
-2470,0,0,Indiana County,480.0
-2471,0,0,Bonneville County,480.0
-2472,0,0,Lowndes County,479.0
-2473,0,0,Platte County,475.0
-2474,0,0,Belknap County,475.0
-2475,0,0,Ross County,473.0
-2476,0,0,Coconino County,473.0
-2477,0,0,Lee County,472.0
-2478,0,0,Anderson County,471.0
-2479,0,0,Cheshire County,470.0
-2480,0,0,Mason County,468.0
-2481,0,0,Georgetown County,467.0
-2482,0,0,Harrison County,467.0
-2483,0,0,Angelina County,465.0
-2484,0,0,Columbia County,464.0
-2485,0,0,Lewis County,464.0
-2486,0,0,Wilson County,464.0
-2487,0,0,Wood County,463.0
-2488,0,0,Salem County,462.0
-2489,0,0,Cumberland County,462.0
-2490,0,0,Talladega County,462.0
-2491,0,0,Rockingham County,461.0
-2492,0,0,Williamson County,461.0
-2493,0,0,Bowie County,461.0
-2494,0,0,San Juan County,461.0
-2495,0,0,Jefferson County,460.0
-2496,0,0,Cullman County,460.0
-2497,0,0,Sullivan County,460.0
-2498,0,0,White County,459.0
-2499,0,0,Elmore County,459.0
-2500,0,0,Madison County,458.0
-2501,0,0,Coos County,457.0
-2502,0,0,Madison County,456.0
-2503,0,0,Grant County,456.0
-2504,0,0,Carbon County,456.0
-2505,0,0,Morgan County,456.0
-2506,0,0,Clarke County,455.0
-2507,0,0,Rockdale County,455.0
-2508,0,0,Pulaski County,453.0
-2509,0,0,Victoria County,453.0
-2510,0,0,Herkimer County,453.0
-2511,0,0,Rutherford County,453.0
-2512,0,0,Whitfield County,451.0
-2513,0,0,Jefferson County,450.0
-2514,0,0,Columbia County,447.0
-2515,0,0,Cascade County,447.0
-2516,0,0,Jefferson County,447.0
-2517,0,0,Orange County,446.0
-2518,0,0,Tompkins County,446.0
-2519,0,0,Midland County,445.0
-2520,0,0,Suffolk City,445.0
-2521,0,0,Walker County,445.0
-2522,0,0,Columbia County,444.0
-2523,0,0,Pike County,444.0
-2524,0,0,Washington County,440.0
-2525,0,0,Chelan County,438.0
-2526,0,0,McCracken County,437.0
-2527,0,0,Creek County,437.0
-2528,0,0,Floyd County,435.0
-2529,0,0,Bartholomew County,433.0
-2530,0,0,Sutter County,433.0
-2531,0,0,Putnam County,431.0
-2532,0,0,Van Buren County,431.0
-2533,0,0,Lake County,430.0
-2534,0,0,Shiawassee County,429.0
-2535,0,0,Worcester County,428.0
-2536,0,0,Monongalia County,428.0
-2537,0,0,Lewis and Clark County,428.0
-2538,0,0,Navajo County,428.0
-2539,0,0,Polk County,426.0
-2540,0,0,Hancock County,424.0
-2541,0,0,Lawrence County,423.0
-2542,0,0,Hancock County,422.0
-2543,0,0,Muskogee County,422.0
-2544,0,0,Adams County,421.0
-2545,0,0,Klamath County,421.0
-2546,0,0,Laurens County,421.0
-2547,0,0,Gallatin County,420.0
-2548,0,0,Matanuska-Susitna Borough,418.0
-2549,0,0,Hancock County,418.0
-2550,0,0,Cape Girardeau County,418.0
-2551,0,0,St. Francois County,418.0
-2552,0,0,Mercer County,417.0
-2553,0,0,Rutland County,417.0
-2554,0,0,Bradford County,417.0
-2555,0,0,Belmont County,416.0
-2556,0,0,Washington County,414.0
-2557,0,0,Wilkes County,414.0
-2558,0,0,Kosciusko County,412.0
-2559,0,0,Loudon County,412.0
-2560,0,0,Frederick County,412.0
-2561,0,0,Oxford County,410.0
-2562,0,0,Tehama County,410.0
-2563,0,0,Wayne County,406.0
-2564,0,0,Marion County,405.0
-2565,0,0,Spalding County,404.0
-2566,0,0,Darlington County,403.0
-2567,0,0,Livingston County,402.0
-2568,0,0,Windsor County,400.0
-2569,0,0,Bastrop County,399.0
-2570,0,0,Otsego County,399.0
-2571,0,0,Grant County,399.0
-2572,0,0,Fulton County,398.0
-2573,0,0,Cole County,398.0
-2574,0,0,Franklin County,397.0
-2575,0,0,Christian County,396.0
-2576,0,0,Genesee County,396.0
-2577,0,0,Lauderdale County,395.0
-2578,0,0,Laurel County,393.0
-2579,0,0,Iberia Parish,392.0
-2580,0,0,Barrow County,390.0
-2581,0,0,Hood County,389.0
-2582,0,0,Chippewa County,389.0
-2583,0,0,Hawkins County,388.0
-2584,0,0,Forrest County,385.0
-2585,0,0,Stanly County,385.0
-2586,0,0,Story County,385.0
-2587,0,0,Hamblen County,384.0
-2588,0,0,Twin Falls County,384.0
-2589,0,0,Tuolumne County,383.0
-2590,0,0,Lonoke County,383.0
-2591,0,0,Natrona County,382.0
-2592,0,0,Franklin County,382.0
-2593,0,0,Lenoir County,381.0
-2594,0,0,Jones County,381.0
-2595,0,0,Sandusky County,381.0
-2596,0,0,Greenwood County,381.0
-2597,0,0,Carroll County,379.0
-2598,0,0,Knox County,378.0
-2599,0,0,Umatilla County,377.0
-2600,0,0,Venango County,377.0
-2601,0,0,Marion County,376.0
-2602,0,0,Polk County,376.0
-2603,0,0,Pottawatomie County,375.0
-2604,0,0,Whiteside County,375.0
-2605,0,0,Clinton County,374.0
-2606,0,0,Troup County,373.0
-2607,0,0,Valencia County,373.0
-2608,0,0,Sauk County,373.0
-2609,0,0,Jackson County,372.0
-2610,0,0,Benton County,371.0
-2611,0,0,Rockwall County,369.0
-2612,0,0,Pike County,368.0
-2613,0,0,Liberty County,368.0
-2614,0,0,Granville County,368.0
-2615,0,0,Baxter County,367.0
-2616,0,0,Wagoner County,366.0
-2617,0,0,Kershaw County,365.0
-2618,0,0,Lynchburg City,365.0
-2619,0,0,Sampson County,365.0
-2620,0,0,Robertson County,364.0
-2621,0,0,Greene County,361.0
-2622,0,0,Halifax County,360.0
-2623,0,0,Washington County,359.0
-2624,0,0,Wayne County,357.0
-2625,0,0,Pearl River County,356.0
-2626,0,0,Jefferson County,356.0
-2627,0,0,Oldham County,356.0
-2628,0,0,Lee County,355.0
-2629,0,0,Tuscola County,355.0
-2630,0,0,Columbia County,355.0
-2631,0,0,Marquette County,354.0
-2632,0,0,Pittsylvania County,353.0
-2633,0,0,Cerro Gordo County,352.0
-2634,0,0,Chenango County,351.0
-2635,0,0,Roane County,351.0
-2636,0,0,Walton County,350.0
-2637,0,0,Fauquier County,349.0
-2638,0,0,Acadia Parish,349.0
-2639,0,0,Kauai County,349.0
-2640,0,0,Boyd County,348.0
-2641,0,0,Crawford County,347.0
-2642,0,0,Cache County,347.0
-2643,0,0,Lincoln County,347.0
-2644,0,0,Putnam County,347.0
-2645,0,0,Bedford County,346.0
-2646,0,0,Harrison County,346.0
-2647,0,0,Pender County,345.0
-2648,0,0,Columbus County,345.0
-2649,0,0,DeKalb County,344.0
-2650,0,0,Franklin County,343.0
-2651,0,0,Nye County,341.0
-2652,0,0,Van Zandt County,339.0
-2653,0,0,St. Croix County,339.0
-2654,0,0,Knox County,338.0
-2655,0,0,Dallas County,338.0
-2656,0,0,Warrick County,338.0
-2657,0,0,Huron County,337.0
-2658,0,0,Somerset County,336.0
-2659,0,0,Vermilion Parish,335.0
-2660,0,0,Kerr County,334.0
-2661,0,0,Delaware County,334.0
-2662,0,0,Henry County,333.0
-2663,0,0,Macoupin County,333.0
-2664,0,0,Lowndes County,332.0
-2665,0,0,Montgomery County,332.0
-2666,0,0,Portage County,330.0
-2667,0,0,Montcalm County,330.0
-2668,0,0,Pickaway County,329.0
-2669,0,0,Tioga County,329.0
-2670,0,0,Montgomery County,329.0
-2671,0,0,Yuba County,327.0
-2672,0,0,Dearborn County,326.0
-2673,0,0,Otero County,325.0
-2674,0,0,Carter County,325.0
-2675,0,0,Colbert County,325.0
-2676,0,0,Edgecombe County,325.0
-2677,0,0,Pope County,325.0
-2678,0,0,Stokes County,325.0
-2679,0,0,Henry County,324.0
-2680,0,0,Walker County,324.0
-2681,0,0,Ashland County,324.0
-2682,0,0,Lyon County,323.0
-2683,0,0,York County,323.0
-2684,0,0,Cherokee County,323.0
-2685,0,0,Douglas County,323.0
-2686,0,0,Franklin County,323.0
-2687,0,0,Camden County,322.0
-2688,0,0,Bannock County,322.0
-2689,0,0,Coffee County,321.0
-2690,0,0,McMinn County,320.0
-2691,0,0,Calaveras County,320.0
-2692,0,0,Tipton County,319.0
-2693,0,0,Ogle County,319.0
-2694,0,0,Ionia County,319.0
-2695,0,0,Oneida County,319.0
-2696,0,0,St. Mary Parish,319.0
-2697,0,0,Hall County,318.0
-2698,0,0,Waupaca County,318.0
-2699,0,0,Marinette County,317.0
-2700,0,0,Wood County,317.0
-2701,0,0,Blount County,317.0
-2702,0,0,Campbell County,317.0
-2703,0,0,Walla Walla County,317.0
-2704,0,0,Wise County,317.0
-2705,0,0,Dickson County,316.0
-2706,0,0,St. Martin Parish,316.0
-2707,0,0,Queen Annes County,315.0
-2708,0,0,Duplin County,315.0
-2709,0,0,Levy County,315.0
-2710,0,0,Jackson County,314.0
-2711,0,0,Ottawa County,314.0
-2712,0,0,Fayette County,314.0
-2713,0,0,Allegany County,313.0
-2714,0,0,McDowell County,313.0
-2715,0,0,Garfield County,312.0
-2716,0,0,Bristol County,311.0
-2717,0,0,Mifflin County,311.0
-2718,0,0,Clinton County,310.0
-2719,0,0,Monroe County,310.0
-2720,0,0,Beaufort County,310.0
-2721,0,0,Seneca County,308.0
-2722,0,0,Walker County,308.0
-2723,0,0,Autauga County,308.0
-2724,0,0,Lamar County,307.0
-2725,0,0,Taney County,307.0
-2726,0,0,Jefferson County,306.0
-2727,0,0,Boone County,306.0
-2728,0,0,Henry County,306.0
-2729,0,0,San Patricio County,305.0
-2730,0,0,Suwannee County,304.0
-2731,0,0,Darke County,304.0
-2732,0,0,Jefferson County,304.0
-2733,0,0,St. Joseph County,303.0
-2734,0,0,Kenai Peninsula Borough,303.0
-2735,0,0,Franklin County,302.0
-2736,0,0,Grundy County,302.0
-2737,0,0,Columbia County,301.0
-2738,0,0,Knox County,301.0
-2739,0,0,Gibson County,301.0
-2740,0,0,Gila County,301.0
-2741,0,0,Ward County,301.0
-2742,0,0,Hancock County,300.0
-2743,0,0,Grant County,300.0
-2744,0,0,Christian County,300.0
-2745,0,0,Gordon County,300.0
-2746,0,0,Franklin County,299.0
-2747,0,0,Talbot County,299.0
-2748,0,0,Catoosa County,299.0
-2749,0,0,Grand Forks County,299.0
-2750,0,0,Bonner County,298.0
-2751,0,0,Davie County,297.0
-2752,0,0,Washington County,297.0
-2753,0,0,Barron County,296.0
-2754,0,0,Barren County,295.0
-2755,0,0,Coryell County,294.0
-2756,0,0,Hardin County,294.0
-2757,0,0,Shelby County,293.0
-2758,0,0,Logan County,293.0
-2759,0,0,Tioga County,293.0
-2760,0,0,Payne County,292.0
-2761,0,0,Henderson County,292.0
-2762,0,0,Jefferson County,292.0
-2763,0,0,Washington Parish,292.0
-2764,0,0,Fremont County,291.0
-2765,0,0,Rusk County,291.0
-2766,0,0,Newton County,291.0
-2767,0,0,Susquehanna County,290.0
-2768,0,0,Cortland County,290.0
-2769,0,0,Jessamine County,288.0
-2770,0,0,Warren County,288.0
-2771,0,0,Floyd County,288.0
-2772,0,0,Sullivan County,288.0
-2773,0,0,Barry County,287.0
-2774,0,0,Cherokee County,287.0
-2775,0,0,Campbell County,287.0
-2776,0,0,Hopkins County,287.0
-2777,0,0,Anderson County,286.0
-2778,0,0,Lawrence County,286.0
-2779,0,0,Perry County,286.0
-2780,0,0,Amador County,282.0
-2781,0,0,Athens County,282.0
-2782,0,0,Marion County,282.0
-2783,0,0,Orleans County,282.0
-2784,0,0,Burnet County,281.0
-2785,0,0,Starr County,281.0
-2786,0,0,Russell County,281.0
-2787,0,0,Carter County,280.0
-2788,0,0,Macon County,280.0
-2789,0,0,Ohio County,280.0
-2790,0,0,Des Moines County,280.0
-2791,0,0,Newaygo County,280.0
-2792,0,0,Stephenson County,279.0
-2793,0,0,Lincoln County,279.0
-2794,0,0,Tallapoosa County,279.0
-2795,0,0,Ravalli County,277.0
-2796,0,0,Stephens County,277.0
-2797,0,0,Washington County,277.0
-2798,0,0,Boone County,276.0
-2799,0,0,Habersham County,276.0
-2800,0,0,Wayne County,276.0
-2801,0,0,Brown County,275.0
-2802,0,0,Kay County,275.0
-2803,0,0,Wyoming County,274.0
-2804,0,0,Dale County,274.0
-2805,0,0,Shelby County,274.0
-2806,0,0,Effingham County,273.0
-2807,0,0,Washington County,273.0
-2808,0,0,Webster Parish,273.0
-2809,0,0,Nelson County,273.0
-2810,0,0,Huntingdon County,273.0
-2811,0,0,Okanogan County,271.0
-2812,0,0,Union County,271.0
-2813,0,0,Cass County,271.0
-2814,0,0,Essex County,271.0
-2815,0,0,Waldo County,271.0
-2816,0,0,Windham County,271.0
-2817,0,0,Chesterfield County,270.0
-2818,0,0,Franklin County,269.0
-2819,0,0,Laurens County,269.0
-2820,0,0,McKean County,268.0
-2821,0,0,Coles County,268.0
-2822,0,0,Broomfield County,267.0
-2823,0,0,Douglas County,267.0
-2824,0,0,Thomas County,267.0
-2825,0,0,Chaves County,267.0
-2826,0,0,Gloucester County,267.0
-2827,0,0,Highland County,267.0
-2828,0,0,Preble County,267.0
-2829,0,0,Shenandoah County,266.0
-2830,0,0,Vance County,266.0
-2831,0,0,Crawford County,266.0
-2832,0,0,Jackson County,266.0
-2833,0,0,Siskiyou County,266.0
-2834,0,0,Danville City,265.0
-2835,0,0,Greenup County,265.0
-2836,0,0,Coffee County,265.0
-2837,0,0,Franklin County,265.0
-2838,0,0,Jefferson County,264.0
-2839,0,0,Auglaize County,264.0
-2840,0,0,Lamar County,264.0
-2841,0,0,Bulloch County,262.0
-2842,0,0,Muscatine County,262.0
-2843,0,0,Logan County,262.0
-2844,0,0,Okeechobee County,262.0
-2845,0,0,Greenbrier County,262.0
-2846,0,0,Lawrence County,262.0
-2847,0,0,Transylvania County,261.0
-2848,0,0,Sanilac County,261.0
-2849,0,0,Warren County,261.0
-2850,0,0,St. Charles Parish,261.0
-2851,0,0,Butler County,260.0
-2852,0,0,Shawano County,259.0
-2853,0,0,Grady County,259.0
-2854,0,0,Delaware County,259.0
-2855,0,0,Richmond County,259.0
-2856,0,0,Bennington County,259.0
-2857,0,0,Pickens County,259.0
-2858,0,0,Gadsden County,258.0
-2859,0,0,Clatsop County,258.0
-2860,0,0,Guernsey County,258.0
-2861,0,0,Lincoln County,256.0
-2862,0,0,Christian County,256.0
-2863,0,0,Dallas County,256.0
-2864,0,0,Washington County,256.0
-2865,0,0,Navarro County,255.0
-2866,0,0,Culpeper County,255.0
-2867,0,0,Boone County,255.0
-2868,0,0,Delta County,255.0
-2869,0,0,Marshall County,254.0
-2870,0,0,Scott County,254.0
-2871,0,0,Morgan County,253.0
-2872,0,0,Person County,253.0
-2873,0,0,Le Flore County,253.0
-2874,0,0,Monroe County,253.0
-2875,0,0,Polk County,252.0
-2876,0,0,Nacogdoches County,252.0
-2877,0,0,Pittsburg County,252.0
-2878,0,0,Franklin County,251.0
-2879,0,0,Dodge County,251.0
-2880,0,0,Jackson County,250.0
-2881,0,0,Covington County,250.0
-2882,0,0,Livingston County,250.0
-2883,0,0,Watauga County,250.0
-2884,0,0,Hillsdale County,250.0
-2885,0,0,Nez Perce County,250.0
-2886,0,0,Warren County,249.0
-2887,0,0,Oconto County,249.0
-2888,0,0,Polk County,248.0
-2889,0,0,Union County,247.0
-2890,0,0,Baldwin County,247.0
-2891,0,0,Greene County,246.0
-2892,0,0,Scott County,246.0
-2893,0,0,Okmulgee County,246.0
-2894,0,0,Clark County,245.0
-2895,0,0,Dare County,245.0
-2896,0,0,Eddy County,245.0
-2897,0,0,Halifax County with South Boston City,245.0
-2898,0,0,Pettis County,245.0
-2899,0,0,Upshur County,245.0
-2900,0,0,Colleton County,245.0
-2901,0,0,Stevens County,245.0
-2902,0,0,Shelby County,244.0
-2903,0,0,Bedford County,243.0
-2904,0,0,Fulton County,243.0
-2905,0,0,Knox County,243.0
-2906,0,0,Clarion County,242.0
-2907,0,0,Monroe County,242.0
-2908,0,0,Bureau County,242.0
-2909,0,0,Bryan County,242.0
-2910,0,0,Mayes County,242.0
-2911,0,0,Accomack County,241.0
-2912,0,0,Cherokee County,241.0
-2913,0,0,Chambers County,241.0
-2914,0,0,Cocke County,241.0
-2915,0,0,Lee County,241.0
-2916,0,0,Clinton County,240.0
-2917,0,0,Garfield County,240.0
-2918,0,0,Union County,240.0
-2919,0,0,Isabella County,240.0
-2920,0,0,Calumet County,239.0
-2921,0,0,Champaign County,239.0
-2922,0,0,Roscommon County,239.0
-2923,0,0,Henry County,238.0
-2924,0,0,Mercer County,238.0
-2925,0,0,Coos County,238.0
-2926,0,0,Pike County,238.0
-2927,0,0,Alexander County,238.0
-2928,0,0,Fulton County,238.0
-2929,0,0,Fayette County,237.0
-2930,0,0,Callaway County,237.0
-2931,0,0,Greene County,237.0
-2932,0,0,Sequoyah County,236.0
-2933,0,0,San Benito County,236.0
-2934,0,0,Seneca County,236.0
-2935,0,0,Cherokee County,236.0
-2936,0,0,Warren County,236.0
-2937,0,0,Elk County,235.0
-2938,0,0,Graves County,235.0
-2939,0,0,Marshall County,235.0
-2940,0,0,Pasquotank County,235.0
-2941,0,0,Camden County,235.0
-2942,0,0,Mecklenburg County,234.0
-2943,0,0,Dubois County,234.0
-2944,0,0,Tift County,234.0
-2945,0,0,Noble County,234.0
-2946,0,0,Madison County,233.0
-2947,0,0,Vernon Parish,233.0
-2948,0,0,Lea County,233.0
-2949,0,0,Wapello County,233.0
-2950,0,0,Osage County,233.0
-2951,0,0,Claiborne County,233.0
-2952,0,0,Montrose County,232.0
-2953,0,0,Woodford County,232.0
-2954,0,0,Coshocton County,232.0
-2955,0,0,Marshall County,232.0
-2956,0,0,Vilas County,232.0
-2957,0,0,Door County,231.0
-2958,0,0,Clinton County,231.0
-2959,0,0,DeKalb County,231.0
-2960,0,0,Mississippi County,231.0
-2961,0,0,Huron County,230.0
-2962,0,0,Harrison County,230.0
-2963,0,0,Lee County,230.0
-2964,0,0,Putnam County,230.0
-2965,0,0,Gilmer County,229.0
-2966,0,0,Yadkin County,229.0
-2967,0,0,Cheatham County,229.0
-2968,0,0,Stone County,229.0
-2969,0,0,Webster County,228.0
-2970,0,0,Colquitt County,228.0
-2971,0,0,La Plata County,228.0
-2972,0,0,Independence County,228.0
-2973,0,0,Johnson County,228.0
-2974,0,0,Mecosta County,228.0
-2975,0,0,Logan County,227.0
-2976,0,0,Phelps County,227.0
-2977,0,0,Buffalo County,226.0
-2978,0,0,Douglas County,226.0
-2979,0,0,Jasper County,226.0
-2980,0,0,Louisa County,226.0
-2981,0,0,Snyder County,225.0
-2982,0,0,Crittenden County,225.0
-2983,0,0,Emmet County,225.0
-2984,0,0,Petersburg City,225.0
-2985,0,0,Medina County,224.0
-2986,0,0,Union County,224.0
-2987,0,0,Lincoln County,224.0
-2988,0,0,Tooele County,224.0
-2989,0,0,Dorchester County,223.0
-2990,0,0,Jasper County,223.0
-2991,0,0,St. John the Baptist Parish,223.0
-2992,0,0,Clare County,223.0
-2993,0,0,Lincoln County,223.0
-2994,0,0,Avoyelles Parish,223.0
-2995,0,0,Knox County,223.0
-2996,0,0,Whitley County,223.0
-2997,0,0,Pontotoc County,223.0
-2998,0,0,Scotland County,222.0
-2999,0,0,Defiance County,221.0
-3000,0,0,Morrow County,221.0
-3001,0,0,Chester County,221.0
-3002,0,0,Chilton County,220.0
-3003,0,0,Clarendon County,220.0
-3004,0,0,Clinton County,219.0
-3005,0,0,Brown County,219.0
-3006,0,0,Orange County,218.0
-3007,0,0,Rhea County,218.0
-3008,0,0,Wexford County,218.0
-3009,0,0,Cooke County,217.0
-3010,0,0,Fannin County,217.0
-3011,0,0,Lawrence County,216.0
-3012,0,0,Gratiot County,216.0
-3013,0,0,Marshall County,215.0
-3014,0,0,McClain County,215.0
-3015,0,0,Newberry County,215.0
-3016,0,0,Jackson County,215.0
-3017,0,0,Hill County,215.0
-3018,0,0,Brown County,215.0
-3019,0,0,Apache County,214.0
-3020,0,0,Jefferson County,214.0
-3021,0,0,Miller County,214.0
-3022,0,0,Wharton County,214.0
-3023,0,0,Branch County,214.0
-3024,0,0,Dyer County,214.0
-3025,0,0,Pulaski County,214.0
-3026,0,0,Hancock County,213.0
-3027,0,0,Union County,213.0
-3028,0,0,Jackson County,213.0
-3029,0,0,McKinley County,213.0
-3030,0,0,Natchitoches Parish,213.0
-3031,0,0,Alcorn County,212.0
-3032,0,0,Escambia County,212.0
-3033,0,0,Wilson County,212.0
-3034,0,0,Schoharie County,212.0
-3035,0,0,Logan County,212.0
-3036,0,0,Sagadahoc County,212.0
-3037,0,0,Iberville Parish,212.0
-3038,0,0,Randolph County,211.0
-3039,0,0,Howell County,211.0
-3040,0,0,Calloway County,211.0
-3041,0,0,Alpena County,210.0
-3042,0,0,Cleburne County,210.0
-3043,0,0,Effingham County,210.0
-3044,0,0,Obion County,210.0
-3045,0,0,Williamsburg County,210.0
-3046,0,0,Liberty County,209.0
-3047,0,0,Isle of Wight County,209.0
-3048,0,0,Botetourt County,209.0
-3049,0,0,Silver Bow County,209.0
-3050,0,0,Fannin County,208.0
-3051,0,0,Green County,208.0
-3052,0,0,Kendall County,208.0
-3053,0,0,Lawrence County,208.0
-3054,0,0,Muhlenberg County,208.0
-3055,0,0,Hopkins County,208.0
-3056,0,0,Scotts Bluff County,207.0
-3057,0,0,Perry County,207.0
-3058,0,0,Jackson County,207.0
-3059,0,0,Cass County,206.0
-3060,0,0,Coffee County,206.0
-3061,0,0,Lafayette County,206.0
-3062,0,0,Laclede County,205.0
-3063,0,0,Marion County,205.0
-3064,0,0,Hoke County,205.0
-3065,0,0,Montgomery County,204.0
-3066,0,0,Marshall County,204.0
-3067,0,0,Perry County,204.0
-3068,0,0,Carroll County,204.0
-3069,0,0,Bladen County,203.0
-3070,0,0,Harris County,203.0
-3071,0,0,St. Bernard Parish,203.0
-3072,0,0,Cheboygan County,203.0
-3073,0,0,Lafayette County,203.0
-3074,0,0,Marion County,203.0
-3075,0,0,Iroquois County,203.0
-3076,0,0,Ware County,203.0
-3077,0,0,Hot Spring County,202.0
-3078,0,0,Huntington County,202.0
-3079,0,0,Williams County,202.0
-3080,0,0,Preston County,202.0
-3081,0,0,Addison County,202.0
-3082,0,0,Carter County,202.0
-3083,0,0,Wabash County,202.0
-3084,0,0,Beauregard Parish,202.0
-3085,0,0,Warren County,201.0
-3086,0,0,Dunn County,201.0
-3087,0,0,Union County,201.0
-3088,0,0,DeSoto County,201.0
-3089,0,0,Montgomery County,200.0
-3090,0,0,White County,200.0
-3091,0,0,Murray County,200.0
-3092,0,0,Marion County,199.0
-3093,0,0,Box Elder County,199.0
-3094,0,0,Clark County,199.0
-3095,0,0,Lincoln County,199.0
-3096,0,0,McCurtain County,198.0
-3097,0,0,Marshall County,198.0
-3098,0,0,Lumpkin County,197.0
-3099,0,0,Val Verde County,197.0
-3100,0,0,Gallia County,197.0
-3101,0,0,Stoddard County,197.0
-3102,0,0,Jackson County,197.0
-3103,0,0,Iosco County,196.0
-3104,0,0,Barry County,196.0
-3105,0,0,Iron County,196.0
-3106,0,0,Fremont County,196.0
-3107,0,0,Greene County,196.0
-3108,0,0,Prince George County,196.0
-3109,0,0,Bingham County,196.0
-3110,0,0,Franklin County,196.0
-3111,0,0,Cass County,196.0
-3112,0,0,Harlan County,195.0
-3113,0,0,Marion County,195.0
-3114,0,0,Matagorda County,195.0
-3115,0,0,Boyle County,195.0
-3116,0,0,Bolivar County,195.0
-3117,0,0,Marion County,194.0
-3118,0,0,Adams County,194.0
-3119,0,0,Amherst County,194.0
-3120,0,0,Caroline County,194.0
-3121,0,0,Panola County,194.0
-3122,0,0,Lincoln County,193.0
-3123,0,0,Maverick County,193.0
-3124,0,0,Gladwin County,193.0
-3125,0,0,Taylor County,193.0
-3126,0,0,Adams County,192.0
-3127,0,0,Wyoming County,192.0
-3128,0,0,Atascosa County,192.0
-3129,0,0,Madison County,192.0
-3130,0,0,Oconee County,191.0
-3131,0,0,Ottawa County,191.0
-3132,0,0,Gibson County,190.0
-3133,0,0,Webster County,190.0
-3134,0,0,Washington County,189.0
-3135,0,0,Evangeline Parish,189.0
-3136,0,0,Chippewa County,189.0
-3137,0,0,Monroe County,189.0
-3138,0,0,Jasper County,189.0
-3139,0,0,Juneau County,188.0
-3140,0,0,Steuben County,188.0
-3141,0,0,Pike County,187.0
-3142,0,0,Ashe County,187.0
-3143,0,0,Putnam County,187.0
-3144,0,0,Mason County,187.0
-3145,0,0,Tazewell County,187.0
-3146,0,0,Madison County,186.0
-3147,0,0,Platte County,186.0
-3148,0,0,Randolph County,186.0
-3149,0,0,Park County,186.0
-3150,0,0,Miami County,186.0
-3151,0,0,Weakley County,186.0
-3152,0,0,Warren County,185.0
-3153,0,0,Logan County,185.0
-3154,0,0,Upson County,185.0
-3155,0,0,White County,185.0
-3156,0,0,Orleans County,185.0
-3157,0,0,Lincoln County,184.0
-3158,0,0,Mingo County,184.0
-3159,0,0,Caledonia County,184.0
-3160,0,0,Pulaski County,184.0
-3161,0,0,Aransas County,184.0
-3162,0,0,Jefferson Davis Parish,184.0
-3163,0,0,Elko County,184.0
-3164,0,0,Morehouse Parish,184.0
-3165,0,0,Carroll County,183.0
-3166,0,0,Adams County,183.0
-3167,0,0,Lincoln Parish,183.0
-3168,0,0,Delta County,183.0
-3169,0,0,Lincoln County,183.0
-3170,0,0,Wythe County,183.0
-3171,0,0,Staunton City,182.0
-3172,0,0,Bell County,182.0
-3173,0,0,Grayson County,182.0
-3174,0,0,Monroe County,182.0
-3175,0,0,Whitley County,182.0
-3176,0,0,Adams County,182.0
-3177,0,0,Carroll County,182.0
-3178,0,0,De Soto Parish,182.0
-3179,0,0,Hardin County,182.0
-3180,0,0,Waller County,181.0
-3181,0,0,Gillespie County,181.0
-3182,0,0,Fayette County,180.0
-3183,0,0,Dunklin County,180.0
-3184,0,0,McDonough County,179.0
-3185,0,0,Garrett County,179.0
-3186,0,0,McNairy County,179.0
-3187,0,0,Kittitas County,179.0
-3188,0,0,Giles County,178.0
-3189,0,0,Vernon County,178.0
-3190,0,0,Summit County,177.0
-3191,0,0,Santa Cruz County,177.0
-3192,0,0,Clinton County,177.0
-3193,0,0,Sumter County,177.0
-3194,0,0,Lincoln County,176.0
-3195,0,0,Orange County,176.0
-3196,0,0,Antrim County,176.0
-3197,0,0,Haralson County,175.0
-3198,0,0,Crook County,175.0
-3199,0,0,Garvin County,175.0
-3200,0,0,Sioux County,175.0
-3201,0,0,Caroline County,175.0
-3202,0,0,Jim Wells County,174.0
-3203,0,0,Hocking County,174.0
-3204,0,0,Montgomery County,174.0
-3205,0,0,Morton County,174.0
-3206,0,0,Charlevoix County,174.0
-3207,0,0,Boone County,173.0
-3208,0,0,Benton County,173.0
-3209,0,0,Curry County,173.0
-3210,0,0,Mineral County,173.0
-3211,0,0,Lincoln County,172.0
-3212,0,0,Oktibbeha County,172.0
-3213,0,0,Copiah County,171.0
-3214,0,0,Curry County,171.0
-3215,0,0,Ouachita County,171.0
-3216,0,0,Lake County,171.0
-3217,0,0,Charlottesville City,171.0
-3218,0,0,Marion County,171.0
-3219,0,0,Saline County,171.0
-3220,0,0,Boone County,170.0
-3221,0,0,Sweetwater County,170.0
-3222,0,0,Trempealeau County,170.0
-3223,0,0,Lewis County,170.0
-3224,0,0,Poinsett County,170.0
-3225,0,0,Jo Daviess County,170.0
-3226,0,0,Stephens County,169.0
-3227,0,0,Jones County,169.0
-3228,0,0,Ogemaw County,169.0
-3229,0,0,Van Wert County,169.0
-3230,0,0,Hardin County,169.0
-3231,0,0,Wayne County,169.0
-3232,0,0,Bryan County,168.0
-3233,0,0,Martin County,168.0
-3234,0,0,Geneva County,168.0
-3235,0,0,Yates County,168.0
-3236,0,0,Tillamook County,168.0
-3237,0,0,Woodford County,168.0
-3238,0,0,Chambers County,168.0
-3239,0,0,Hardeman County,168.0
-3240,0,0,Goochland County,167.0
-3241,0,0,Manistee County,167.0
-3242,0,0,Codington County,166.0
-3243,0,0,Crawford County,166.0
-3244,0,0,Montgomery County,166.0
-3245,0,0,Osceola County,166.0
-3246,0,0,Henry County,166.0
-3247,0,0,Adams County,165.0
-3248,0,0,Carroll County,165.0
-3249,0,0,Eagle County,165.0
-3250,0,0,Sheridan County,165.0
-3251,0,0,Caldwell County,165.0
-3252,0,0,Erath County,165.0
-3253,0,0,Caddo County,165.0
-3254,0,0,Fluvanna County,165.0
-3255,0,0,Johnson County,165.0
-3256,0,0,Caswell County,164.0
-3257,0,0,Dillon County,164.0
-3258,0,0,Taos County,164.0
-3259,0,0,Wise County,164.0
-3260,0,0,Letcher County,164.0
-3261,0,0,Clay County,164.0
-3262,0,0,Nicholas County,164.0
-3263,0,0,Daviess County,163.0
-3264,0,0,Holmes County,163.0
-3265,0,0,Brooke County,163.0
-3266,0,0,Pontotoc County,163.0
-3267,0,0,Putnam County,163.0
-3268,0,0,Hart County,163.0
-3269,0,0,Jennings County,163.0
-3270,0,0,Salem City,162.0
-3271,0,0,Lee County,162.0
-3272,0,0,Henderson County,162.0
-3273,0,0,Mercer County,162.0
-3274,0,0,Henry County,161.0
-3275,0,0,Dinwiddie County,161.0
-3276,0,0,Glenn County,161.0
-3277,0,0,Pacific County,161.0
-3278,0,0,Washington County,161.0
-3279,0,0,Grainger County,160.0
-3280,0,0,Leflore County,160.0
-3281,0,0,Meade County,160.0
-3282,0,0,San Jacinto County,160.0
-3283,0,0,Plymouth County,160.0
-3284,0,0,Wakulla County,160.0
-3285,0,0,Upshur County,159.0
-3286,0,0,Leelanau County,159.0
-3287,0,0,Bradford County,159.0
-3288,0,0,Franklin County,159.0
-3289,0,0,Randolph County,159.0
-3290,0,0,Rockbridge County,159.0
-3291,0,0,Austin County,158.0
-3292,0,0,Latah County,158.0
-3293,0,0,Palo Pinto County,158.0
-3294,0,0,Pike County,158.0
-3295,0,0,Ripley County,158.0
-3296,0,0,Starke County,158.0
-3297,0,0,Benton County,157.0
-3298,0,0,Cass County,157.0
-3299,0,0,Shelby County,157.0
-3300,0,0,Wasco County,157.0
-3301,0,0,Cherokee County,157.0
-3302,0,0,Houghton County,157.0
-3303,0,0,Rio Arriba County,157.0
-3304,0,0,Overton County,157.0
-3305,0,0,Union County,157.0
-3306,0,0,Clarke County,156.0
-3307,0,0,Llano County,156.0
-3308,0,0,Polk County,156.0
-3309,0,0,Prentiss County,156.0
-3310,0,0,Houston County,156.0
-3311,0,0,Ohio County,156.0
-3312,0,0,Wells County,155.0
-3313,0,0,Simpson County,155.0
-3314,0,0,Waushara County,155.0
-3315,0,0,White County,155.0
-3316,0,0,Fayette County,155.0
-3317,0,0,Morgan County,155.0
-3318,0,0,Marlboro County,154.0
-3319,0,0,Decatur County,154.0
-3320,0,0,Jasper County,154.0
-3321,0,0,Harrisonburg City,154.0
-3322,0,0,Hendry County,154.0
-3323,0,0,Milam County,154.0
-3324,0,0,Powhatan County,154.0
-3325,0,0,Mason County,153.0
-3326,0,0,Carroll County,153.0
-3327,0,0,Kent County,152.0
-3328,0,0,Lauderdale County,152.0
-3329,0,0,Scott County,152.0
-3330,0,0,Chattooga County,152.0
-3331,0,0,Peach County,152.0
-3332,0,0,Somerset County,152.0
-3333,0,0,Waynesboro City,152.0
-3334,0,0,Grant County,152.0
-3335,0,0,Meigs County,151.0
-3336,0,0,Dickinson County,151.0
-3337,0,0,Hampshire County,151.0
-3338,0,0,Howard County,151.0
-3339,0,0,Page County,151.0
-3340,0,0,Scott County,151.0
-3341,0,0,Decatur County,150.0
-3342,0,0,Oceana County,150.0
-3343,0,0,Toombs County,150.0
-3344,0,0,Juniata County,150.0
-3345,0,0,Abbeville County,150.0
-3346,0,0,Tate County,149.0
-3347,0,0,Yazoo County,149.0
-3348,0,0,Dickinson County,149.0
-3349,0,0,Union County,149.0
-3350,0,0,Neshoba County,149.0
-3351,0,0,Posey County,149.0
-3352,0,0,Graham County,148.0
-3353,0,0,Otsego County,148.0
-3354,0,0,Menominee County,148.0
-3355,0,0,Anson County,148.0
-3356,0,0,Audrain County,148.0
-3357,0,0,Franklin County,148.0
-3358,0,0,Piscataquis County,147.0
-3359,0,0,Sabine Parish,147.0
-3360,0,0,Lincoln County,147.0
-3361,0,0,Ashley County,147.0
-3362,0,0,Brookings County,147.0
-3363,0,0,Campbell County,146.0
-3364,0,0,Langlade County,146.0
-3365,0,0,Barbour County,146.0
-3366,0,0,Meriwether County,146.0
-3367,0,0,Smyth County,146.0
-3368,0,0,Fairfield County,145.0
-3369,0,0,Bremer County,145.0
-3370,0,0,Miller County,145.0
-3371,0,0,Polk County,145.0
-3372,0,0,Warren County,145.0
-3373,0,0,Hickman County,144.0
-3374,0,0,LaGrange County,144.0
-3375,0,0,Van Buren County,144.0
-3376,0,0,Pointe Coupee Parish,144.0
-3377,0,0,Gage County,144.0
-3378,0,0,Grant County,143.0
-3379,0,0,Winston County,143.0
-3380,0,0,Ray County,143.0
-3381,0,0,Sunflower County,143.0
-3382,0,0,Northampton County,143.0
-3383,0,0,Allen Parish,142.0
-3384,0,0,West Baton Rouge Parish,142.0
-3385,0,0,Manassas City,142.0
-3386,0,0,Montour County,142.0
-3387,0,0,Grady County,142.0
-3388,0,0,Edgefield County,142.0
-3389,0,0,Texas County,141.0
-3390,0,0,Tishomingo County,141.0
-3391,0,0,Breckinridge County,141.0
-3392,0,0,Wyoming County,141.0
-3393,0,0,Pierce County,140.0
-3394,0,0,Butts County,140.0
-3395,0,0,Dawson County,140.0
-3396,0,0,Johnson County,140.0
-3397,0,0,Assumption Parish,140.0
-3398,0,0,Del Norte County,140.0
-3399,0,0,Currituck County,140.0
-3400,0,0,Grimes County,139.0
-3401,0,0,Hopewell City,139.0
-3402,0,0,Greene County,139.0
-3403,0,0,Grenada County,139.0
-3404,0,0,Marion County,139.0
-3405,0,0,Teller County,139.0
-3406,0,0,Luna County,139.0
-3407,0,0,Anderson County,139.0
-3408,0,0,Lampasas County,139.0
-3409,0,0,Madison County,139.0
-3410,0,0,Union Parish,138.0
-3411,0,0,Jersey County,138.0
-3412,0,0,Payette County,138.0
-3413,0,0,Logan County,138.0
-3414,0,0,Worth County,138.0
-3415,0,0,Lamoille County,138.0
-3416,0,0,Seminole County,138.0
-3417,0,0,Fayette County,137.0
-3418,0,0,Owen County,137.0
-3419,0,0,Washington County,137.0
-3420,0,0,Washington County,137.0
-3421,0,0,Bourbon County,137.0
-3422,0,0,Randolph County,137.0
-3423,0,0,McDuffie County,137.0
-3424,0,0,Itawamba County,137.0
-3425,0,0,Clinton County,136.0
-3426,0,0,Kleberg County,136.0
-3427,0,0,New Kent County,136.0
-3428,0,0,Fayette County,136.0
-3429,0,0,Hardin County,136.0
-3430,0,0,McIntosh County,136.0
-3431,0,0,Russell County,136.0
-3432,0,0,St. James Parish,136.0
-3433,0,0,Klickitat County,135.0
-3434,0,0,Benton County,135.0
-3435,0,0,Clay County,135.0
-3436,0,0,Bandera County,135.0
-3437,0,0,Plumas County,135.0
-3438,0,0,Wayne County,134.0
-3439,0,0,Morgan County,134.0
-3440,0,0,Perry County,134.0
-3441,0,0,San Miguel County,134.0
-3442,0,0,Hardee County,133.0
-3443,0,0,Jackson County,133.0
-3444,0,0,Macon County,133.0
-3445,0,0,Lawrence County,133.0
-3446,0,0,Taylor County,133.0
-3447,0,0,Westmoreland County,133.0
-3448,0,0,Washington County,133.0
-3449,0,0,Lassen County,133.0
-3450,0,0,Jones County,132.0
-3451,0,0,Winchester City,132.0
-3452,0,0,Randolph County,132.0
-3453,0,0,Coahoma County,132.0
-3454,0,0,Dukes County,132.0
-3455,0,0,East Feliciana Parish,132.0
-3456,0,0,Juneau Borough,132.0
-3457,0,0,McDowell County,132.0
-3458,0,0,Sharp County,132.0
-3459,0,0,Stark County,132.0
-3460,0,0,Schuyler County,131.0
-3461,0,0,Titus County,131.0
-3462,0,0,Limestone County,131.0
-3463,0,0,Jefferson County,131.0
-3464,0,0,Lavaca County,131.0
-3465,0,0,Yancey County,130.0
-3466,0,0,Iowa County,130.0
-3467,0,0,Prince Edward County,130.0
-3468,0,0,Scott County,130.0
-3469,0,0,Bertie County,130.0
-3470,0,0,Franklin County,130.0
-3471,0,0,Wyandot County,130.0
-3472,0,0,Elbert County,129.0
-3473,0,0,Hale County,129.0
-3474,0,0,San Juan County,129.0
-3475,0,0,Franklin Parish,129.0
-3476,0,0,Mitchell County,129.0
-3477,0,0,Panola County,129.0
-3478,0,0,Washington County,129.0
-3479,0,0,Polk County,129.0
-3480,0,0,Saline County,129.0
-3481,0,0,Washburn County,128.0
-3482,0,0,Benzie County,128.0
-3483,0,0,Malheur County,128.0
-3484,0,0,Hertford County,128.0
-3485,0,0,St. Francis County,128.0
-3486,0,0,Saunders County,128.0
-3487,0,0,Sawyer County,128.0
-3488,0,0,Marion County,127.0
-3489,0,0,Jay County,127.0
-3490,0,0,La Paz County,127.0
-3491,0,0,Colorado County,127.0
-3492,0,0,Fentress County,127.0
-3493,0,0,Hancock County,127.0
-3494,0,0,Unicoi County,127.0
-3495,0,0,Conway County,127.0
-3496,0,0,Fayette County,127.0
-3497,0,0,Pickens County,127.0
-3498,0,0,Bibb County,127.0
-3499,0,0,Macon County,127.0
-3500,0,0,Hart County,126.0
-3501,0,0,Rowan County,126.0
-3502,0,0,Chaffee County,126.0
-3503,0,0,Carroll County,126.0
-3504,0,0,Jackson County,126.0
-3505,0,0,Lewis County,126.0
-3506,0,0,Baker County,126.0
-3507,0,0,Dixie County,126.0
-3508,0,0,Page County,126.0
-3509,0,0,Southampton County,126.0
-3510,0,0,Burnett County,125.0
-3511,0,0,Churchill County,125.0
-3512,0,0,Emanuel County,125.0
-3513,0,0,Fredericksburg City,125.0
-3514,0,0,Henry County,125.0
-3515,0,0,Kalkaska County,125.0
-3516,0,0,Allen County,125.0
-3517,0,0,Washington County,125.0
-3518,0,0,Buchanan County,124.0
-3519,0,0,Custer County,124.0
-3520,0,0,Humphreys County,124.0
-3521,0,0,Burke County,124.0
-3522,0,0,Crawford County,124.0
-3523,0,0,Union County,124.0
-3524,0,0,Bee County,124.0
-3525,0,0,Arkansas County,124.0
-3526,0,0,Davison County,124.0
-3527,0,0,Nelson County,124.0
-3528,0,0,Kewaunee County,123.0
-3529,0,0,Monroe County,123.0
-3530,0,0,Montague County,123.0
-3531,0,0,Tippah County,123.0
-3532,0,0,Harrison County,123.0
-3533,0,0,Lawrence County,123.0
-3534,0,0,Avery County,123.0
-3535,0,0,DeWitt County,123.0
-3536,0,0,Morgan County,123.0
-3537,0,0,Shelby County,123.0
-3538,0,0,Clark County,123.0
-3539,0,0,Leake County,123.0
-3540,0,0,Newton County,123.0
-3541,0,0,Tama County,123.0
-3542,0,0,Towns County,123.0
-3543,0,0,Uintah County,123.0
-3544,0,0,Douglas County,122.0
-3545,0,0,Garrard County,122.0
-3546,0,0,Meade County,122.0
-3547,0,0,Rabun County,122.0
-3548,0,0,Brunswick County,122.0
-3549,0,0,Mahaska County,122.0
-3550,0,0,Gem County,122.0
-3551,0,0,Orange County,122.0
-3552,0,0,Potter County,122.0
-3553,0,0,Albany County,121.0
-3554,0,0,Morgan County,121.0
-3555,0,0,Adair County,121.0
-3556,0,0,Crisp County,121.0
-3557,0,0,Price County,121.0
-3558,0,0,Yell County,121.0
-3559,0,0,Randolph County,121.0
-3560,0,0,Northumberland County,121.0
-3561,0,0,Arenac County,121.0
-3562,0,0,Hutchinson County,121.0
-3563,0,0,Elmore County,120.0
-3564,0,0,Vernon County,120.0
-3565,0,0,Barnwell County,120.0
-3566,0,0,Cedar County,120.0
-3567,0,0,Montezuma County,120.0
-3568,0,0,Sullivan County,120.0
-3569,0,0,Colonial Heights City,120.0
-3570,0,0,Grant County,120.0
-3571,0,0,Marengo County,120.0
-3572,0,0,Marquette County,120.0
-3573,0,0,Clay County,119.0
-3574,0,0,Clayton County,119.0
-3575,0,0,Jackson County,119.0
-3576,0,0,Lincoln County,119.0
-3577,0,0,Lawrence County,119.0
-3578,0,0,Bosque County,118.0
-3579,0,0,De Witt County,118.0
-3580,0,0,Spencer County,118.0
-3581,0,0,Rockcastle County,118.0
-3582,0,0,Clay County,117.0
-3583,0,0,Wetzel County,117.0
-3584,0,0,Yankton County,117.0
-3585,0,0,Inyo County,117.0
-3586,0,0,Clay County,117.0
-3587,0,0,Covington County,117.0
-3588,0,0,Adair County,116.0
-3589,0,0,Fulton County,116.0
-3590,0,0,Polk County,116.0
-3591,0,0,Pike County,116.0
-3592,0,0,Richland Parish,116.0
-3593,0,0,Blaine County,116.0
-3594,0,0,Concordia Parish,116.0
-3595,0,0,Floyd County,116.0
-3596,0,0,Johnson County,116.0
-3597,0,0,Mercer County,116.0
-3598,0,0,Butler County,116.0
-3599,0,0,Delaware County,116.0
-3600,0,0,Saluda County,116.0
-3601,0,0,Dawson County,116.0
-3602,0,0,Uvalde County,116.0
-3603,0,0,Mariposa County,115.0
-3604,0,0,Trinity County,115.0
-3605,0,0,Wright County,115.0
-3606,0,0,Fountain County,115.0
-3607,0,0,Taylor County,115.0
-3608,0,0,Grant Parish,114.0
-3609,0,0,Pamlico County,114.0
-3610,0,0,Poweshiek County,114.0
-3611,0,0,Tattnall County,114.0
-3612,0,0,Wayne County,114.0
-3613,0,0,Gray County,114.0
-3614,0,0,Greene County,114.0
-3615,0,0,Piatt County,114.0
-3616,0,0,McDonald County,114.0
-3617,0,0,Estill County,113.0
-3618,0,0,Mason County,113.0
-3619,0,0,King George County,113.0
-3620,0,0,Lee County,113.0
-3621,0,0,Plaquemines Parish,113.0
-3622,0,0,Wayne County,113.0
-3623,0,0,Winneshiek County,113.0
-3624,0,0,Freestone County,113.0
-3625,0,0,New Madrid County,113.0
-3626,0,0,Attala County,113.0
-3627,0,0,Elbert County,113.0
-3628,0,0,Hempstead County,113.0
-3629,0,0,Adair County,112.0
-3630,0,0,Asotin County,112.0
-3631,0,0,Edgar County,112.0
-3632,0,0,Paulding County,112.0
-3633,0,0,Columbia County,112.0
-3634,0,0,Henry County,112.0
-3635,0,0,Morgan County,112.0
-3636,0,0,Phillips County,112.0
-3637,0,0,Union County,112.0
-3638,0,0,Green Lake County,111.0
-3639,0,0,Eastland County,111.0
-3640,0,0,Stutsman County,111.0
-3641,0,0,White County,111.0
-3642,0,0,Bayfield County,111.0
-3643,0,0,Holmes County,111.0
-3644,0,0,Mitchell County,111.0
-3645,0,0,Simpson County,111.0
-3646,0,0,Lamar County,110.0
-3647,0,0,Drew County,110.0
-3648,0,0,Spencer County,110.0
-3649,0,0,Calhoun County,110.0
-3650,0,0,Cibola County,110.0
-3651,0,0,Beadle County,110.0
-3652,0,0,Franklin County,110.0
-3653,0,0,Williams County,109.0
-3654,0,0,Jackson County,109.0
-3655,0,0,Butler County,109.0
-3656,0,0,Crawford County,109.0
-3657,0,0,Idaho County,109.0
-3658,0,0,Kossuth County,109.0
-3659,0,0,Warren County,109.0
-3660,0,0,Wasatch County,109.0
-3661,0,0,Winston County,109.0
-3662,0,0,Hood River County,109.0
-3663,0,0,Bond County,108.0
-3664,0,0,McCreary County,108.0
-3665,0,0,Richland County,108.0
-3666,0,0,Rush County,108.0
-3667,0,0,Tyler County,108.0
-3668,0,0,Young County,108.0
-3669,0,0,Whitman County,108.0
-3670,0,0,Cross County,108.0
-3671,0,0,Dallas County,108.0
-3672,0,0,Jasper County,108.0
-3673,0,0,Perry County,108.0
-3674,0,0,Beckham County,108.0
-3675,0,0,DeKalb County,108.0
-3676,0,0,Henry County,108.0
-3677,0,0,Alleghany County and Clifton Forge City,107.0
-3678,0,0,Fayette County,107.0
-3679,0,0,Clark County,106.0
-3680,0,0,Pike County,106.0
-3681,0,0,Presque Isle County,106.0
-3682,0,0,Russell County,106.0
-3683,0,0,Smith County,106.0
-3684,0,0,Dodge County,106.0
-3685,0,0,Hamilton County,106.0
-3686,0,0,Richland County,106.0
-3687,0,0,Taylor County,106.0
-3688,0,0,Banks County,106.0
-3689,0,0,Burleson County,106.0
-3690,0,0,Chowan County,106.0
-3691,0,0,Leon County,105.0
-3692,0,0,Northampton County,105.0
-3693,0,0,Park County,105.0
-3694,0,0,Marshall County,105.0
-3695,0,0,Berrien County,104.0
-3696,0,0,Swain County,104.0
-3697,0,0,Ben Hill County,104.0
-3698,0,0,Carroll County,104.0
-3699,0,0,Fleming County,104.0
-3700,0,0,Gulf County,104.0
-3701,0,0,Hampton County,104.0
-3702,0,0,Cooper County,103.0
-3703,0,0,Roane County,103.0
-3704,0,0,Teton County,103.0
-3705,0,0,Vermillion County,103.0
-3706,0,0,Ashland County,103.0
-3707,0,0,Claiborne Parish,103.0
-3708,0,0,Pierce County,103.0
-3709,0,0,Giles County,103.0
-3710,0,0,Haywood County,103.0
-3711,0,0,Nodaway County,103.0
-3712,0,0,Clay County,103.0
-3713,0,0,Falls County,103.0
-3714,0,0,Perry County,103.0
-3715,0,0,Brown County,103.0
-3716,0,0,Gasconade County,103.0
-3717,0,0,Pike County,103.0
-3718,0,0,Ste. Genevieve County,103.0
-3719,0,0,Carbon County,102.0
-3720,0,0,Casey County,102.0
-3721,0,0,Lamar County,102.0
-3722,0,0,Nottoway County,102.0
-3723,0,0,Rusk County,102.0
-3724,0,0,George County,102.0
-3725,0,0,King William County,102.0
-3726,0,0,Lewis County,102.0
-3727,0,0,Trigg County,102.0
-3728,0,0,Wayne County,102.0
-3729,0,0,Logan County,102.0
-3730,0,0,Patrick County,102.0
-3731,0,0,Pawnee County,102.0
-3732,0,0,Tipton County,102.0
-3733,0,0,Harrison County,102.0
-3734,0,0,Hockley County,102.0
-3735,0,0,Missaukee County,102.0
-3736,0,0,Gilchrist County,101.0
-3737,0,0,Iowa County,101.0
-3738,0,0,Cass County,101.0
-3739,0,0,Chickasaw County,101.0
-3740,0,0,Torrance County,101.0
-3741,0,0,Jefferson County,101.0
-3742,0,0,Mills County,101.0
-3743,0,0,Wayne County,101.0
-3744,0,0,Fairfax City,100.0
-3745,0,0,Knott County,100.0
-3746,0,0,Brooks County,100.0
-3747,0,0,Brantley County,100.0
-3748,0,0,Breathitt County,100.0
-3749,0,0,Crawford County,100.0
-3750,0,0,Fulton County,100.0
-3751,0,0,Los Alamos County,100.0
-3752,0,0,Macon County,100.0
-3753,0,0,Hughes County,100.0
-3754,0,0,Lee County,100.0
-3755,0,0,Barbour County,99.0
-3756,0,0,Lancaster County,99.0
-3757,0,0,Cook County,99.0
-3758,0,0,Ford County,99.0
-3759,0,0,Greene County,99.0
-3760,0,0,Mason County,99.0
-3761,0,0,Stone County,99.0
-3762,0,0,Jackson Parish,99.0
-3763,0,0,Sanders County,99.0
-3764,0,0,Otoe County,99.0
-3765,0,0,Buena Vista County,98.0
-3766,0,0,Perquimans County,98.0
-3767,0,0,Sierra County,98.0
-3768,0,0,Buckingham County,98.0
-3769,0,0,Washington County,98.0
-3770,0,0,Andrew County,98.0
-3771,0,0,Lawrence County,98.0
-3772,0,0,Craig County,97.0
-3773,0,0,Monroe County,97.0
-3774,0,0,Calhoun County,97.0
-3775,0,0,Sequatchie County,97.0
-3776,0,0,Jefferson County,97.0
-3777,0,0,Lafayette County,97.0
-3778,0,0,Dakota County,96.0
-3779,0,0,Morgan County,96.0
-3780,0,0,Walthall County,96.0
-3781,0,0,Clarke County,96.0
-3782,0,0,Minidoka County,96.0
-3783,0,0,Appling County,96.0
-3784,0,0,Massac County,96.0
-3785,0,0,Monroe County,96.0
-3786,0,0,O'Brien County,96.0
-3787,0,0,Crawford County,96.0
-3788,0,0,Crenshaw County,95.0
-3789,0,0,Bienville Parish,95.0
-3790,0,0,Grundy County,95.0
-3791,0,0,Yalobusha County,95.0
-3792,0,0,Choctaw County,95.0
-3793,0,0,Otero County,95.0
-3794,0,0,Mississippi County,94.0
-3795,0,0,Bamberg County,94.0
-3796,0,0,Richland County,94.0
-3797,0,0,Oglethorpe County,94.0
-3798,0,0,Pendleton County,94.0
-3799,0,0,Routt County,94.0
-3800,0,0,Alcona County,94.0
-3801,0,0,Braxton County,94.0
-3802,0,0,Calhoun County,94.0
-3803,0,0,Greene County,94.0
-3804,0,0,Jefferson County,93.0
-3805,0,0,Cleburne County,93.0
-3806,0,0,Jerome County,93.0
-3807,0,0,Sevier County,93.0
-3808,0,0,Shoshone County,93.0
-3809,0,0,Washington County,93.0
-3810,0,0,Chester County,93.0
-3811,0,0,Union County,93.0
-3812,0,0,Clay County,93.0
-3813,0,0,Middlesex County,93.0
-3814,0,0,Powell County,93.0
-3815,0,0,Dent County,93.0
-3816,0,0,Jasper County,92.0
-3817,0,0,West Feliciana Parish,92.0
-3818,0,0,Gogebic County,92.0
-3819,0,0,Kingfisher County,92.0
-3820,0,0,Marshall County,92.0
-3821,0,0,Jones County,92.0
-3822,0,0,Pemiscot County,92.0
-3823,0,0,Vinton County,92.0
-3824,0,0,Harrison County,91.0
-3825,0,0,Stewart County,91.0
-3826,0,0,McIntosh County,91.0
-3827,0,0,Menard County,91.0
-3828,0,0,Appomattox County,91.0
-3829,0,0,Grayson County,91.0
-3830,0,0,Stone County,91.0
-3831,0,0,Bates County,90.0
-3832,0,0,Blackford County,90.0
-3833,0,0,Trinity County,90.0
-3834,0,0,Madison County,90.0
-3835,0,0,Madison County,90.0
-3836,0,0,Shelby County,90.0
-3837,0,0,Washington County,90.0
-3838,0,0,Cassia County,90.0
-3839,0,0,Gonzales County,90.0
-3840,0,0,Parke County,90.0
-3841,0,0,Seward County,90.0
-3842,0,0,Union County,90.0
-3843,0,0,Woodward County,89.0
-3844,0,0,Larue County,89.0
-3845,0,0,Colusa County,89.0
-3846,0,0,Appanoose County,89.0
-3847,0,0,Cedar County,88.0
-3848,0,0,Smith County,88.0
-3849,0,0,Baker County,88.0
-3850,0,0,Montgomery County,88.0
-3851,0,0,Ripley County,88.0
-3852,0,0,Butler County,88.0
-3853,0,0,Clay County,88.0
-3854,0,0,Crockett County,88.0
-3855,0,0,Floyd County,88.0
-3856,0,0,Madison County,88.0
-3857,0,0,Screven County,87.0
-3858,0,0,Amite County,87.0
-3859,0,0,Cass County,87.0
-3860,0,0,Grundy County,87.0
-3861,0,0,Moultrie County,87.0
-3862,0,0,Edmonson County,87.0
-3863,0,0,Fulton County,87.0
-3864,0,0,Bath County,87.0
-3865,0,0,Madison County,87.0
-3866,0,0,Choctaw County,87.0
-3867,0,0,Izard County,87.0
-3868,0,0,Livingston County,87.0
-3869,0,0,Hughes County,86.0
-3870,0,0,Lake County,86.0
-3871,0,0,Duchesne County,86.0
-3872,0,0,Nolan County,86.0
-3873,0,0,Winn Parish,86.0
-3874,0,0,Red River County,85.0
-3875,0,0,La Salle Parish,85.0
-3876,0,0,Lunenburg County,85.0
-3877,0,0,Caldwell County,85.0
-3878,0,0,Jefferson County,85.0
-3879,0,0,Lincoln County,85.0
-3880,0,0,Sanpete County,85.0
-3881,0,0,Gooding County,85.0
-3882,0,0,Meigs County,85.0
-3883,0,0,Crawford County,84.0
-3884,0,0,Sabine County,84.0
-3885,0,0,Decatur County,84.0
-3886,0,0,Jefferson County,84.0
-3887,0,0,Madison County,84.0
-3888,0,0,Martinsville City,84.0
-3889,0,0,Robertson County,84.0
-3890,0,0,Buchanan County,84.0
-3891,0,0,Webster County,84.0
-3892,0,0,Charlotte County,83.0
-3893,0,0,Essex County,83.0
-3894,0,0,Murray County,83.0
-3895,0,0,Custer County,83.0
-3896,0,0,Jackson County,83.0
-3897,0,0,Monroe County,83.0
-3898,0,0,Allamakee County,83.0
-3899,0,0,Calhoun County,83.0
-3900,0,0,Cherokee County,83.0
-3901,0,0,Conecuh County,83.0
-3902,0,0,McCormick County,83.0
-3903,0,0,Socorro County,83.0
-3904,0,0,York County,83.0
-3905,0,0,Saline County,83.0
-3906,0,0,Madison County,82.0
-3907,0,0,Newton County,82.0
-3908,0,0,Iron County,82.0
-3909,0,0,Jackson County,82.0
-3910,0,0,Lee County,82.0
-3911,0,0,Buffalo County,81.0
-3912,0,0,Green County,81.0
-3913,0,0,Montgomery County,81.0
-3914,0,0,Sussex County,81.0
-3915,0,0,Summers County,81.0
-3916,0,0,Union County,81.0
-3917,0,0,Alleghany County,81.0
-3918,0,0,Amelia County,81.0
-3919,0,0,Callahan County,81.0
-3920,0,0,Comanche County,81.0
-3921,0,0,Montmorency County,81.0
-3922,0,0,Scott County,81.0
-3923,0,0,Texas County,81.0
-3924,0,0,Washington County,81.0
-3925,0,0,Magoffin County,81.0
-3926,0,0,Johnson County,80.0
-3927,0,0,Mackinac County,80.0
-3928,0,0,Lawrence County,80.0
-3929,0,0,Pike County,80.0
-3930,0,0,Cannon County,80.0
-3931,0,0,Las Animas County,80.0
-3932,0,0,Pulaski County,79.0
-3933,0,0,Rains County,79.0
-3934,0,0,Uinta County,79.0
-3935,0,0,Clarke County,79.0
-3936,0,0,Jefferson Davis County,79.0
-3937,0,0,Tallahatchie County,79.0
-3938,0,0,Linn County,79.0
-3939,0,0,Little River County,79.0
-3940,0,0,Iron County,78.0
-3941,0,0,Palo Alto County,78.0
-3942,0,0,Pend Oreille County,78.0
-3943,0,0,Dade County,78.0
-3944,0,0,Hancock County,78.0
-3945,0,0,Mathews County,78.0
-3946,0,0,Bledsoe County,78.0
-3947,0,0,Chickasaw County,78.0
-3948,0,0,Bradley County,78.0
-3949,0,0,Hill County,78.0
-3950,0,0,Barton County,77.0
-3951,0,0,Morris County,77.0
-3952,0,0,Park County,77.0
-3953,0,0,Willacy County,77.0
-3954,0,0,Marion County,77.0
-3955,0,0,Morgan County,77.0
-3956,0,0,Franklin County,77.0
-3957,0,0,Hale County,77.0
-3958,0,0,Atoka County,77.0
-3959,0,0,Monona County,77.0
-3960,0,0,Clinton County,76.0
-3961,0,0,Pitkin County,76.0
-3962,0,0,Lowndes County,76.0
-3963,0,0,Osage County,76.0
-3964,0,0,Greensville County,76.0
-3965,0,0,Lake County,76.0
-3966,0,0,Lewis County,76.0
-3967,0,0,Scurry County,76.0
-3968,0,0,Calhoun County,76.0
-3969,0,0,Boundary County,76.0
-3970,0,0,Martin County,76.0
-3971,0,0,Camp County,75.0
-3972,0,0,Hardy County,75.0
-3973,0,0,Newton County,75.0
-3974,0,0,Fergus County,75.0
-3975,0,0,Noble County,75.0
-3976,0,0,Wilbarger County,75.0
-3977,0,0,Guthrie County,74.0
-3978,0,0,Hamilton County,74.0
-3979,0,0,Dickenson County,74.0
-3980,0,0,Heard County,74.0
-3981,0,0,Moore County,74.0
-3982,0,0,Summit County,74.0
-3983,0,0,Todd County,74.0
-3984,0,0,Macon County,74.0
-3985,0,0,Carbon County,74.0
-3986,0,0,Greene County,74.0
-3987,0,0,Williamsburg City,74.0
-3988,0,0,Barnes County,74.0
-3989,0,0,Converse County,74.0
-3990,0,0,Holmes County,73.0
-3991,0,0,Bollinger County,73.0
-3992,0,0,Okfuskee County,73.0
-3993,0,0,Wabash County,73.0
-3994,0,0,Bleckley County,73.0
-3995,0,0,Lyon County,73.0
-3996,0,0,Pushmataha County,73.0
-3997,0,0,Forest County,73.0
-3998,0,0,Moniteau County,73.0
-3999,0,0,Perry County,73.0
-4000,0,0,Sumter County,72.0
-4001,0,0,Walsh County,72.0
-4002,0,0,Carroll County,72.0
-4003,0,0,Mitchell County,72.0
-4004,0,0,Wilcox County,72.0
-4005,0,0,Desha County,72.0
-4006,0,0,Franklin County,72.0
-4007,0,0,Washington County,72.0
-4008,0,0,Wright County,72.0
-4009,0,0,Douglas County,72.0
-4010,0,0,Emmet County,72.0
-4011,0,0,Keokuk County,72.0
-4012,0,0,McLean County,72.0
-4013,0,0,Poquoson City,72.0
-4014,0,0,Crawford County,71.0
-4015,0,0,Haskell County,71.0
-4016,0,0,Leslie County,71.0
-4017,0,0,Deaf Smith County,71.0
-4018,0,0,McLean County,71.0
-4019,0,0,Stillwater County,71.0
-4020,0,0,Perry County,71.0
-4021,0,0,Owen County,71.0
-4022,0,0,Carroll County,70.0
-4023,0,0,Catahoula Parish,70.0
-4024,0,0,Sac County,70.0
-4025,0,0,Winnebago County,70.0
-4026,0,0,Colfax County,70.0
-4027,0,0,West Carroll Parish,70.0
-4028,0,0,Carbon County,70.0
-4029,0,0,Glades County,70.0
-4030,0,0,Livingston County,70.0
-4031,0,0,Clearwater County,70.0
-4032,0,0,Webster County,70.0
-4033,0,0,Jeff Davis County,69.0
-4034,0,0,Richmond County,69.0
-4035,0,0,Wilkes County,69.0
-4036,0,0,Montgomery County,69.0
-4037,0,0,Jackson County,69.0
-4038,0,0,Chicot County,69.0
-4039,0,0,Blanco County,69.0
-4040,0,0,Cumberland County,69.0
-4041,0,0,Grant County,68.0
-4042,0,0,Nowata County,68.0
-4043,0,0,Humboldt County,68.0
-4044,0,0,Metcalfe County,68.0
-4045,0,0,Oscoda County,68.0
-4046,0,0,Rolette County,68.0
-4047,0,0,Howard County,68.0
-4048,0,0,Montgomery County,68.0
-4049,0,0,St. Helena Parish,68.0
-4050,0,0,Roosevelt County,68.0
-4051,0,0,Telfair County,68.0
-4052,0,0,Custer County,68.0
-4053,0,0,Love County,68.0
-4054,0,0,Noble County,68.0
-4055,0,0,Pike County,68.0
-4056,0,0,Deer Lodge County,67.0
-4057,0,0,Dooly County,67.0
-4058,0,0,Big Horn County,67.0
-4059,0,0,Lemhi County,67.0
-4060,0,0,Ramsey County,67.0
-4061,0,0,Valley County,67.0
-4062,0,0,Charlton County,67.0
-4063,0,0,Lyon County,67.0
-4064,0,0,Richardson County,67.0
-4065,0,0,Goshen County,67.0
-4066,0,0,Ketchikan Gateway Borough,67.0
-4067,0,0,Clay County,66.0
-4068,0,0,Holt County,66.0
-4069,0,0,Jones County,66.0
-4070,0,0,Crittenden County,66.0
-4071,0,0,Greene County,66.0
-4072,0,0,Ralls County,66.0
-4073,0,0,Clay County,65.0
-4074,0,0,Humboldt County,65.0
-4075,0,0,St. Clair County,65.0
-4076,0,0,Hamilton County,65.0
-4077,0,0,Noxubee County,65.0
-4078,0,0,Keith County,65.0
-4079,0,0,Live Oak County,64.0
-4080,0,0,Ritchie County,64.0
-4081,0,0,Dawson County,64.0
-4082,0,0,Clarke County,64.0
-4083,0,0,Terrell County,64.0
-4084,0,0,Box Butte County,64.0
-4085,0,0,Kiowa County,64.0
-4086,0,0,Madison County,63.0
-4087,0,0,Caldwell Parish,63.0
-4088,0,0,Frio County,63.0
-4089,0,0,Pocahontas County,63.0
-4090,0,0,Fremont County,63.0
-4091,0,0,Runnels County,63.0
-4092,0,0,Sevier County,63.0
-4093,0,0,Hickory County,63.0
-4094,0,0,Skamania County,63.0
-4095,0,0,Latimer County,62.0
-4096,0,0,Red Willow County,62.0
-4097,0,0,Clay County,62.0
-4098,0,0,Cumberland County,62.0
-4099,0,0,Early County,62.0
-4100,0,0,Grundy County,62.0
-4101,0,0,Lamb County,62.0
-4102,0,0,Lincoln County,62.0
-4103,0,0,Webster County,62.0
-4104,0,0,Alger County,62.0
-4105,0,0,Archuleta County,62.0
-4106,0,0,Karnes County,62.0
-4107,0,0,Nantucket County,62.0
-4108,0,0,Scott County,61.0
-4109,0,0,Prairie County,61.0
-4110,0,0,Pulaski County,61.0
-4111,0,0,Gates County,61.0
-4112,0,0,Monroe County,61.0
-4113,0,0,Carroll County,61.0
-4114,0,0,Charles Mix County,61.0
-4115,0,0,Schoolcraft County,61.0
-4116,0,0,Tyler County,61.0
-4117,0,0,Bullock County,60.0
-4118,0,0,Howard County,60.0
-4119,0,0,Jasper County,60.0
-4120,0,0,Quay County,60.0
-4121,0,0,Turner County,60.0
-4122,0,0,Bracken County,60.0
-4123,0,0,Big Horn County,59.0
-4124,0,0,Butte County,59.0
-4125,0,0,DeKalb County,59.0
-4126,0,0,Johnston County,59.0
-4127,0,0,Lincoln County,59.0
-4128,0,0,Martin County,59.0
-4129,0,0,Mercer County,59.0
-4130,0,0,Tucker County,59.0
-4131,0,0,Bacon County,59.0
-4132,0,0,Franklin County,59.0
-4133,0,0,Lincoln County,59.0
-4134,0,0,Monroe County,59.0
-4135,0,0,Ozark County,59.0
-4136,0,0,Prowers County,59.0
-4137,0,0,Richland County,59.0
-4138,0,0,Coleman County,59.0
-4139,0,0,Cuming County,59.0
-4140,0,0,Phelps County,59.0
-4141,0,0,Woodruff County,59.0
-4142,0,0,Adams County,59.0
-4143,0,0,Fall River County,59.0
-4144,0,0,Louisa County,59.0
-4145,0,0,San Augustine County,59.0
-4146,0,0,Turner County,58.0
-4147,0,0,Blaine County,58.0
-4148,0,0,Franklin City,58.0
-4149,0,0,Twiggs County,58.0
-4150,0,0,Wilkinson County,58.0
-4151,0,0,Candler County,58.0
-4152,0,0,Knox County,58.0
-4153,0,0,Moffat County,58.0
-4154,0,0,Gunnison County,58.0
-4155,0,0,Madison Parish,58.0
-4156,0,0,Searcy County,58.0
-4157,0,0,Cleveland County,57.0
-4158,0,0,Trimble County,57.0
-4159,0,0,Coosa County,57.0
-4160,0,0,Irwin County,57.0
-4161,0,0,Lee County,57.0
-4162,0,0,Lewis County,57.0
-4163,0,0,Merrick County,57.0
-4164,0,0,Rosebud County,57.0
-4165,0,0,Glacier County,57.0
-4166,0,0,Houston County,57.0
-4167,0,0,Beaverhead County,57.0
-4168,0,0,Cheyenne County,57.0
-4169,0,0,Millard County,57.0
-4170,0,0,Wilkinson County,57.0
-4171,0,0,Morrow County,57.0
-4172,0,0,Perry County,57.0
-4173,0,0,Camden County,56.0
-4174,0,0,Dallas County,56.0
-4175,0,0,McCulloch County,56.0
-4176,0,0,Hamilton County,56.0
-4177,0,0,Alamosa County,56.0
-4178,0,0,Ballard County,56.0
-4179,0,0,Benewah County,56.0
-4180,0,0,Bristol City,56.0
-4181,0,0,Van Buren County,56.0
-4182,0,0,Evans County,56.0
-4183,0,0,Grand County,56.0
-4184,0,0,Lee County,55.0
-4185,0,0,Decatur County,55.0
-4186,0,0,Owyhee County,55.0
-4187,0,0,Butler County,55.0
-4188,0,0,Harrison County,55.0
-4189,0,0,Modoc County,55.0
-4190,0,0,Switzerland County,55.0
-4191,0,0,Washita County,55.0
-4192,0,0,Charles City County,55.0
-4193,0,0,Greene County,55.0
-4194,0,0,Hamilton County,55.0
-4195,0,0,Terry County,55.0
-4196,0,0,Warren County,55.0
-4197,0,0,Franklin County,55.0
-4198,0,0,Oregon County,55.0
-4199,0,0,Perry County,54.0
-4200,0,0,Schuyler County,54.0
-4201,0,0,Falls Church City,54.0
-4202,0,0,Monroe County,54.0
-4203,0,0,Valley County,54.0
-4204,0,0,Benton County,54.0
-4205,0,0,Chariton County,54.0
-4206,0,0,Dawson County,54.0
-4207,0,0,Lucas County,54.0
-4208,0,0,Pocahontas County,54.0
-4209,0,0,Seminole County,54.0
-4210,0,0,Stephens County,54.0
-4211,0,0,Nevada County,54.0
-4212,0,0,Rio Grande County,54.0
-4213,0,0,Sullivan County,54.0
-4214,0,0,Duval County,53.0
-4215,0,0,Pecos County,53.0
-4216,0,0,Hancock County,53.0
-4217,0,0,Andrews County,53.0
-4218,0,0,Custer County,53.0
-4219,0,0,Fremont County,53.0
-4220,0,0,Roberts County,53.0
-4221,0,0,Wolfe County,53.0
-4222,0,0,Lanier County,53.0
-4223,0,0,Pleasants County,53.0
-4224,0,0,Adair County,52.0
-4225,0,0,Clear Creek County,52.0
-4226,0,0,Daviess County,52.0
-4227,0,0,Gaines County,52.0
-4228,0,0,Pendleton County,52.0
-4229,0,0,Taylor County,52.0
-4230,0,0,Choctaw County,52.0
-4231,0,0,Madison County,52.0
-4232,0,0,Radford City,52.0
-4233,0,0,Graham County,52.0
-4234,0,0,Greer County,52.0
-4235,0,0,Nicholas County,52.0
-4236,0,0,Ward County,52.0
-4237,0,0,Grant County,51.0
-4238,0,0,Kemper County,51.0
-4239,0,0,Roosevelt County,51.0
-4240,0,0,Iron County,51.0
-4241,0,0,Lake County,51.0
-4242,0,0,Ontonagon County,51.0
-4243,0,0,Caldwell County,51.0
-4244,0,0,Gallatin County,51.0
-4245,0,0,Gilmer County,51.0
-4246,0,0,Wilcox County,51.0
-4247,0,0,Henderson County,51.0
-4248,0,0,Johnson County,51.0
-4249,0,0,Trousdale County,51.0
-4250,0,0,Cumberland County,50.0
-4251,0,0,Humphreys County,50.0
-4252,0,0,Mountrail County,50.0
-4253,0,0,Allendale County,50.0
-4254,0,0,Jefferson County,50.0
-4255,0,0,King and Queen County,50.0
-4256,0,0,Ida County,50.0
-4257,0,0,Tunica County,50.0
-4258,0,0,Alexander County,50.0
-4259,0,0,Burt County,50.0
-4260,0,0,Clay County,50.0
-4261,0,0,Franklin County,50.0
-4262,0,0,Red River Parish,50.0
-4263,0,0,Surry County,50.0
-4264,0,0,Yuma County,49.0
-4265,0,0,Claiborne County,49.0
-4266,0,0,Galax City,49.0
-4267,0,0,Howard County,49.0
-4268,0,0,Reeves County,49.0
-4269,0,0,Cedar County,49.0
-4270,0,0,Grand Isle County,49.0
-4271,0,0,Hancock County,49.0
-4272,0,0,Randolph County,49.0
-4273,0,0,Traill County,49.0
-4274,0,0,Bottineau County,48.0
-4275,0,0,Emery County,48.0
-4276,0,0,Kodiak Island Borough,48.0
-4277,0,0,Tillman County,48.0
-4278,0,0,Hutchinson County,48.0
-4279,0,0,Long County,48.0
-4280,0,0,Pembina County,48.0
-4281,0,0,Platte County,48.0
-4282,0,0,Hancock County,48.0
-4283,0,0,Archer County,48.0
-4284,0,0,Dade County,48.0
-4285,0,0,Spink County,48.0
-4286,0,0,Worth County,47.0
-4287,0,0,Hamilton County,47.0
-4288,0,0,Johnson County,47.0
-4289,0,0,Kingsbury County,47.0
-4290,0,0,Mono County,47.0
-4291,0,0,Boise County,47.0
-4292,0,0,Goliad County,47.0
-4293,0,0,Grand County,47.0
-4294,0,0,Davis County,47.0
-4295,0,0,Essex County,46.0
-4296,0,0,Baraga County,46.0
-4297,0,0,Rappahannock County,46.0
-4298,0,0,Talbot County,46.0
-4299,0,0,Calhoun County,45.0
-4300,0,0,Major County,45.0
-4301,0,0,Nemaha County,45.0
-4302,0,0,Shelby County,45.0
-4303,0,0,Woods County,45.0
-4304,0,0,Jenkins County,45.0
-4305,0,0,Montgomery County,45.0
-4306,0,0,Newton County,45.0
-4307,0,0,Jefferson County,45.0
-4308,0,0,Powell County,45.0
-4309,0,0,Forest County,44.0
-4310,0,0,Benton County,44.0
-4311,0,0,Broadwater County,44.0
-4312,0,0,Huerfano County,44.0
-4313,0,0,Maries County,44.0
-4314,0,0,Union County,44.0
-4315,0,0,Grant County,44.0
-4316,0,0,Washakie County,44.0
-4317,0,0,White Pine County,44.0
-4318,0,0,Clark County,43.0
-4319,0,0,Lafayette County,43.0
-4320,0,0,Somervell County,43.0
-4321,0,0,Edwards County,43.0
-4322,0,0,Wallowa County,43.0
-4323,0,0,Doddridge County,43.0
-4324,0,0,Quitman County,43.0
-4325,0,0,East Carroll Parish,43.0
-4326,0,0,Fulton County,43.0
-4327,0,0,Kane County,43.0
-4328,0,0,Refugio County,43.0
-4329,0,0,Taylor County,43.0
-4330,0,0,Wayne County,43.0
-4331,0,0,Wirt County,43.0
-4332,0,0,Clinch County,42.0
-4333,0,0,Kearney County,42.0
-4334,0,0,Audubon County,42.0
-4335,0,0,Fillmore County,42.0
-4336,0,0,Wayne County,42.0
-4337,0,0,Dawes County,42.0
-4338,0,0,Osceola County,42.0
-4339,0,0,Howard County,42.0
-4340,0,0,Jefferson County,42.0
-4341,0,0,Menifee County,42.0
-4342,0,0,Pierce County,42.0
-4343,0,0,Bethel Census Area,42.0
-4344,0,0,Brewster County,42.0
-4345,0,0,Weston County,42.0
-4346,0,0,Manassas Park City,41.0
-4347,0,0,Antelope County,41.0
-4348,0,0,Buena Vista City,41.0
-4349,0,0,Lake County,41.0
-4350,0,0,Morgan County,41.0
-4351,0,0,Reynolds County,41.0
-4352,0,0,Colfax County,41.0
-4353,0,0,Day County,41.0
-4354,0,0,Pulaski County,41.0
-4355,0,0,San Juan County,41.0
-4356,0,0,Pondera County,41.0
-4357,0,0,Shannon County,41.0
-4358,0,0,Valdez-Cordova Census Area,41.0
-4359,0,0,Warren County,41.0
-4360,0,0,Delta County,40.0
-4361,0,0,Elliott County,40.0
-4362,0,0,Ringgold County,40.0
-4363,0,0,Bon Homme County,40.0
-4364,0,0,Covington City,40.0
-4365,0,0,Luce County,40.0
-4366,0,0,Shannon County,40.0
-4367,0,0,Thayer County,40.0
-4368,0,0,Zavala County,40.0
-4369,0,0,Carter County,40.0
-4370,0,0,Marion County,40.0
-4371,0,0,Cameron County,40.0
-4372,0,0,Scott County,40.0
-4373,0,0,Tripp County,40.0
-4374,0,0,Alfalfa County,39.0
-4375,0,0,Crook County,39.0
-4376,0,0,Dimmit County,39.0
-4377,0,0,Harney County,39.0
-4378,0,0,Lafayette County,39.0
-4379,0,0,Zapata County,39.0
-4380,0,0,Boone County,39.0
-4381,0,0,Gentry County,39.0
-4382,0,0,Mitchell County,39.0
-4383,0,0,Putnam County,39.0
-4384,0,0,Atkinson County,39.0
-4385,0,0,Calhoun County,39.0
-4386,0,0,McCook County,39.0
-4387,0,0,Dixon County,38.0
-4388,0,0,Furnas County,38.0
-4389,0,0,Sitka Borough,38.0
-4390,0,0,Gallatin County,38.0
-4391,0,0,Lexington City,38.0
-4392,0,0,Bland County,37.0
-4393,0,0,Cameron Parish,37.0
-4394,0,0,Stark County,37.0
-4395,0,0,Teton County,37.0
-4396,0,0,Dickey County,37.0
-4397,0,0,Jack County,37.0
-4398,0,0,Miller County,37.0
-4399,0,0,Musselshell County,37.0
-4400,0,0,Brule County,37.0
-4401,0,0,Clay County,37.0
-4402,0,0,Ferry County,37.0
-4403,0,0,Greenlee County,37.0
-4404,0,0,Pepin County,37.0
-4405,0,0,Parmer County,37.0
-4406,0,0,Sheridan County,37.0
-4407,0,0,McHenry County,37.0
-4408,0,0,Ransom County,37.0
-4409,0,0,Sublette County,37.0
-4410,0,0,Yukon-Koyukuk Census Area,37.0
-4411,0,0,Calhoun County,36.0
-4412,0,0,Cotton County,36.0
-4413,0,0,Carlisle County,36.0
-4414,0,0,Nuckolls County,36.0
-4415,0,0,Teton County,36.0
-4416,0,0,Bath County,36.0
-4417,0,0,Kit Carson County,36.0
-4418,0,0,Ohio County,36.0
-4419,0,0,Owsley County,35.0
-4420,0,0,Custer County,35.0
-4421,0,0,Johnson County,35.0
-4422,0,0,Treutlen County,35.0
-4423,0,0,Wells County,35.0
-4424,0,0,Polk County,35.0
-4425,0,0,Pope County,34.0
-4426,0,0,Wheeler County,34.0
-4427,0,0,Brown County,34.0
-4428,0,0,Juab County,34.0
-4429,0,0,Swisher County,34.0
-4430,0,0,Beaver County,34.0
-4431,0,0,Mineral County,34.0
-4432,0,0,Haskell County,34.0
-4433,0,0,Ochiltree County,34.0
-4434,0,0,Hot Springs County,34.0
-4435,0,0,Southeast Fairbanks Census Area,33.0
-4436,0,0,Caribou County,33.0
-4437,0,0,Cherry County,33.0
-4438,0,0,Hamlin County,33.0
-4439,0,0,Moore County,33.0
-4440,0,0,Saguache County,33.0
-4441,0,0,Craig County,33.0
-4442,0,0,Childress County,33.0
-4443,0,0,Liberty County,33.0
-4444,0,0,McKenzie County,32.0
-4445,0,0,Atchison County,32.0
-4446,0,0,Power County,32.0
-4447,0,0,Wheeler County,32.0
-4448,0,0,Emporia City,32.0
-4449,0,0,Pickett County,32.0
-4450,0,0,Van Buren County,32.0
-4451,0,0,Winkler County,32.0
-4452,0,0,Columbia County,31.0
-4453,0,0,Hardin County,31.0
-4454,0,0,Moody County,31.0
-4455,0,0,Wrangell-Petersburg Census Area,31.0
-4456,0,0,Deuel County,31.0
-4457,0,0,Walworth County,31.0
-4458,0,0,Custer County,31.0
-4459,0,0,Nome Census Area,31.0
-4460,0,0,Hickman County,31.0
-4461,0,0,Mills County,31.0
-4462,0,0,Phillips County,31.0
-4463,0,0,Stewart County,31.0
-4464,0,0,Brooks County,31.0
-4465,0,0,Gregory County,31.0
-4466,0,0,Chouteau County,30.0
-4467,0,0,Bailey County,30.0
-4468,0,0,Florence County,30.0
-4469,0,0,Prince of Wales-Outer Ketchikan,30.0
-4470,0,0,Sullivan County,30.0
-4471,0,0,Mineral County,30.0
-4472,0,0,Putnam County,30.0
-4473,0,0,Conejos County,29.0
-4474,0,0,Crosby County,29.0
-4475,0,0,North Slope Borough,29.0
-4476,0,0,Coal County,29.0
-4477,0,0,Floyd County,29.0
-4478,0,0,Holt County,29.0
-4479,0,0,Wahkiakum County,29.0
-4480,0,0,Adams County,29.0
-4481,0,0,Morrill County,29.0
-4482,0,0,Sargent County,29.0
-4483,0,0,Bear Lake County,29.0
-4484,0,0,Edmunds County,29.0
-4485,0,0,Ouray County,29.0
-4486,0,0,Cavalier County,29.0
-4487,0,0,Dewey County,29.0
-4488,0,0,Thurston County,29.0
-4489,0,0,Benson County,28.0
-4490,0,0,Hyde County,28.0
-4491,0,0,San Miguel County,28.0
-4492,0,0,Sherman County,28.0
-4493,0,0,Calhoun County,28.0
-4494,0,0,Grant County,28.0
-4495,0,0,Rio Blanco County,28.0
-4496,0,0,San Saba County,28.0
-4497,0,0,Valley County,28.0
-4498,0,0,Blaine County,28.0
-4499,0,0,Pershing County,28.0
-4500,0,0,Tyrrell County,28.0
-4501,0,0,Garfield County,27.0
-4502,0,0,Todd County,27.0
-4503,0,0,Sharkey County,27.0
-4504,0,0,Tensas Parish,27.0
-4505,0,0,Kimble County,27.0
-4506,0,0,Lynn County,27.0
-4507,0,0,Castro County,27.0
-4508,0,0,Webster County,27.0
-4509,0,0,Yoakum County,27.0
-4510,0,0,LaMoure County,26.0
-4511,0,0,Beaver County,26.0
-4512,0,0,Carson County,26.0
-4513,0,0,Lincoln County,26.0
-4514,0,0,Pierce County,26.0
-4515,0,0,Scotland County,26.0
-4516,0,0,Bent County,26.0
-4517,0,0,Dallam County,26.0
-4518,0,0,Franklin County,26.0
-4519,0,0,Sweet Grass County,26.0
-4520,0,0,Ellis County,26.0
-4521,0,0,Lewis County,26.0
-4522,0,0,Mercer County,26.0
-4523,0,0,Clark County,25.0
-4524,0,0,Phillips County,25.0
-4525,0,0,Emmons County,25.0
-4526,0,0,Knox County,25.0
-4527,0,0,Nance County,25.0
-4528,0,0,Schuyler County,25.0
-4529,0,0,Sheridan County,25.0
-4530,0,0,Adams County,25.0
-4531,0,0,Baylor County,25.0
-4532,0,0,Lake County,25.0
-4533,0,0,Washington County,25.0
-4534,0,0,Coke County,24.0
-4535,0,0,Harper County,24.0
-4536,0,0,Hand County,24.0
-4537,0,0,Schley County,24.0
-4538,0,0,Knox County,24.0
-4539,0,0,Lincoln County,24.0
-4540,0,0,Dewey County,24.0
-4541,0,0,Garza County,24.0
-4542,0,0,Lincoln County,24.0
-4543,0,0,Hansford County,24.0
-4544,0,0,Hartley County,24.0
-4545,0,0,Gilpin County,23.0
-4546,0,0,Clay County,23.0
-4547,0,0,Guadalupe County,23.0
-4548,0,0,Baca County,23.0
-4549,0,0,Chattahoochee County,23.0
-4550,0,0,Fisher County,23.0
-4551,0,0,Harlan County,23.0
-4552,0,0,Nelson County,23.0
-4553,0,0,Chase County,23.0
-4554,0,0,Pawnee County,23.0
-4555,0,0,Kimball County,22.0
-4556,0,0,Quitman County,22.0
-4557,0,0,Catron County,22.0
-4558,0,0,Douglas County,22.0
-4559,0,0,Foster County,22.0
-4560,0,0,Highland County,22.0
-4561,0,0,La Salle County,22.0
-4562,0,0,Hitchcock County,22.0
-4563,0,0,Sutton County,22.0
-4564,0,0,Toole County,22.0
-4565,0,0,Hardeman County,22.0
-4566,0,0,Granite County,21.0
-4567,0,0,McIntosh County,21.0
-4568,0,0,Mora County,21.0
-4569,0,0,Bowman County,21.0
-4570,0,0,Northwest Arctic Borough,21.0
-4571,0,0,Marshall County,20.0
-4572,0,0,Oneida County,20.0
-4573,0,0,Hall County,20.0
-4574,0,0,Menominee County,20.0
-4575,0,0,Presidio County,20.0
-4576,0,0,Stanton County,20.0
-4577,0,0,Donley County,20.0
-4578,0,0,McPherson County,20.0
-4579,0,0,Real County,20.0
-4580,0,0,Aurora County,20.0
-4581,0,0,Harmon County,20.0
-4582,0,0,Lyman County,20.0
-4583,0,0,Potter County,20.0
-4584,0,0,Grant County,19.0
-4585,0,0,Hidalgo County,19.0
-4586,0,0,Fallon County,19.0
-4587,0,0,Jim Hogg County,19.0
-4588,0,0,Baker County,19.0
-4589,0,0,Miner County,19.0
-4590,0,0,Butte County,19.0
-4591,0,0,Costilla County,19.0
-4592,0,0,Mason County,19.0
-4593,0,0,Roger Mills County,19.0
-4594,0,0,Stanley County,19.0
-4595,0,0,Brown County,18.0
-4596,0,0,Crowley County,18.0
-4597,0,0,Renville County,18.0
-4598,0,0,Faulk County,18.0
-4599,0,0,Hanson County,18.0
-4600,0,0,Kidder County,18.0
-4601,0,0,Lander County,18.0
-4602,0,0,Union County,18.0
-4603,0,0,Norton City,18.0
-4604,0,0,Greeley County,18.0
-4605,0,0,Martin County,18.0
-4606,0,0,Boyd County,17.0
-4607,0,0,Sierra County,17.0
-4608,0,0,Garden County,17.0
-4609,0,0,Storey County,17.0
-4610,0,0,Crane County,17.0
-4611,0,0,Garfield County,17.0
-4612,0,0,Robertson County,17.0
-4613,0,0,Wade Hampton Census Area,17.0
-4614,0,0,Echols County,17.0
-4615,0,0,Glascock County,17.0
-4616,0,0,Hettinger County,17.0
-4617,0,0,Keweenaw County,17.0
-4618,0,0,Perkins County,17.0
-4619,0,0,Dunn County,16.0
-4620,0,0,Meagher County,16.0
-4621,0,0,Adams County,16.0
-4622,0,0,Kinney County,16.0
-4623,0,0,Sanborn County,16.0
-4624,0,0,Worth County,16.0
-4625,0,0,Skagway Hoonah Angoon Census Area,16.0
-4626,0,0,Eddy County,16.0
-4627,0,0,Cimarron County,15.0
-4628,0,0,Haakon County,15.0
-4629,0,0,Jerauld County,15.0
-4630,0,0,Griggs County,15.0
-4631,0,0,Webster County,15.0
-4632,0,0,Dillingham Census Area,15.0
-4633,0,0,Hemphill County,15.0
-4634,0,0,Concho County,15.0
-4635,0,0,Dundy County,15.0
-4636,0,0,Shackelford County,15.0
-4637,0,0,Perkins County,15.0
-4638,0,0,Gilliam County,14.0
-4639,0,0,Wheatland County,14.0
-4640,0,0,Collingsworth County,14.0
-4641,0,0,Menard County,14.0
-4642,0,0,Sedgwick County,14.0
-4643,0,0,DeBaca County,14.0
-4644,0,0,Frontier County,14.0
-4645,0,0,Wheeler County,14.0
-4646,0,0,Aleutians West Census Area,14.0
-4647,0,0,Deuel County,14.0
-4648,0,0,Upton County,14.0
-4649,0,0,Hudspeth County,13.0
-4650,0,0,Sheridan County,13.0
-4651,0,0,Towner County,13.0
-4652,0,0,Burke County,13.0
-4653,0,0,Jackson County,13.0
-4654,0,0,Oliver County,13.0
-4655,0,0,Schleicher County,13.0
-4656,0,0,Sioux County,13.0
-4657,0,0,Sherman County,13.0
-4658,0,0,Bennett County,12.0
-4659,0,0,Divide County,12.0
-4660,0,0,Corson County,12.0
-4661,0,0,Golden Valley County,12.0
-4662,0,0,Prairie County,12.0
-4663,0,0,Gosper County,12.0
-4664,0,0,Liberty County,12.0
-4665,0,0,Lipscomb County,12.0
-4666,0,0,Logan County,12.0
-4667,0,0,Crockett County,12.0
-4668,0,0,Steele County,12.0
-4669,0,0,Jeff Davis County,11.0
-4670,0,0,Armstrong County,11.0
-4671,0,0,Cochran County,11.0
-4672,0,0,Taliaferro County,11.0
-4673,0,0,Reagan County,11.0
-4674,0,0,Dickens County,11.0
-4675,0,0,Kiowa County,11.0
-4676,0,0,Wayne County,11.0
-4677,0,0,Judith Basin County,11.0
-4678,0,0,Daniels County,10.0
-4679,0,0,Haines Borough,10.0
-4680,0,0,Hyde County,10.0
-4681,0,0,Cheyenne County,10.0
-4682,0,0,Niobrara County,10.0
-4683,0,0,Rock County,10.0
-4684,0,0,Garfield County,10.0
-4685,0,0,Piute County,10.0
-4686,0,0,Throckmorton County,10.0
-4687,0,0,Campbell County,10.0
-4688,0,0,McCone County,10.0
-4689,0,0,Sherman County,10.0
-4690,0,0,Powder River County,9.0
-4691,0,0,Irion County,9.0
-4692,0,0,Edwards County,9.0
-4693,0,0,Carter County,9.0
-4694,0,0,Mellette County,9.0
-4695,0,0,Stonewall County,9.0
-4696,0,0,Briscoe County,9.0
-4697,0,0,Daggett County,8.0
-4698,0,0,Foard County,8.0
-4699,0,0,Dolores County,8.0
-4700,0,0,Golden Valley County,8.0
-4701,0,0,Cottle County,8.0
-4702,0,0,Garfield County,8.0
-4703,0,0,Rich County,8.0
-4704,0,0,Culberson County,7.0
-4705,0,0,Jones County,7.0
-4706,0,0,Motley County,7.0
-4707,0,0,Logan County,7.0
-4708,0,0,Treasure County,7.0
-4709,0,0,Camas County,7.0
-4710,0,0,Denali,6.0
-4711,0,0,Buffalo County,6.0
-4712,0,0,Esmeralda County,6.0
-4713,0,0,Eureka County,6.0
-4714,0,0,Harding County,6.0
-4715,0,0,Oldham County,6.0
-4716,0,0,Jackson County,6.0
-4717,0,0,Lake and Peninsula Borough,6.0
-4718,0,0,Sioux County,5.0
-4719,0,0,Thomas County,5.0
-4720,0,0,Alpine County,5.0
-4721,0,0,Harding County,5.0
-4722,0,0,Kent County,5.0
-4723,0,0,Wibaux County,5.0
-4724,0,0,Issaquena County,5.0
-4725,0,0,Grant County,5.0
-4726,0,0,Mineral County,4.0
-4727,0,0,Sully County,4.0
-4728,0,0,Aleutians East Borough,4.0
-4729,0,0,Keya Paha County,4.0
-4730,0,0,Loup County,4.0
-4731,0,0,Sterling County,4.0
-4732,0,0,Wheeler County,4.0
-4733,0,0,Bristol Bay Borough,4.0
-4734,0,0,Glasscock County,4.0
-4735,0,0,Hooker County,4.0
-4736,0,0,Petroleum County,4.0
-4737,0,0,Hinsdale County,4.0
-4738,0,0,McMullen County,4.0
-4739,0,0,Terrell County,4.0
-4740,0,0,Hayes County,3.0
-4741,0,0,Roberts County,3.0
-4742,0,0,Blaine County,3.0
+4,South Cushman Landfill,AK,Fairbanks North Star,317.0
+5,Unalaska Landfill,AK,Aleutians West,14.0
+7,Arrowhead Landfill,AL,Perry,54.0
+8,Athens/Limestone County SLF MSWLF,AL,Limestone,492.0
+9,Bishop Landfill Company,AL,Marshall,513.0
+10,Black Warrior Solid Waste Facility,AL,Tuscaloosa,905.0
+11,Blount County/Nectar/Hayden LF & TS,AL,Blount,317.0
+12,Brundidge Landfill,AL,Pike,158.0
+13,Calhoun County SLF,AL,Calhoun,670.0
+14,Chastang SLF,AL,Mobile,2164.0
+15,City of Decatur-Morgan County Regional MSW Landfill,AL,Morgan,708.0
+16,City of Dothan SLF MSWLF,AL,Houston,571.0
+17,Coffee County Sanitary Landfill,AL,Coffee,265.0
+18,Cullman Environmental Waste Management Center,AL,Cullman,460.0
+19,Eastern Area Landfill,AL,Jefferson,3496.0
+20,Florence SLF MSWLF,AL,Lauderdale,526.0
+21,Huntsville MSWLF,AL,Madison,1800.0
+22,Magnolia Subtitle D MSW LF,AL,Baldwin,1257.0
+23,Morris Farm Landfill,AL,Lawrence,208.0
+24,North Montgomery SLF MSWLF,AL,Montgomery,1127.0
+25,Pine View SLF MSWLF,AL,Walker,445.0
+26,Salem Landfill,AL,Lee,555.0
+27,Sand Valley Landfill,AL,DeKalb,344.0
+28,Scottsboro Landfill,AL,Jackson,314.0
+29,Shelby County Highway 70 Landfill,AL,Shelby,968.0
+30,Shoals Solid Waste Disposal Authority (SSWDA) LF,AL,Colbert,325.0
+31,"Stones Throw Landfill, LLC",AL,Tallapoosa,279.0
+32,Three Corners Landfill,AL,Cherokee,157.0
+33,Timberlands Landfill,AL,Escambia,212.0
+34,"Turkey Trot Landfill, LLC",AL,Washington,93.0
+35,Willow Ridge Landfill,AL,Winston,143.0
+36,City of Conway Landfill,AR,Faulkner,555.0
+37,City of Morrilton Landfill,AR,Conway,127.0
+38,Craighead County Solid Waste Disposal Authority LF,AR,Craighead,525.0
+39,Crittenden County Sanitary Landfill,AR,Crittenden,225.0
+40,Fort Smith SLF,AR,Sebastian,680.0
+41,IESI Cherokee Village Landfill,AR,Fulton,87.0
+42,Little Rock City SW Landfill,AR,Pulaski,2154.0
+43,Mississippi County LF,AR,Mississippi,231.0
+44,Northeast AR RSWMD Landfill Phases 2 & 3,AR,Greene,246.0
+45,Ozark Ridge Landfill,AR,Yell,121.0
+46,"Rolling Meadows Landfill, Inc.",AR,Prairie,61.0
+47,Saline County RWMD LF,AR,Saline,708.0
+48,Union County Recycling & Disposal Facility,AR,Union,247.0
+49,Upper Southwest RSWMD,AR,Howard,68.0
+50,27th Avenue Landfill,AZ,Maricopa,17933.0
+51,Apache County Regional Landfill - Blue Hills,AZ,Apache,214.0
+52,Apache Junction LF,AZ,Pinal,1845.0
+53,Cinder Lake MSW LF,AZ,Coconino,473.0
+54,Cochise County Western Regional Landfill,AZ,Cochise,664.0
+55,Copper Mountain Landfill,AZ,Yuma,866.0
+56,Gray Wolf Regional Landfill,AZ,Yavapai,1654.0
+57,Harrison Landfill,AZ,Pima,5007.0
+58,La Paz County Landfill,AZ,La Paz,127.0
+59,Lake Havasu Landfill,AZ,Mohave,1579.0
+60,Painted Desert Landfill,AZ,Navajo,428.0
+64,Allied Imperial Landfill,CA,Imperial,681.0
+65,Altamont Landfill & Resource Recovery Facility,CA,Alameda,6829.0
+66,American Avenue Landfill,CA,Fresno,3674.0
+67,American Canyon SLF,CA,Napa,794.0
+68,Anderson Landfill,CA,Shasta,1253.0
+69,Antelope Valley Recycling and Disposal Facility,CA,Los Angeles,39939.0
+70,Apple Valley Disposal Site,CA,San Bernardino,7925.0
+71,Arvin SLF,CA,Kern,3137.0
+72,Austin Road Landfill,CA,San Joaquin,2964.0
+73,Avenal Regional Landfill,CA,Kings,483.0
+74,Badlands SLF,CA,Riverside,10046.0
+75,Bass Hill LF,CA,Lassen,133.0
+76,Billy Wright Landfill,CA,Merced,928.0
+77,Bishop Sunland,CA,Inyo,117.0
+78,Bonzi SLF,CA,Stanislaus,2273.0
+79,Borrego Landfill,CA,San Diego,14412.0
+80,Chicago Grade LF,CA,San Luis Obispo,1622.0
+81,City of Lompoc SLF,CA,Santa Barbara,2102.0
+82,City of Sacramento Landfill,CA,Sacramento,6900.0
+83,City of Ukiah Solid Waste Disposal Site,CA,Mendocino,528.0
+84,Coyote Canyon SLF,CA,Orange,14072.0
+85,Crazy Horse Landfill,CA,Monterey,1711.0
+86,Crescent City SLF,CA,Del Norte,140.0
+87,Cummings Road Landfill,CA,Humboldt,712.0
+88,Eastlake SLF,CA,Lake,430.0
+89,Fairmead Solid Waste Disposal Site,CA,Madera,637.0
+90,Healdsburg Landfill,CA,Sonoma,2832.0
+91,Hillside Solid Waste Disposal Site,CA,San Mateo,3750.0
+92,John Smith Road Class III Landfill,CA,San Benito,236.0
+93,Loyalton LF,CA,Sierra,17.0
+94,McCourtney LF,CA,Nevada,667.0
+95,Neal Road Recycling and Waste Facility,CA,Butte,1342.0
+96,Oxnard Landfills,CA,Ventura,3968.0
+97,Potrero Hills SLF,CA,Solano,2151.0
+98,Recology Ostrom Road LF,CA,Yuba,327.0
+99,Redwood SLF,CA,Marin,1704.0
+100,Rock Creek LF,CA,Calaveras,320.0
+101,Teapot Dome Landfill,CA,Tulare,1541.0
+102,Tehama County/Red Bluff Landfill,CA,Tehama,410.0
+103,Union Mine Disposal Site,CA,El Dorado,1145.0
+104,Western Regional SLF,CA,Placer,2286.0
+105,Yolo County Central LF,CA,Yolo,806.0
+106,Yreka Solid Waste LF,CA,Siskiyou,266.0
+107,Archuleta County Landfill,CO,Archuleta,62.0
+108,Bondad Landfill,CO,La Plata,228.0
+109,Boulder Landfill,CO,Boulder,1272.0
+110,Broad Canyon Landfill,CO,Montrose,232.0
+111,Broadacres Landfill Inc.,CO,Pueblo,861.0
+112,Buffalo Ridge Landfill,CO,Weld,1113.0
+113,Colorado Springs Landfill,CO,El Paso,2824.0
+114,County Line LF,CO,Douglas,1207.0
+115,Denver Arapahoe Disposal Site (DADS),CO,Arapahoe,2553.0
+116,Eagle County Landfill,CO,Eagle,165.0
+117,East Regional Landfill (ERL),CO,Adams,1736.0
+118,Larimer County Landfill,CO,Larimer,1491.0
+119,Mesa County Landfill,CO,Mesa,792.0
+120,Milner Landfill,CO,Routt,94.0
+121,Phantom Landfill,CO,Fremont,291.0
+122,Pitkin County Solid Waste Center,CO,Pitkin,76.0
+123,South Canyon Landfill,CO,Garfield,240.0
+124,Summit County Landfill,CO,Summit,74.0
+125,Canterbury LF,CT,Windham,708.0
+126,East Windsor LF,CT,Hartford,5173.0
+127,Groton LF,CT,New London,1640.0
+128,Middletown Avenue Landfill,CT,New Haven,5084.0
+129,New Milford LF,CT,Litchfield,1278.0
+130,Shelton LF,CT,Fairfield,5240.0
+132,Jones Crossroads Landfill,DE,Sussex,1691.0
+133,Sandtown Landfill,DE,Kent,1067.0
+134,58th Street Landfill,FL,Miami-Dade,13536.0
+135,A.C.M.S. Inc.,FL,Sumter,1413.0
+136,Baseline Landfill,FL,Marion,3044.0
+137,Bee Ridge LF,FL,Sarasota,3942.0
+138,Brevard County Central Disposal Facility,FL,Brevard,4178.0
+139,Bridgeway Acres LF,FL,Pinellas,7148.0
+140,Broward County Landfill,FL,Broward,10313.0
+141,Cedar Trail Landfill (CTL),FL,Polk,4338.0
+142,Citrus County Central Landfill,FL,Citrus,1506.0
+143,Collier County Landfill,FL,Collier,2427.0
+144,Croom SLF,FL,Hernando,1667.0
+145,DeSoto City SLF,FL,Highlands,831.0
+146,Dyer Boulevard LF,FL,Palm Beach,9678.0
+147,East Duval SLF,FL,Duval,5161.0
+148,Hillsborough Heights LF,FL,Hillsborough,7014.0
+149,Indian River County LF Class I,FL,Indian River,1297.0
+150,J.E.D. Solid Waste Management Facility,FL,Osceola,1489.0
+151,Lee/Hendry County Regional SW Disposal Facility,FL,Hendry,154.0
+152,Lena Road Class I Landfill,FL,Manatee,2634.0
+153,Leon County Landfill,FL,Leon,1094.0
+154,Majette North SLF,FL,Bay,1137.0
+155,Martin County Palm City II SLF,FL,Martin,1304.0
+156,Okeechobee LF,FL,Okeechobee,262.0
+157,Osceola Landfill,FL,Seminole,2315.0
+158,PCSW Resource Recovery Facility,FL,Pasco,3736.0
+159,Putnam County Central SLF,FL,Putnam,535.0
+160,Rosemary Hill LF Expansion Class I,FL,Clay,1182.0
+161,Santa Rosa Central LF,FL,Santa Rosa,918.0
+162,St. Lucie County Baling and Recycling Facility,FL,St. Lucie,1983.0
+163,Stock Island LF,FL,Monroe,500.0
+164,SW Alachua SLF,FL,Alachua,1221.0
+165,Taylor County Central LF,FL,Taylor,133.0
+166,Tillman Ridge SLF,FL,St. Johns,1485.0
+167,Tomoka Farms Road LF,FL,Volusia,3939.0
+168,West Nassau SLF,FL,Nassau,632.0
+169,Winfield Solid Waste Facility,FL,Columbia,447.0
+170,Wright LF,FL,Okaloosa,1044.0
+171,Zemel Road Landfill,FL,Charlotte,1730.0
+172,"Advanced Disposal Services Evergreen Landfill, Inc.",GA,Lowndes,479.0
+173,Athens-Clarke County Landfill,GA,Clarke,455.0
+174,Atkinson County - SR 50 MSWL,GA,Atkinson,39.0
+175,Bartow County MSWLF,GA,Bartow,526.0
+176,BJ Landfill,GA,Gwinnett,3487.0
+177,Broadhurst Environmental Landfill,GA,Wayne,169.0
+178,Camden County SR 110 MSW Landfill,GA,Camden,235.0
+179,Carroll County - Carrollton SR 166 MSW Landfill,GA,Carroll,585.0
+180,Catoosa County MSW LF,GA,Catoosa,299.0
+181,Cedar Grove Landfill,GA,Lamar,110.0
+182,"Chesser Island Road Landfill, Inc. MSWL",GA,Charlton,67.0
+183,City of LaGrange Landfill,GA,Troup,373.0
+184,City of Thomasville MSWLF,GA,Thomas,267.0
+185,City of Tifton / Omega / Eldorado Road LF,GA,Tift,234.0
+186,Clayton County SR 3 Lovejoy Landfill,GA,Clayton,1098.0
+187,Columbus Pine Grove MSWLF,GA,Muscogee,984.0
+188,Crisp County Landfill,GA,Crisp,121.0
+189,Deans Bridge Road MSWLF,GA,Richmond,1007.0
+190,Decatur County Solid Waste Facility,GA,Decatur,150.0
+191,Dougherty County Fleming/Gaissert Road LF,GA,Dougherty,487.0
+192,Eagle Point Landfill LLC,GA,Forsyth,1014.0
+193,Gordon County Redbone Ridges LF,GA,Gordon,300.0
+194,Habersham County SR13 MSWL,GA,Habersham,276.0
+195,Hall County Allen Creek Landfill,GA,Hall,1036.0
+196,Laurens County - Old Macon Road MSWL,GA,Laurens,269.0
+197,Liberty County LF,GA,Liberty,209.0
+198,Macon Bibb Walker Road MSWL,GA,Bibb,880.0
+199,Murray County Landfill,GA,Murray,200.0
+200,Newton County Landfill,GA,Newton,550.0
+201,Oak Grove Landfill,GA,Barrow,390.0
+202,Old Dixie Highway MSW Landfill,GA,Whitfield,451.0
+203,Pine Ridge Landfill,GA,Butts,140.0
+204,R & B (Banks) Landfill,GA,Banks,106.0
+205,Roberts Road Landfill,GA,Fayette,658.0
+206,Savannah-Dean Forest Road SL,GA,Chatham,1388.0
+207,Turkey Run Landfill,GA,Meriwether,146.0
+208,Walker Mountain Landfill,GA,Floyd,548.0
+209,"Wolf Creek Landfill, LLC",GA,Twiggs,58.0
+210,Central Maui Landfill,HI,Maui,837.0
+211,Kaneohe Marine Corps Air Station Landfill,HI,Honolulu,5073.0
+212,Kekaha Landfill/Phases I & II,HI,Kauai,349.0
+213,South Hilo Sanitary Landfill (SHSL),HI,Hawaii,1025.0
+214,Black Hawk County SLF (Area E),IA,Black Hawk,742.0
+215,Boone County Landfill,IA,Boone,173.0
+216,Cedar Rapids Linn County Solid Waste Landfill #1,IA,Linn,1226.0
+217,Central Disposal Landfill,IA,Winnebago,70.0
+218,City of Muscatine LF,IA,Muscatine,262.0
+219,Clinton County SLF (East),IA,Clinton,310.0
+220,Des Moines County Regional Sanitary Landfill,IA,Des Moines,280.0
+221,Dickinson Landfill Inc.,IA,Dickinson,151.0
+222,Dubuque Metropolitan SLF,IA,Dubuque,595.0
+223,Floyd-Mitchell-Chickasaw Counties Landfill,IA,Mitchell,72.0
+224,Iowa City SLF,IA,Johnson,603.0
+225,Landfill of North Iowa,IA,Cerro Gordo,352.0
+226,Loess Hills Regional SLF,IA,Mills,101.0
+227,Newton SLF,IA,Jasper,223.0
+228,North Central Iowa Regional SWA Sanitary Landfill,IA,Webster,228.0
+229,Northwest Iowa Area SWA Landfill,IA,Sioux,175.0
+230,Ottumwa-Wapello County SLF,IA,Wapello,233.0
+231,Page County Sanitary Landfill,IA,Page,126.0
+232,Scott Area SLF,IA,Scott,971.0
+233,Winneshiek County Sanitary Landfill,IA,Winneshiek,113.0
+234,Ada County Landfill,ID,Ada,2080.0
+235,Bear Lake County Landfill,ID,Bear Lake,29.0
+236,Bennett Road Landfill,ID,Elmore,120.0
+237,Bingham County Landfill-Ridge Road,ID,Bingham,196.0
+238,Bonneville County Landfill,ID,Bonneville,480.0
+239,Boundary County Landfill,ID,Boundary,76.0
+240,Clay Peak Landfill,ID,Payette,138.0
+241,Fighting Creek Farm Landfill,ID,Kootenai,930.0
+242,Fort Hall Mine Landfill,ID,Bannock,322.0
+243,Franklin County Sanitary Landfill,ID,Franklin,50.0
+244,Hub Butte Landfill,ID,Twin Falls,384.0
+245,Latah Sanitary Landfill,ID,Latah,158.0
+246,Lemhi County Landfill 1,ID,Lemhi,67.0
+247,Milner Butte Landfill,ID,Cassia,90.0
+248,Pickles Butte SLF,ID,Canyon,952.0
+249,Teton County Landfill,ID,Teton,37.0
+250,31st Street Landfill,IL,Cook,25748.0
+251,ADS/McLean County LF #2,IL,McLean,769.0
+252,Advanced Disposal Orchard Hills Landfill Inc.,IL,Ogle,319.0
+253,Advanced Disposal Valley View Landfill Inc.,IL,Macon,786.0
+254,Beecher Landfill,IL,Will,3425.0
+255,Bond County LF,IL,Bond,108.0
+256,Brickyard Disposal & Recycling Inc.,IL,Vermilion,525.0
+257,Clinton Landfill Inc.,IL,De Witt,118.0
+258,Coles County Landfill,IL,Coles,268.0
+259,Envirofil of Illinois Inc.,IL,McDonough,179.0
+260,Environtech LF,IL,Grundy,302.0
+261,Five Oaks RDF,IL,Christian,256.0
+262,Freeport Municipal Landfill #4,IL,Stephenson,279.0
+263,Greene Valley RDF,IL,DuPage,4918.0
+264,Indian Creek Landfill #2,IL,Tazewell,870.0
+265,Jerseyville Sanitation Landfill,IL,Jersey,138.0
+266,K & H Disposal Landfill,IL,Iroquois,203.0
+267,Kankakee County RDF,IL,Kankakee,668.0
+268,Knox County LF #3,IL,Knox,338.0
+270,Landfill 33 Ltd.,IL,Effingham,210.0
+271,Livingston LF,IL,Livingston,250.0
+272,Peoria City/County Landfills #1 and #2,IL,Peoria,1094.0
+273,Quad Cities Landfill Phase IV,IL,Rock Island,875.0
+274,Sangamon Valley Landfill Inc.,IL,Sangamon,1315.0
+275,Settler's Hill Recycling & Disposal Facility,IL,Kane,2378.0
+276,Urbana Municipal #1,IL,Champaign,863.0
+277,Whiteside County Landfill,IL,Whiteside,375.0
+278,"Advanced Disposal Services Hoosier Landfill, Inc.",IN,Kosciusko,412.0
+279,Bartholomew County Landfill I,IN,Bartholomew,433.0
+280,Clark-Floyd LF,IN,Clark,654.0
+281,Daviess County LF,IN,Daviess,163.0
+282,Deercroft RDF,IN,LaPorte,662.0
+283,Earthmovers LF,IN,Elkhart,956.0
+284,Hayes Landfill,IN,Henry,306.0
+285,Huntington City LF,IN,Huntington,202.0
+286,Jay County LF,IN,Jay,127.0
+287,Jennings County LF,IN,Jennings,163.0
+288,LaGrange County LF,IN,LaGrange,144.0
+289,Laubscher Meadows LF,IN,Vanderburgh,1040.0
+290,Liberty Landfill,IN,White,155.0
+291,National Serv-All LF,IN,Allen,1732.0
+292,Oak Ridge RDF,IN,Cass,206.0
+293,Prairie View RDF,IN,St. Joseph,1333.0
+294,Randolph Farms LF,IN,Randolph,159.0
+295,Spencer County,IN,Spencer,118.0
+296,Sullivan County LF,IN,Sullivan,120.0
+297,Sycamore Ridge Landfill & Victory Landfill,IN,Vigo,591.0
+298,Tipton County LF,IN,Tipton,102.0
+299,Twin Bridges RDF,IN,Hendricks,772.0
+300,Wabash Valley LF,IN,Wabash,202.0
+301,West Clinton LF,IN,Vermillion,103.0
+323,Advanced Disposal Morehead Landfill Inc.,KY,Rowan,126.0
+324,Big Run Landfill,KY,Boyd,348.0
+325,Blue Ridge RDF,KY,Estill,113.0
+326,Epperson Waste Disposal,KY,Grant,143.0
+327,Glasgow Regional Landfill,KY,Barren,295.0
+328,Green Valley Landfill,KY,Greenup,265.0
+329,Hardin County Landfill,KY,Hardin,614.0
+330,Hopkins County Regional Landfill,KY,Hopkins,287.0
+331,Laurel Ridge Landfill Inc.,KY,Laurel,393.0
+332,Maysville-Mason County LF,KY,Mason,113.0
+333,Nelson County SWDF,KY,Nelson,273.0
+334,Ohio County Balefill Landfill,KY,Ohio,156.0
+335,Rumpke/Pendleton County LF,KY,Pendleton,94.0
+336,Southern Sanitation LF,KY,Logan,185.0
+337,"Tri-K Landfill, Inc.",KY,Lincoln,176.0
+338,Valley View LF,KY,Trimble,57.0
+339,West Kentucky Landfill,KY,Graves,235.0
+360,Acushnet LF,MA,Bristol,3030.0
+361,Amherst LF,MA,Hampshire,767.0
+362,Barnstable LF,MA,Barnstable,1901.0
+363,Bondi Island Landfill,MA,Hampden,2431.0
+364,Carver-Marion-Wareham Landfill,MA,Plymouth,3187.0
+365,Fitchburg-Westminster LF,MA,Worcester,4544.0
+366,Gardner Street Landfill,MA,Suffolk,3178.0
+367,Haverhill Landfill,MA,Essex,4439.0
+368,Lowell LF,MA,Middlesex,8027.0
+369,Nantucket LF,MA,Nantucket,62.0
+370,Plainville LF,MA,Norfolk,4087.0
+371,Beulah Municipal Landfill,MD,Dorchester,223.0
+373,Cecil County Central Landfill,MD,Cecil,635.0
+374,Charles County Landfill #2,MD,Charles,714.0
+375,Eastern Sanitary Landfill Solid Waste Management Facility (ESL),MD,Baltimore,5024.0
+376,Eastern Sanitary Landfill Solid Waste Management Facility (ESL),MD,Baltimore,3263.0
+377,Garrett County SWD and RF,MD,Garrett,179.0
+378,Glen Burnie Landfill,MD,Anne Arundel,2937.0
+379,Harford Waste Disposal Center,MD,Harford,1546.0
+380,Midshore I - Regional Solid Waste Facility,MD,Talbot,299.0
+381,Midshore II - Regional Solid Waste Facility,MD,Caroline,194.0
+382,Mountainview SLF,MD,Allegany,511.0
+383,Newland Park SLF,MD,Wicomico,622.0
+385,Reich's Ford Road SLF,MD,Frederick,1239.0
+387,Westover/Ring SLF,MD,Somerset,152.0
+388,Bath LF,ME,Sagadahoc,212.0
+389,Brunswick LF,ME,Cumberland,1720.0
+390,Dolby Landfill,ME,Penobscot,1004.0
+391,Hatch Hill LF,ME,Kennebec,772.0
+392,Little Squaw LF,ME,Piscataquis,147.0
+393,Presque Isle LF,ME,Aroostook,508.0
+394,Adrian Landfill,MI,Lenawee,540.0
+395,Advanced Disposal Arbor Hills Landfill Inc.,MI,Washtenaw,1551.0
+396,Autumn Hills Recycling & Disposal Facility,MI,Ottawa,1168.0
+397,Brent Run Landfill,MI,Genesee,2440.0
+398,Cedar Ridge Recycling & Disposal Facility,MI,Charlevoix,174.0
+399,"Central Sanitary Landfill, Inc.",MI,Montcalm,330.0
+400,City of Midland Sanitary LF,MI,Midland,445.0
+401,Dafter Sanitary Landfill Inc,MI,Chippewa,189.0
+402,Delta County Landfill,MI,Delta,255.0
+403,Eagle Valley RDF,MI,Oakland,7343.0
+404,Elk Run Sanitary Landfill,MI,Presque Isle,106.0
+405,Forest Lawn Landfill,MI,Berrien,953.0
+406,Glen's Sanitary Landfill Inc.,MI,Leelanau,159.0
+407,Hastings Sanitary Landfill,MI,Barry,287.0
+408,Huron Landfill,MI,Huron,230.0
+409,K&W LF,MI,Ontonagon,51.0
+410,Manistee County LF,MI,Manistee,167.0
+411,Marquette County SWL,MI,Marquette,354.0
+412,Menominee Landfill,MI,Menominee,148.0
+413,Montmorency-Oscoda-Alpena Landfill,MI,Montmorency,81.0
+414,Muskegon County SWF,MI,Muskegon,942.0
+415,Northern Oaks Recycling & Disposal Facility,MI,Clare,223.0
+416,"People's Landfill, Inc.",MI,Saginaw,1167.0
+417,Pine Tree Acres LF Inc.,MI,Macomb,5320.0
+418,Tri-City RDF,MI,Sanilac,261.0
+419,Venice Park Recycling & Disposal Facility,MI,Shiawassee,429.0
+420,Wexford County Landfill,MI,Wexford,218.0
+421,Wood Island Waste Management Inc.,MI,Alger,62.0
+442,Backridge Landfill,MO,Lewis,57.0
+443,Central Missouri SLF,MO,Pettis,245.0
+444,City of Maryville Sanitary Landfill,MO,Nodaway,103.0
+445,Fulton SLF,MO,Callaway,237.0
+446,Jackson County Landfill,MO,Cape Girardeau,418.0
+447,Jefferson City Sanitary Landfill,MO,Cole,398.0
+448,Lemons East Sanitary Landfill / Lemons West Landfill,MO,Stoddard,197.0
+449,Plattco/Riverview,MO,Platte,475.0
+450,St. Joseph City SLF,MO,Buchanan,499.0
+451,Byram Landfill,MS,Hinds,1241.0
+452,Central Landfill,MS,Pearl River,356.0
+453,City of Durant LF,MS,Holmes,111.0
+454,Golden Triangle Regional Landfill,MS,Oktibbeha,172.0
+455,Gulf Pines LF,MS,Harrison,1096.0
+456,Kemper County Solid Waste Landfill,MS,Kemper,51.0
+457,Leflore County Landfill,MS,Leflore,160.0
+458,Northeast Mississippi Regional Landfill,MS,Tippah,123.0
+459,Pleasant Hills,MS,DeSoto,807.0
+460,Prairie Bluff Sanitary Landfill,MS,Chickasaw,101.0
+461,Three Rivers Regional Landfill,MS,Pontotoc,163.0
+462,Tunica Landfill,MS,Tunica,50.0
+463,Billings City Landfill,MT,Yellowstone,962.0
+464,City of Bozeman SLF,MT,Gallatin,420.0
+465,Flathead County Landfill,MT,Flathead,667.0
+466,High Plains SLF,MT,Cascade,447.0
+468,Missoula Landfill,MT,Missoula,532.0
+469,Alamance County Landfill,NC,Alamance,962.0
+470,Alexander County Landfill,NC,Alexander,238.0
+471,Anderson Creek LF Harnett County,NC,Harnett,609.0
+472,Anson County Waste Management Facility,NC,Anson,148.0
+473,Ashe County Landfill,NC,Ashe,187.0
+474,Avery County LF,NC,Avery,123.0
+475,Blackburn SLF,NC,Catawba,922.0
+476,Brunswick County LF,NC,Brunswick,1002.0
+477,Buncombe County New Landfill,NC,Buncombe,1597.0
+478,Caldwell County Mt. Herman Landfill,NC,Caldwell,542.0
+479,Canton LF-Haywood County,NC,Haywood,492.0
+480,Caswell County LF,NC,Caswell,164.0
+481,Charlotte Motor Speedway Landfill V,NC,Cabarrus,998.0
+482,City of Albemarle LF,NC,Stanly,385.0
+483,City of Durham SLF,NC,Durham,1356.0
+484,City of Greensboro White Street Landfill,NC,Guilford,2810.0
+485,Cleveland County LF,NC,Cleveland,638.0
+486,Cliffside South Rutherford County LF,NC,Rutherford,453.0
+487,"Columbus County, ARS",NC,Columbus,345.0
+488,Craven County LF,NC,Craven,643.0
+489,Davidson County LF,NC,Davidson,1039.0
+490,Davie County LF,NC,Davie,297.0
+491,East Carolina Regional LF,NC,Bertie,130.0
+492,Edgecombe County LF,NC,Edgecombe,325.0
+493,Feltonsville Sanitary Landfill,NC,Wake,4439.0
+494,Gaston County LF,NC,Gaston,1256.0
+495,Granville County LF 1,NC,Granville,368.0
+496,Henderson County LF,NC,Henderson,836.0
+497,Hertford County LF,NC,Hertford,128.0
+498,Hoke County LF,NC,Hoke,205.0
+499,Iredell County LF,NC,Iredell,952.0
+500,Johnston County MSW LF,NC,Johnston,937.0
+501,Jones County LF,NC,Jones,66.0
+502,Lenoir County LF,NC,Lenoir,381.0
+503,McDowell County LF,NC,McDowell,313.0
+504,Mecklenburg County LF,NC,Mecklenburg,4274.0
+505,Moore County LF,NC,Moore,699.0
+506,Nash County LF,NC,Nash,549.0
+507,New Hanover County Secure Landfill,NC,New Hanover,1219.0
+508,Northampton County LF,NC,Northampton,143.0
+509,Onslow County LF,NC,Onslow,726.0
+510,Pasquotank County LF,NC,Pasquotank,235.0
+511,Pitt County LF,NC,Pitt,737.0
+512,Robeson County LF,NC,Robeson,638.0
+513,Rockingham County LF,NC,Rockingham,674.0
+514,"Sampson County Disposal, LLC",NC,Sampson,365.0
+515,Scotland County LF,NC,Scotland,222.0
+516,Stokes County LF,NC,Stokes,325.0
+517,Surry County LF 1 & LF 3,NC,Surry,516.0
+518,Swain County LF,NC,Swain,104.0
+519,Transylvania County SLF,NC,Transylvania,261.0
+520,Upper Piedmont Regional Landfill,NC,Person,253.0
+521,Vance County LF,NC,Vance,266.0
+522,Watauga County Landfill,NC,Watauga,250.0
+523,Wilkes County LF 2,NC,Wilkes,414.0
+524,Wilson County LF,NC,Wilson,464.0
+525,Yancey/Mitchell County LF,NC,Yancey,130.0
+526,City of Minot LF,ND,Ward,301.0
+527,Dakota MSW Landfill,ND,Sargent,29.0
+528,Grand Forks Active Landfill,ND,Grand Forks,299.0
+529,Alliance Disposal Area LF,NE,Box Butte,64.0
+530,Beatrice Disposal Area LF,NE,Gage,144.0
+531,Bluff Road Landfill,NE,Lancaster,1369.0
+532,Fremont Landfill,NE,Dodge,251.0
+533,Holdrege Prairie Hill Landfill,NE,Phelps,59.0
+534,J Bar J Landfill,NE,Perkins,17.0
+535,Kearney Area Solid Waste Agency Landfill,NE,Buffalo,226.0
+536,Lexington Area Solid Waste Agency Landfill,NE,Dawson,116.0
+537,NNSWC LF,NE,Stanton,20.0
+538,Otoe County LF,NE,Otoe,99.0
+539,Sarpy County SLF,NE,Sarpy,771.0
+540,Scottsbluff Disposal LF,NE,Scotts Bluff,207.0
+541,York County LF,NE,York,83.0
+542,City of Keene Landfill,NH,Cheshire,470.0
+543,Colebrook Landfill,NH,Coos,238.0
+544,Concord Suncook Road Landfill Pre-1981,NH,Merrimack,947.0
+545,Durham Primary Landfill,NH,Strafford,703.0
+546,Laconia Disposal Gardens,NH,Belknap,475.0
+547,Lebanon Regional Solid Waste Facility,NH,Grafton,565.0
+548,Atlantic County Utilities Authority Landfill,NJ,Atlantic,1699.0
+549,Burlington County SLF,NJ,Burlington,2956.0
+550,Cape May County MUA Secure Landfill,NJ,Cape May,881.0
+551,Gloucester County Solid Waste Complex,NJ,Gloucester,1853.0
+552,Kingsland Landfill,NJ,Bergen,5571.0
+553,Monmouth County Reclamation Center,NJ,Monmouth,4160.0
+554,Ocean County LF,NJ,Ocean,4511.0
+555,Salem County SLF,NJ,Salem,462.0
+556,Warren County District Landfill,NJ,Warren,706.0
+557,Caja del Rio Landfill,NM,Santa Fe,705.0
+558,Camino Real Landfill,NM,Dona Ana,921.0
+559,Cerro Colorado LF,NM,Bernalillo,3018.0
+560,Clovis Regional Solid Waste Facility,NM,Curry,173.0
+561,Lea County Landfill,NM,Lea,233.0
+562,Los Alamos County LF,NM,Los Alamos,100.0
+563,Northeastern New Mexico Regional Landfill,NM,Mora,21.0
+564,Otero/Greentree Regional Landfill,NM,Otero,325.0
+565,Rio Rancho Landfill,NM,Sandoval,685.0
+566,San Juan County Regional Landfill,NM,San Juan,461.0
+567,Sand Point Landfill,NM,Eddy,245.0
+568,Battle Mountain Sanitary Landfill,NV,Lander,18.0
+570,City of Elko Municipal Landfill,NV,Elko,184.0
+571,Ely Sanitary Landfill,NV,White Pine,44.0
+572,Eureka Sanitary Landfill,NV,Eureka,6.0
+573,Goldfield Sanitary Landfill,NV,Esmeralda,6.0
+574,Hawthorne Sanitary Landfill,NV,Mineral,30.0
+575,Lockwood Regional LF,NV,Storey,17.0
+576,Pahrump Valley Sanitary Landfill,NV,Nye,341.0
+577,Pershing County Sanitary Landfill,NV,Pershing,28.0
+578,Russell Pass Sanitary Landfill,NV,Churchill,125.0
+579,Albany Landfill,NY,Albany,1919.0
+580,Auburn SLF #1 & #2,NY,Cayuga,547.0
+581,Ava Landfill,NY,Oneida,1525.0
+582,Bristol Hill SLF,NY,Oswego,776.0
+583,Broome County Landfill,NY,Broome,1274.0
+584,Chaffee LF,NY,Erie,6402.0
+585,Chautauqua County Landfill,NY,Chautauqua,937.0
+586,Chemung County Landfill,NY,Chemung,597.0
+587,Chenango County Landfill,NY,Chenango,351.0
+588,Clifton Park LF,NY,Saratoga,1514.0
+589,Cortland County SLF,NY,Cortland,290.0
+590,Croton Point Landfill,NY,Westchester,5771.0
+591,Delaware County LF,NY,Delaware,334.0
+592,Edgemere SLF,NY,Queens,11239.0
+593,Haverstraw SLF,NY,Rockland,1794.0
+594,Modern Landfill Inc,NY,Niagara,1579.0
+595,Mohawk Valley SLF,NY,Herkimer,453.0
+596,New Bath Landfill,NY,Steuben,637.0
+597,Ontario County SLF,NY,Ontario,748.0
+598,Seneca Meadows SWMF,NY,Seneca,236.0
+599,Troy SLF,NY,Rensselaer,1025.0
+600,American LF,OH,Stark,2285.0
+601,Athens-Hocking Reclamation Center,OH,Athens,282.0
+602,Carbon Limestone LF,OH,Mahoning,1433.0
+603,Celina Landfill,OH,Mercer,238.0
+604,City of Brooklyn LF,OH,Cuyahoga,7772.0
+605,"Coshocton Landfill, Inc.",OH,Coshocton,232.0
+606,County Environmental Landfill of Wyandot,OH,Wyandot,130.0
+607,Defiance County Landfill,OH,Defiance,221.0
+608,"East Liverpool LF, Inc.",OH,Columbiana,639.0
+609,ELDA RDF,OH,Hamilton,4410.0
+610,Evergreen Recycling & Disposal LF,OH,Wood,661.0
+611,Gallia County LF,OH,Gallia,197.0
+612,Geneva Landfill,OH,Ashtabula,591.0
+613,Hancock County Sanitary LF,OH,Hancock,418.0
+614,Hoffman Road Sanitary LF,OH,Lucas,2392.0
+615,Kimble Sanitary LF,OH,Tuscarawas,555.0
+616,Lake County Recycling and Disposal Facility,OH,Geauga,576.0
+617,Lorain County Landfill I & II,OH,Lorain,1820.0
+618,Muskingum,OH,Muskingum,551.0
+619,Noble Road LF,OH,Richland,762.0
+620,Preble County SLF,OH,Preble,267.0
+621,Rumpke Brown County Landfill,OH,Brown,275.0
+622,"Triangle Landfill, Inc.",OH,Ross,473.0
+623,Williams County LF,OH,Williams,202.0
+624,Willowcreek Landfill,OH,Portage,905.0
+625,"Absolute Waste Solutions, Inc. Landfill",OK,Pottawatomie,375.0
+626,Alderson Regional Landfill,OK,Pittsburg,252.0
+627,American Environmental Landfill,OK,Osage,233.0
+628,Broken Arrow LF,OK,Wagoner,366.0
+629,Cherokee Nation SLF,OK,Adair,112.0
+630,City of Okmulgee Landfill,OK,Okmulgee,246.0
+631,City of Sallisaw Solid Waste Disposal Facility,OK,Sequoyah,236.0
+632,East Oak SLF,OK,Oklahoma,3759.0
+633,Great Plains Landfill,OK,Grady,259.0
+634,Lawton LF,OK,Comanche,525.0
+635,Muskogee Community LF,OK,Muskogee,422.0
+636,Newcastle Landfill,OK,McClain,215.0
+637,Oklahoma Environmental Management Authority (OEMA) Landfill,OK,Canadian,583.0
+638,Perkins,OK,Payne,292.0
+639,Ponca City Landfill,OK,Kay,275.0
+640,Quarry LF,OK,Tulsa,3284.0
+641,Red Carpet Landfill Inc.,OK,Major,45.0
+642,Southern OK Regional Disposal LF,OK,Carter,280.0
+643,Coffin Butte LF,OR,Benton,371.0
+644,Columbia Ridge LF,OR,Gilliam,14.0
+645,Crook County Landfill,OR,Crook,175.0
+646,Finley Buttes Regional Landfill,OR,Morrow,57.0
+647,Klamath Falls LF,OR,Klamath,421.0
+648,Knott Landfill,OR,Deschutes,1064.0
+649,"Riverbend Landfill Company, Inc.",OR,Yamhill,555.0
+650,Rossman's Landfill,OR,Clackamas,2336.0
+651,Short Mountain LF,OR,Lane,1846.0
+652,St. Johns LF,OR,Multnomah,3743.0
+653,Wasco County Landfill,OR,Wasco,157.0
+654,Advanced Disposal Greentree Landfill,PA,Elk,235.0
+655,Advanced Disposal Services Sandy Run Landfill,PA,Bedford,346.0
+656,Alliance SLF,PA,Lackawanna,1381.0
+657,Bradford County Landfill,PA,Bradford,417.0
+658,Commonwealth Environmental Systems (CES) LF,PA,Schuylkill,1030.0
+659,Conestoga LF,PA,Berks,2491.0
+660,County Environmental Landfill of Clarion,PA,Clarion,242.0
+661,Dauphin Meadows LF,PA,Dauphin,1585.0
+662,Evergreen Landfill,PA,Indiana,480.0
+663,Fairless Landfill,PA,Bucks,4081.0
+664,Greater Lebanon Refuse Authority LF,PA,Lebanon,855.0
+665,Greenridge Reclamation Landfill,PA,Westmoreland,2609.0
+666,Imperial Sanitary Landfill,PA,Allegheny,7927.0
+667,J.J. Brunner LF,PA,Beaver,1181.0
+668,Laurel Highlands LF,PA,Cambria,952.0
+669,Lycoming County Landfill,PA,Lycoming,754.0
+670,McKean County LF,PA,McKean,268.0
+671,Mifflin County Solid Waste Authority LF,PA,Mifflin,311.0
+672,SECCRA Community Landfill,PA,Chester,2933.0
+673,Central LF,RI,Providence,3359.0
+674,Tiverton Landfill #2,RI,Newport,555.0
+675,Anderson Regional Landfill,SC,Anderson,1152.0
+676,Bees Ferry Road Subtitle D LF,SC,Charleston,2044.0
+677,Berkeley County Subtitle D LF,SC,Berkeley,960.0
+678,Blackberry Valley Landfill,SC,Greenville,2628.0
+679,Croft Landfill,SC,Spartanburg,1675.0
+680,Georgetown County Subtitle D LF,SC,Georgetown,467.0
+681,Greenwood County Landfills,SC,Greenwood,381.0
+682,Highway 321 Lexington County Landfill,SC,Lexington,1466.0
+683,Horry County SWA Landfill,SC,Horry,2068.0
+684,Kershaw County Landfill,SC,Kershaw,365.0
+685,Langley Landfill,SC,Aiken,891.0
+686,Seneca MSWLF,SC,Oconee,511.0
+687,Williamsburg County MSWLF,SC,Williamsburg,210.0
+688,Brookings Regional Landfill,SD,Brookings,147.0
+689,City of Mitchell Landfill,SD,Davison,124.0
+690,Pierre Landfill,SD,Hughes,100.0
+691,Rapid City Landfill,SD,Pennington,551.0
+692,Sioux Falls Regional Sanitary Landfill (SFRSL),SD,Minnehaha,985.0
+693,Tri-County Landfill,SD,Brule,37.0
+694,Watertown Regional Landfill,SD,Codington,166.0
+695,Bolivar-Hardeman County LF,TN,Hardeman,168.0
+696,Bradley County LF,TN,Bradley,567.0
+697,Carter Valley Landfill,TN,Hawkins,388.0
+698,Cheatham County LF,TN,Cheatham,229.0
+699,Cocke County LF,TN,Cocke,241.0
+700,Dyersburg City LF,TN,Dyer,214.0
+701,Gratio LF,TN,Obion,210.0
+702,Lakeway Sanitation & Recycling Class I,TN,Hamblen,384.0
+703,Matlock Bend Landfill,TN,Loudon,412.0
+704,McMinn County LF,TN,McMinn,320.0
+705,Milan City LF,TN,Gibson,301.0
+706,Pickett County LF,TN,Pickett,32.0
+707,Pulaski City LF,TN,Giles,178.0
+708,Rhea County LF,TN,Rhea,218.0
+709,Roane County Solid Waste Authority,TN,Roane,351.0
+710,"Sevier Solid Waste, Incorporated",TN,Sevier,635.0
+711,Smith County LF,TN,Smith,106.0
+712,Williamson County LF,TN,Williamson,973.0
+713,121 Regional Disposal Facility,TX,Collin,3374.0
+714,Altair Disposal Services LLC,TX,Colorado,127.0
+715,Angelina County Waste Management Center,TX,Angelina,465.0
+716,Arlington LF,TX,Tarrant,8096.0
+717,Atascocita RDF,TX,Harris,15735.0
+718,Austin Community RDF,TX,Travis,3889.0
+719,Baytown Landfill,TX,Chambers,168.0
+720,Bell County/Sparks LF,TX,Bell,1403.0
+721,Blue Ridge LF,TX,Fort Bend,2451.0
+722,Brownsville Municipal Landfill,TX,Cameron,1511.0
+723,C&T Regional Landfill,TX,Hidalgo,2357.0
+724,Caliche Canyon LF,TX,Lubbock,1185.0
+725,Camelot Landfill,TX,Denton,2746.0
+726,Cefe Valenzuela Landfill,TX,Nueces,1471.0
+727,Charles M Hinton Jr Regional Landfill,TX,Dallas,9700.0
+728,Charter Waste Landfill,TX,Ector,562.0
+729,City of Amarillo Landfill,TX,Potter,543.0
+730,City of Corsicana LF,TX,Navarro,255.0
+731,City of Kingsville Landfill,TX,Kleberg,136.0
+732,City of Laredo LF,TX,Webb,685.0
+733,City of Nacogdoches Landfill,TX,Nacogdoches,252.0
+734,City of Pampa LF,TX,Gray,114.0
+735,City of Perryton Landfill,TX,Ochiltree,34.0
+736,City of Snyder Landfill,TX,Scurry,76.0
+737,City of Sweetwater LF,TX,Nolan,86.0
+738,City of Victoria Landfill,TX,Victoria,453.0
+739,City of Waco LF,TX,McLennan,1081.0
+740,Coastal Plains RDF,TX,Galveston,1380.0
+741,Covel Gardens RDF,TX,Bexar,7118.0
+742,CSC Disposal and Landfill,TX,Ellis,743.0
+743,Fort Hood Landfill,TX,Coryell,294.0
+744,Hillside Landfill,TX,Grayson,754.0
+745,IESI East Texas Regional Landfill,TX,Rusk,291.0
+746,IESI Weatherford Landfill,TX,Parker,679.0
+747,Itasca Landfill,TX,Hill,215.0
+748,Kerrville Landfill,TX,Kerr,334.0
+749,Maloy Landfill,TX,Hunt,498.0
+750,Mesquite Creek LF,TX,Comal,660.0
+751,New Boston Landfill,TX,Bowie,461.0
+752,Pine Hill LF,TX,Gregg,674.0
+753,Pleasant Oaks Landfill,TX,Titus,131.0
+754,Rock Prairie Road Landfill,TX,Brazos,581.0
+755,San Angelo Landfill,TX,Tom Green,556.0
+756,Seabreeze Environmental Landfill,TX,Brazoria,1384.0
+757,Sinton Landfill,TX,San Patricio,305.0
+758,Southwest Landfill,TX,Randall,614.0
+759,Twin Oaks Landfill,TX,Grimes,139.0
+760,Bayview LF,UT,Utah,1452.0
+761,Bountiful Sanitary LF,UT,Davis,1136.0
+762,Carbon County LF,UT,Carbon,102.0
+763,City of Logan Sanitary Landfill,UT,Cache,347.0
+764,Duchesne County LF,UT,Duchesne,86.0
+765,Emery County LF,UT,Emery,48.0
+766,Iron County/ Armstrong Pit LF,UT,Iron,196.0
+767,Juab Rural Development Agency Landfill,UT,Juab,34.0
+768,Leekay Landfill,UT,Salt Lake,3989.0
+769,Manila City LF,UT,Daggett,8.0
+770,Millard County LF,UT,Millard,57.0
+771,Rich County LF,UT,Rich,8.0
+772,Tekoi Landfill,UT,Tooele,224.0
+773,Uintah County/Vernal City LF,UT,Uintah,123.0
+774,Weber County LF,UT,Weber,893.0
+775,Amherst County Landfill,VA,Amherst,194.0
+776,Augusta County Service Authority Landfill,VA,Augusta,495.0
+778,Botetourt County Landfill,VA,Botetourt,209.0
+779,Campbell County Landfill,VA,Campbell,317.0
+781,Chesterfield County Northern Area LF,VA,Chesterfield,1688.0
+784,Corral Farm Landfill,VA,Fauquier,349.0
+786,Dinwiddie County Landfill,VA,Dinwiddie,161.0
+787,Hanover 301 LF,VA,Hanover,608.0
+788,I-66 Landfill,VA,Fairfax,4084.0
+789,I-66 Landfill,VA,Fairfax,100.0
+790,Ivy Material Utilization Center,VA,Albemarle,544.0
+791,King and Queen Landfill,VA,King and Queen,50.0
+792,King George Landfill Inc.,VA,King George,113.0
+793,Livingston Landfill,VA,Spotsylvania,626.0
+794,Loudoun County SLF,VA,Loudoun,1190.0
+795,Maplewood Recycling & Waste Disposal,VA,Amelia,81.0
+797,Nottoway County Sanitary Landfill - Blackstone,VA,Nottoway,102.0
+798,Old Dominion LF,VA,Henrico,1648.0
+799,Pittsylvania County Landfill,VA,Pittsylvania,353.0
+800,Prince Edward County SLF,VA,Prince Edward,130.0
+801,Prince William County Sanitary Landfill,VA,Prince William,1334.0
+802,Roanoke Regional Landfill,VA,Roanoke,585.0
+803,Roanoke Regional Landfill,VA,Roanoke,559.0
+804,Rockbridge County SLF,VA,Rockbridge,159.0
+805,Shenandoah County LF,VA,Shenandoah,266.0
+806,South Boston Sanitary LF,VA,Halifax,245.0
+808,Stafford County LF,VA,Stafford,567.0
+811,Cathcart LF,WA,Snohomish,3990.0
+812,Cedar Hills Regional LF,WA,King,9969.0
+813,Cheyne Road LF,WA,Yakima,979.0
+814,Cowlitz County Headquarters Landfill,WA,Cowlitz,617.0
+815,Fort Lewis LF #5,WA,Pierce,4434.0
+816,Inman LF,WA,Skagit,794.0
+817,Northside LF,WA,Spokane,2293.0
+818,"Olympic View Sanitary LF, Inc. (OVSL)",WA,Kitsap,1615.0
+819,Port Angeles SLF,WA,Clallam,651.0
+820,Rainbow Valley LF,WA,Pacific,161.0
+821,Roosevelt Regional MSW Landfill,WA,Klickitat,135.0
+822,Sudbury Road LF,WA,Walla Walla,317.0
+823,Thurston County Waste and Recovery Center,WA,Thurston,1573.0
+824,Advanced Disposal Emerald Park Landfill LLC,WI,Waukesha,2499.0
+825,Advanced Disposal Hickory Meadows Landfill LLC,WI,Calumet,239.0
+826,Advanced Disposal Mallard Ridge Landfill Inc.,WI,Walworth,621.0
+828,Dane County LF #1-Verona,WI,Dane,2399.0
+829,Janesville City/Rock County Landfill,WI,Rock,944.0
+830,Kestrel Hawk Landfill,WI,Racine,1209.0
+831,Kewaunee County Solid Waste Balefill,WI,Kewaunee,123.0
+833,Lake Area Landfill,WI,Washburn,128.0
+834,Marathon County Landfill,WI,Marathon,770.0
+835,Marinette/Oconto County LF,WI,Marinette,317.0
+836,Metro RDF,WI,Milwaukee,4918.0
+837,Outagamie County LF,WI,Outagamie,929.0
+838,Pheasant Run Recycling and Disposal Facility,WI,Kenosha,900.0
+839,Ridgeview RDF,WI,Manitowoc,529.0
+840,Sauk County SLF,WI,Sauk,373.0
+841,Sheboygan Falls City LF,WI,Sheboygan,687.0
+842,Valley Trail Recycling & Disposal Facility,WI,Green Lake,111.0
+843,Brooke County LF (Subtitle D),WV,Brooke,163.0
+844,City of Charleston Landfill,WV,Kanawha,1275.0
+845,Greenbrier County Landfill,WV,Greenbrier,262.0
+846,Pocahontas County Landfill,WV,Pocahontas,63.0
+847,Raleigh County SWA Landfill,WV,Raleigh,510.0
+848,Tucker County Landfill,WV,Tucker,59.0
+849,Wetzel County Landfill,WV,Wetzel,117.0
+850,Casper Balefill,WY,Natrona,382.0
+851,Cheyenne Landfill,WY,Laramie,491.0
+852,Sheridan Existing Landfill,WY,Sheridan,165.0
