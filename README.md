@@ -22,11 +22,13 @@ The National Cancer Institute says that the rate of new cases of cancer (cancer 
 
 # Resources:
 Data Sources and Resources:
+
 -Landfill type and location information
 Environmental Protection Agency - Dataset with individual landfill address
 (https://www.epa.gov/lmop/landfill-technical-data)
 
 Chronic disease types and statistics
+
 -County Level Cancer Stats - State Cancer Profiles (normalized for population)
 (https://www.statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&year=0&type=incd&sortVariableName=count&sortOrder=desc#notes)
 
