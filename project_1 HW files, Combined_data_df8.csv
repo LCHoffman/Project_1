@@ -1,0 +1,854 @@
+Unnamed: 0,Landfill Name,State_x,County,State_y,"Age-Adjusted Incidence Rate - cases per 100,000",Average Annual Count,Recent Trend,Clean State
+0,Anchorage Regional Landfill,AK,Anchorage,0,0,0,0,0
+1,Capitol Disposal Landfill,AK,Juneau,0,0,0,0,0
+2,Central Peninsula Landfill (CPL),AK,Kenai Peninsula,0,0,0,0,0
+5,Palmer Central Landfill,AK,Matanuska-Susitna,0,0,0,0,0
+6,South Cushman Landfill,AK,Fairbanks North Star, Alaska,386.2,317,falling,AK
+7,Unalaska Landfill,AK,Aleutians West, Alaska,387.8,14,stable,AK
+8,Advanced Disposal Cedar Hill Landfill,AL,St. Clair,0,0,0,0,0
+10,Arrowhead Landfill,AL,Perry, Alabama,449.7,54,stable,AL
+11,Athens/Limestone County SLF MSWLF,AL,Limestone, Alabama,462.5,492,stable,AL
+12,Bishop Landfill Company,AL,Marshall, Alabama,443.7,513,stable,AL
+13,Black Warrior Solid Waste Facility,AL,Tuscaloosa, Alabama,441.3,905,falling,AL
+14,Blount County/Nectar/Hayden LF & TS,AL,Blount, Alabama,432,317,stable,AL
+15,Brundidge Landfill,AL,Pike, Alabama,451.3,158,stable,AL
+16,Calhoun County SLF,AL,Calhoun, Alabama,464.3,670,stable,AL
+17,Chastang SLF,AL,Mobile, Alabama,442.5,2164,falling,AL
+19,City of Decatur-Morgan County Regional MSW Landfill,AL,Morgan, Alabama,477.2,708,rising,AL
+20,City of Dothan SLF MSWLF,AL,Houston, Alabama,438.8,571,falling,AL
+21,Coffee County Sanitary Landfill,AL,Coffee, Alabama,423.2,265,stable,AL
+23,Cullman Environmental Waste Management Center,AL,Cullman, Alabama,433.3,460,stable,AL
+24,Eastern Area Landfill,AL,Jefferson, Alabama,452.6,3496,falling,AL
+25,Florence SLF MSWLF,AL,Lauderdale, Alabama,423.8,526,stable,AL
+27,Huntsville MSWLF,AL,Madison, Alabama,443.6,1800,stable,AL
+31,Magnolia Subtitle D MSW LF,AL,Baldwin, Alabama,452.4,1257,stable,AL
+33,Morris Farm Landfill,AL,Lawrence, Alabama,474,208,stable,AL
+35,North Montgomery SLF MSWLF,AL,Montgomery, Alabama,447.9,1127,stable,AL
+36,Pine View SLF MSWLF,AL,Walker, Alabama,513.1,445,stable,AL
+37,Salem Landfill,AL,Lee, Alabama,392.5,555,stable,AL
+38,Sand Valley Landfill,AL,DeKalb, Alabama,395.5,344,falling,AL
+40,Scottsboro Landfill,AL,Jackson, Alabama,438.8,314,stable,AL
+42,Shelby County Highway 70 Landfill,AL,Shelby, Alabama,416.1,968,falling,AL
+43,Shoals Solid Waste Disposal Authority (SSWDA) LF,AL,Colbert, Alabama,437.8,325,stable,AL
+44,"Stones Throw Landfill, LLC",AL,Tallapoosa, Alabama,479.6,279,rising,AL
+45,Three Corners Landfill,AL,Cherokee, Alabama,410.6,157,stable,AL
+46,Timberlands Landfill,AL,Escambia, Alabama,444.8,212,falling,AL
+47,"Turkey Trot Landfill, LLC",AL,Washington, Alabama,423.2,93,falling,AL
+50,Willow Ridge Landfill,AL,Winston, Alabama,414.7,143,falling,AL
+52,City of Conway Landfill,AR,Faulkner, Arkansas,483.1,555,stable,AR
+55,City of Morrilton Landfill,AR,Conway, Arkansas,443.8,127,stable,AR
+56,Craighead County Solid Waste Disposal Authority LF,AR,Craighead, Arkansas,490,525,rising,AR
+57,Crittenden County Sanitary Landfill,AR,Crittenden, Arkansas,428.8,225,stable,AR
+60,Fort Smith SLF,AR,Sebastian, Arkansas,464.4,680,stable,AR
+61,IESI Cherokee Village Landfill,AR,Fulton, Arkansas,434.9,87,stable,AR
+64,Little Rock City SW Landfill,AR,Pulaski, Arkansas,487.4,2154,falling,AR
+65,Mississippi County LF,AR,Mississippi, Arkansas,477.2,231,stable,AR
+68,Northeast AR RSWMD Landfill Phases 2 & 3,AR,Greene, Arkansas,473.3,246,rising,AR
+69,Ozark Ridge Landfill,AR,Yell, Arkansas,445.7,121,stable,AR
+70,"Rolling Meadows Landfill, Inc.",AR,Prairie, Arkansas,485.3,61,stable,AR
+71,Saline County RWMD LF,AR,Saline, Arkansas,491.9,708,stable,AR
+74,Union County Recycling & Disposal Facility,AR,Union, Arkansas,479.1,247,stable,AR
+75,Upper Southwest RSWMD,AR,Howard, Arkansas,409.3,68,falling,AR
+76,27th Avenue Landfill,AZ,Maricopa, Arizona,394.2,17933,falling,AZ
+77,Apache County Regional Landfill - Blue Hills,AZ,Apache, Arizona,278.5,214,stable,AZ
+78,Apache Junction LF,AZ,Pinal, Arizona,355,1845,falling,AZ
+82,Cinder Lake MSW LF,AZ,Coconino, Arizona,361.1,473,falling,AZ
+85,Cochise County Western Regional Landfill,AZ,Cochise, Arizona,374,664,falling,AZ
+87,Copper Mountain Landfill,AZ,Yuma, Arizona,354.3,866,falling,AZ
+91,Gray Wolf Regional Landfill,AZ,Yavapai, Arizona,407.9,1654,falling,AZ
+92,Harrison Landfill,AZ,Pima, Arizona,386.9,5007,falling,AZ
+95,La Paz County Landfill,AZ,La Paz, Arizona,306,127,stable,AZ
+96,Lake Havasu Landfill,AZ,Mohave, Arizona,431.2,1579,falling,AZ
+103,Painted Desert Landfill,AZ,Navajo, Arizona,337.1,428,falling,AZ
+105,Rio Rico MSW Landfill,AZ,Santa Cruz,0,0,0,0,0
+115,Acme LF,CA,Contra Costa,0,0,0,0,0
+117,All Purpose Landfill,CA,Santa Clara,0,0,0,0,0
+118,Allied Imperial Landfill,CA,Imperial, California,391.5,681,stable,CA
+119,Altamont Landfill & Resource Recovery Facility,CA,Alameda, California,391.5,6829,falling,CA
+122,American Avenue Landfill,CA,Fresno, California,402.8,3674,falling,CA
+123,American Canyon SLF,CA,Napa, California,432.2,794,falling,CA
+124,Anderson Landfill,CA,Shasta, California,505.3,1253,stable,CA
+126,Antelope Valley Recycling and Disposal Facility,CA,Los Angeles, California,380.3,39939,falling,CA
+128,Apple Valley Disposal Site,CA,San Bernardino, California,401.5,7925,falling,CA
+130,Arvin SLF,CA,Kern, California,404.5,3137,falling,CA
+132,Austin Road Landfill,CA,San Joaquin, California,413.5,2964,stable,CA
+133,Avenal Regional Landfill,CA,Kings, California,382.3,483,falling,CA
+135,Badlands SLF,CA,Riverside, California,402.8,10046,falling,CA
+141,Bass Hill LF,CA,Lassen, California,386.1,133,stable,CA
+150,Billy Wright Landfill,CA,Merced, California,390.2,928,falling,CA
+151,Bishop Sunland,CA,Inyo, California,420.9,117,stable,CA
+156,Bonzi SLF,CA,Stanislaus, California,423.3,2273,falling,CA
+158,Borrego Landfill,CA,San Diego, California,417.7,14412,falling,CA
+180,Chicago Grade LF,CA,San Luis Obispo, California,440.1,1622,falling,CA
+186,City of Lompoc SLF,CA,Santa Barbara, California,437.1,2102,falling,CA
+189,City of Sacramento Landfill,CA,Sacramento, California,433.3,6900,falling,CA
+191,City of Ukiah Solid Waste Disposal Site,CA,Mendocino, California,433.3,528,stable,CA
+203,Coyote Canyon SLF,CA,Orange, California,407.5,14072,falling,CA
+204,Crazy Horse Landfill,CA,Monterey, California,394,1711,falling,CA
+205,Crescent City SLF,CA,Del Norte, California,402.6,140,falling,CA
+206,Cummings Road Landfill,CA,Humboldt, California,428.2,712,falling,CA
+218,Eastlake SLF,CA,Lake, California,450,430,falling,CA
+224,Fairmead Solid Waste Disposal Site,CA,Madera, California,402.3,637,falling,CA
+243,Healdsburg Landfill,CA,Sonoma, California,431.8,2832,falling,CA
+248,Hillside Solid Waste Disposal Site,CA,San Mateo, California,415.3,3750,falling,CA
+257,John Smith Road Class III Landfill,CA,San Benito, California,393.3,236,stable,CA
+281,Loyalton LF,CA,Sierra, California,326.5,17,stable,CA
+287,McCourtney LF,CA,Nevada, California,405.7,667,falling,CA
+300,Neal Road Recycling and Waste Facility,CA,Butte, California,472.7,1342,falling,CA
+317,Oxnard Landfills,CA,Ventura, California,417.2,3968,falling,CA
+328,Potrero Hills SLF,CA,Solano, California,433.3,2151,falling,CA
+335,Recology Ostrom Road LF,CA,Yuba, California,451.5,327,falling,CA
+339,Redwood SLF,CA,Marin, California,448.9,1704,stable,CA
+342,Rock Creek LF,CA,Calaveras, California,414,320,stable,CA
+375,Teapot Dome Landfill,CA,Tulare, California,376.5,1541,falling,CA
+378,Tehama County/Red Bluff Landfill,CA,Tehama, California,483.9,410,falling,CA
+390,Union Mine Disposal Site,CA,El Dorado, California,436.5,1145,falling,CA
+406,Western Regional SLF,CA,Placer, California,462.8,2286,falling,CA
+410,Yolo County Central LF,CA,Yolo, California,403.6,806,falling,CA
+411,Yreka Solid Waste LF,CA,Siskiyou, California,378.4,266,falling,CA
+415,Archuleta County Landfill,CO,Archuleta, Colorado,316.2,62,falling,CO
+416,Bondad Landfill,CO,La Plata, Colorado,343.5,228,falling,CO
+417,Boulder Landfill,CO,Boulder, Colorado,380.5,1272,falling,CO
+418,Broad Canyon Landfill,CO,Montrose, Colorado,388.7,232,falling,CO
+419,Broadacres Landfill Inc.,CO,Pueblo, Colorado,415.2,861,falling,CO
+420,Buffalo Ridge Landfill,CO,Weld, Colorado,401.2,1113,stable,CO
+422,Colorado Springs Landfill,CO,El Paso, Colorado,422.4,2824,falling,CO
+424,County Line LF,CO,Douglas, Colorado,393.8,1207,falling,CO
+425,Denver Arapahoe Disposal Site (DADS),CO,Arapahoe, Colorado,399.3,2553,falling,CO
+428,Eagle County Landfill,CO,Eagle, Colorado,334.1,165,falling,CO
+429,East Regional Landfill (ERL),CO,Adams, Colorado,406,1736,falling,CO
+434,Larimer County Landfill,CO,Larimer, Colorado,407.4,1491,stable,CO
+436,Mesa County Landfill,CO,Mesa, Colorado,414.5,792,falling,CO
+438,Milner Landfill,CO,Routt, Colorado,340.2,94,falling,CO
+442,Phantom Landfill,CO,Fremont, Colorado,423.7,291,stable,CO
+443,Pitkin County Solid Waste Center,CO,Pitkin, Colorado,320.8,76,falling,CO
+446,South Canyon Landfill,CO,Garfield, Colorado,408.1,240,falling,CO
+448,Summit County Landfill,CO,Summit, Colorado,232.7,74,falling,CO
+455,Canterbury LF,CT,Windham, Connecticut,494.8,708,stable,CT
+457,East Windsor LF,CT,Hartford, Connecticut,464.2,5173,falling,CT
+459,Groton LF,CT,New London, Connecticut,474.2,1640,falling,CT
+465,Middletown Avenue Landfill,CT,New Haven, Connecticut,474.3,5084,falling,CT
+467,New Milford LF,CT,Litchfield, Connecticut,481.5,1278,falling,CT
+471,Shelton LF,CT,Fairfield, Connecticut,468.3,5240,stable,CT
+477,Cherry Island Landfill,DE,New Castle,0,0,0,0,0
+478,Jones Crossroads Landfill,DE,Sussex, Delaware,477.1,1691,falling,DE
+480,Sandtown Landfill,DE,Kent, Delaware,518.3,1067,falling,DE
+481,58th Street Landfill,FL,Miami-Dade, Florida,423.1,13536,falling,FL
+482,A.C.M.S. Inc.,FL,Sumter, Florida,439.5,1413,falling,FL
+484,Baseline Landfill,FL,Marion, Florida,514,3044,falling,FL
+485,Bee Ridge LF,FL,Sarasota, Florida,475.9,3942,stable,FL
+487,Brevard County Central Disposal Facility,FL,Brevard, Florida,471.7,4178,falling,FL
+488,Bridgeway Acres LF,FL,Pinellas, Florida,473,7148,stable,FL
+489,Broward County Landfill,FL,Broward, Florida,449,10313,falling,FL
+491,Cedar Trail Landfill (CTL),FL,Polk, Florida,491,4338,falling,FL
+493,Citrus County Central Landfill,FL,Citrus, Florida,521.1,1506,stable,FL
+494,Collier County Landfill,FL,Collier, Florida,378.3,2427,falling,FL
+496,Croom SLF,FL,Hernando, Florida,546.2,1667,stable,FL
+497,DeSoto City SLF,FL,Highlands, Florida,434.4,831,falling,FL
+498,Dyer Boulevard LF,FL,Palm Beach, Florida,442.9,9678,stable,FL
+499,East Duval SLF,FL,Duval, Florida,523.8,5161,stable,FL
+503,Hillsborough Heights LF,FL,Hillsborough, Florida,478,7014,falling,FL
+505,Indian River County LF Class I,FL,Indian River, Florida,468.6,1297,stable,FL
+506,J.E.D. Solid Waste Management Facility,FL,Osceola, Florida,446.1,1489,stable,FL
+511,Lee/Hendry County Regional SW Disposal Facility,FL,Hendry, Florida,373.9,154,falling,FL
+512,Lena Road Class I Landfill,FL,Manatee, Florida,438.9,2634,stable,FL
+513,Leon County Landfill,FL,Leon, Florida,401.6,1094,falling,FL
+515,Majette North SLF,FL,Bay, Florida,505.5,1137,stable,FL
+516,Martin County Palm City II SLF,FL,Martin, Florida,456.3,1304,stable,FL
+523,Okeechobee LF,FL,Okeechobee, Florida,484.7,262,stable,FL
+525,Osceola Landfill,FL,Seminole, Florida,444.7,2315,falling,FL
+527,PCSW Resource Recovery Facility,FL,Pasco, Florida,505.8,3736,falling,FL
+530,Putnam County Central SLF,FL,Putnam, Florida,493.4,535,stable,FL
+532,Rosemary Hill LF Expansion Class I,FL,Clay, Florida,508.7,1182,stable,FL
+535,Santa Rosa Central LF,FL,Santa Rosa, Florida,466.2,918,stable,FL
+542,St. Lucie County Baling and Recycling Facility,FL,St. Lucie, Florida,438.4,1983,stable,FL
+544,Stock Island LF,FL,Monroe, Florida,423.8,500,falling,FL
+546,SW Alachua SLF,FL,Alachua, Florida,464.9,1221,falling,FL
+547,Taylor County Central LF,FL,Taylor, Florida,437.6,133,falling,FL
+548,Tillman Ridge SLF,FL,St. Johns, Florida,487.4,1485,stable,FL
+549,Tomoka Farms Road LF,FL,Volusia, Florida,482.3,3939,rising,FL
+552,West Nassau SLF,FL,Nassau, Florida,557.5,632,stable,FL
+553,Winfield Solid Waste Facility,FL,Columbia, Florida,497.6,447,rising,FL
+554,Wright LF,FL,Okaloosa, Florida,451.3,1044,falling,FL
+555,Zemel Road Landfill,FL,Charlotte, Florida,462,1730,stable,FL
+556,"Advanced Disposal Services Evergreen Landfill, Inc.",GA,Lowndes, Georgia,456.4,479,stable,GA
+557,Athens-Clarke County Landfill,GA,Clarke, Georgia,454.1,455,stable,GA
+558,Atkinson County - SR 50 MSWL,GA,Atkinson, Georgia,447,39,stable,GA
+560,Bartow County MSWLF,GA,Bartow, Georgia,474.5,526,falling,GA
+561,BJ Landfill,GA,Gwinnett, Georgia,452.8,3487,stable,GA
+562,Broadhurst Environmental Landfill,GA,Wayne, Georgia,489.4,169,stable,GA
+564,Camden County SR 110 MSW Landfill,GA,Camden, Georgia,464.7,235,stable,GA
+565,Carroll County - Carrollton SR 166 MSW Landfill,GA,Carroll, Georgia,496.8,585,stable,GA
+567,Catoosa County MSW LF,GA,Catoosa, Georgia,365.3,299,stable,GA
+568,Cedar Grove Landfill,GA,Lamar, Georgia,488.9,110,stable,GA
+571,"Chesser Island Road Landfill, Inc. MSWL",GA,Charlton, Georgia,454,67,stable,GA
+573,City of LaGrange Landfill,GA,Troup, Georgia,482.7,373,stable,GA
+574,City of Thomasville MSWLF,GA,Thomas, Georgia,473.4,267,falling,GA
+575,City of Tifton / Omega / Eldorado Road LF,GA,Tift, Georgia,522.6,234,stable,GA
+576,Clayton County SR 3 Lovejoy Landfill,GA,Clayton, Georgia,483.9,1098,stable,GA
+577,Columbus Pine Grove MSWLF,GA,Muscogee, Georgia,484.7,984,stable,GA
+580,Crisp County Landfill,GA,Crisp, Georgia,413.2,121,stable,GA
+581,Deans Bridge Road MSWLF,GA,Richmond, Georgia,469.7,1007,stable,GA
+582,Decatur County Solid Waste Facility,GA,Decatur, Georgia,455.6,150,stable,GA
+583,Dougherty County Fleming/Gaissert Road LF,GA,Dougherty, Georgia,468.3,487,falling,GA
+585,Eagle Point Landfill LLC,GA,Forsyth, Georgia,501.8,1014,stable,GA
+590,Gordon County Redbone Ridges LF,GA,Gordon, Georgia,474.4,300,stable,GA
+593,Habersham County SR13 MSWL,GA,Habersham, Georgia,503.3,276,stable,GA
+594,Hall County Allen Creek Landfill,GA,Hall, Georgia,498.4,1036,stable,GA
+601,Laurens County - Old Macon Road MSWL,GA,Laurens, Georgia,460.7,269,stable,GA
+602,Liberty County LF,GA,Liberty, Georgia,445.8,209,stable,GA
+604,Macon Bibb Walker Road MSWL,GA,Bibb, Georgia,503.1,880,stable,GA
+607,Murray County Landfill,GA,Murray, Georgia,450.8,200,rising,GA
+608,Newton County Landfill,GA,Newton, Georgia,518.3,550,stable,GA
+609,Oak Grove Landfill,GA,Barrow, Georgia,518.8,390,stable,GA
+610,Old Dixie Highway MSW Landfill,GA,Whitfield, Georgia,414,451,falling,GA
+613,Pine Ridge Landfill,GA,Butts, Georgia,498.4,140,stable,GA
+615,R & B (Banks) Landfill,GA,Banks, Georgia,472.4,106,stable,GA
+617,Roberts Road Landfill,GA,Fayette, Georgia,465.4,658,stable,GA
+618,Savannah-Dean Forest Road SL,GA,Chatham, Georgia,444.8,1388,stable,GA
+625,Turkey Run Landfill,GA,Meriwether, Georgia,489.7,146,stable,GA
+628,Walker Mountain Landfill,GA,Floyd, Georgia,467.7,548,stable,GA
+632,"Wolf Creek Landfill, LLC",GA,Twiggs, Georgia,457,58,stable,GA
+635,Central Maui Landfill,HI,Maui, Hawaii,411.3,837,stable,HI
+639,Kaneohe Marine Corps Air Station Landfill,HI,Honolulu, Hawaii,428.8,5073,stable,HI
+642,Kekaha Landfill/Phases I & II,HI,Kauai, Hawaii,367,349,falling,HI
+647,South Hilo Sanitary Landfill (SHSL),HI,Hawaii, Hawaii,380.7,1025,falling,HI
+651,Black Hawk County SLF (Area E),IA,Black Hawk, Iowa,488.9,742,falling,IA
+652,Boone County Landfill,IA,Boone, Iowa,495.7,173,stable,IA
+655,Cedar Rapids Linn County Solid Waste Landfill #1,IA,Linn, Iowa,489.2,1226,rising,IA
+657,Central Disposal Landfill,IA,Winnebago, Iowa,463.5,70,stable,IA
+659,City of Muscatine LF,IA,Muscatine, Iowa,510.3,262,stable,IA
+660,Clinton County SLF (East),IA,Clinton, Iowa,481.4,310,stable,IA
+661,Des Moines County Regional Sanitary Landfill,IA,Des Moines, Iowa,501.9,280,stable,IA
+662,Dickinson Landfill Inc.,IA,Dickinson, Iowa,534.9,151,stable,IA
+663,Dubuque Metropolitan SLF,IA,Dubuque, Iowa,496.1,595,falling,IA
+665,Floyd-Mitchell-Chickasaw Counties Landfill,IA,Mitchell, Iowa,469.1,72,stable,IA
+669,Iowa City SLF,IA,Johnson, Iowa,473.1,603,falling,IA
+671,Landfill of North Iowa,IA,Cerro Gordo, Iowa,562.9,352,rising,IA
+672,Loess Hills Regional SLF,IA,Mills, Iowa,514.9,101,stable,IA
+678,Newton SLF,IA,Jasper, Iowa,453.8,223,stable,IA
+679,North Central Iowa Regional SWA Sanitary Landfill,IA,Webster, Iowa,470.6,228,falling,IA
+681,Northwest Iowa Area SWA Landfill,IA,Sioux, Iowa,454.3,175,stable,IA
+683,Ottumwa-Wapello County SLF,IA,Wapello, Iowa,506.2,233,stable,IA
+684,Page County Sanitary Landfill,IA,Page, Iowa,533.5,126,rising,IA
+688,Scott Area SLF,IA,Scott, Iowa,483.9,971,falling,IA
+697,Winneshiek County Sanitary Landfill,IA,Winneshiek, Iowa,408.3,113,stable,IA
+698,Ada County Landfill,ID,Ada, Idaho,456.5,2080,falling,ID
+700,Bear Lake County Landfill,ID,Bear Lake, Idaho,373.3,29,stable,ID
+701,Bennett Road Landfill,ID,Elmore, Idaho,467.4,120,falling,ID
+703,Bingham County Landfill-Ridge Road,ID,Bingham, Idaho,416.3,196,stable,ID
+705,Bonneville County Landfill,ID,Bonneville, Idaho,440.4,480,stable,ID
+706,Boundary County Landfill,ID,Boundary, Idaho,448,76,stable,ID
+710,Clay Peak Landfill,ID,Payette, Idaho,481.6,138,stable,ID
+711,Fighting Creek Farm Landfill,ID,Kootenai, Idaho,488.9,930,falling,ID
+712,Fort Hall Mine Landfill,ID,Bannock, Idaho,371.9,322,falling,ID
+713,Franklin County Sanitary Landfill,ID,Franklin, Idaho,364.1,50,stable,ID
+717,Hub Butte Landfill,ID,Twin Falls, Idaho,413.7,384,falling,ID
+719,Latah Sanitary Landfill,ID,Latah, Idaho,435.7,158,stable,ID
+720,Lemhi County Landfill 1,ID,Lemhi, Idaho,446.3,67,stable,ID
+722,Milner Butte Landfill,ID,Cassia, Idaho,365,90,stable,ID
+725,Pickles Butte SLF,ID,Canyon, Idaho,462.6,952,stable,ID
+728,Teton County Landfill,ID,Teton, Idaho,374,37,stable,ID
+729,31st Street Landfill,IL,Cook, Illinois,448.9,25748,falling,IL
+730,ADS/McLean County LF #2,IL,McLean, Illinois,451.5,769,falling,IL
+731,Advanced Disposal Orchard Hills Landfill Inc.,IL,Ogle, Illinois,477.1,319,stable,IL
+732,Advanced Disposal Valley View Landfill Inc.,IL,Macon, Illinois,545.2,786,stable,IL
+736,Beecher Landfill,IL,Will, Illinois,491.9,3425,falling,IL
+740,Bond County LF,IL,Bond, Illinois,486.9,108,stable,IL
+741,Brickyard Disposal & Recycling Inc.,IL,Vermilion, Illinois,504.7,525,stable,IL
+745,Clinton Landfill Inc.,IL,De Witt, Illinois,543.3,118,stable,IL
+746,Coles County Landfill,IL,Coles, Illinois,444.2,268,falling,IL
+753,Envirofil of Illinois Inc.,IL,McDonough, Illinois,503,179,stable,IL
+754,Environtech LF,IL,Grundy, Illinois,559.8,302,stable,IL
+756,Five Oaks RDF,IL,Christian, Illinois,551.7,256,stable,IL
+757,Freeport Municipal Landfill #4,IL,Stephenson, Illinois,414.2,279,stable,IL
+758,Greene Valley RDF,IL,DuPage, Illinois,461.2,4918,falling,IL
+764,Indian Creek Landfill #2,IL,Tazewell, Illinois,501.3,870,falling,IL
+765,Jerseyville Sanitation Landfill,IL,Jersey, Illinois,465.8,138,stable,IL
+766,K & H Disposal Landfill,IL,Iroquois, Illinois,490.1,203,stable,IL
+767,Kankakee County RDF,IL,Kankakee, Illinois,503.7,668,stable,IL
+769,Knox County LF #3,IL,Knox, Illinois,470.2,338,stable,IL
+774,LandComp Landfill,IL,LaSalle,0,0,0,0,0
+775,Landfill 33 Ltd.,IL,Effingham, Illinois,490.7,210,stable,IL
+780,Livingston LF,IL,Livingston, Illinois,517,250,stable,IL
+790,Peoria City/County Landfills #1 and #2,IL,Peoria, Illinois,494.8,1094,falling,IL
+794,Quad Cities Landfill Phase IV,IL,Rock Island, Illinois,459.6,875,falling,IL
+803,Sangamon Valley Landfill Inc.,IL,Sangamon, Illinois,532.5,1315,stable,IL
+804,Settler's Hill Recycling & Disposal Facility,IL,Kane, Illinois,438,2378,falling,IL
+813,Urbana Municipal #1,IL,Champaign, Illinois,441.8,863,stable,IL
+820,Whiteside County Landfill,IL,Whiteside, Illinois,472.6,375,stable,IL
+825,"Advanced Disposal Services Hoosier Landfill, Inc.",IN,Kosciusko, Indiana,446.5,412,stable,IN
+827,Bartholomew County Landfill I,IN,Bartholomew, Indiana,457.2,433,stable,IN
+835,Clark-Floyd LF,IN,Clark, Indiana,488,654,falling,IN
+841,Daviess County LF,IN,Daviess, Indiana,437.1,163,stable,IN
+844,Deercroft RDF,IN,LaPorte, Indiana,474.1,662,stable,IN
+846,Earthmovers LF,IN,Elkhart, Indiana,436.6,956,falling,IN
+858,Hayes Landfill,IN,Henry, Indiana,471.7,306,stable,IN
+859,Huntington City LF,IN,Huntington, Indiana,445.3,202,stable,IN
+862,Jay County LF,IN,Jay, Indiana,484.9,127,stable,IN
+863,Jennings County LF,IN,Jennings, Indiana,492.6,163,stable,IN
+864,LaGrange County LF,IN,LaGrange, Indiana,378.4,144,stable,IN
+865,Laubscher Meadows LF,IN,Vanderburgh, Indiana,471.6,1040,stable,IN
+867,Liberty Landfill,IN,White, Indiana,467.6,155,stable,IN
+873,National Serv-All LF,IN,Allen, Indiana,433.2,1732,falling,IN
+882,Oak Ridge RDF,IN,Cass, Indiana,424,206,falling,IN
+885,Prairie View RDF,IN,St. Joseph, Indiana,431.8,1333,falling,IN
+886,Randolph Farms LF,IN,Randolph, Indiana,457.8,159,stable,IN
+893,Spencer County,IN,Spencer, Indiana,418.9,118,stable,IN
+895,Sullivan County LF,IN,Sullivan, Indiana,453.6,120,stable,IN
+896,Sycamore Ridge Landfill & Victory Landfill,IN,Vigo, Indiana,478.1,591,falling,IN
+899,Tipton County LF,IN,Tipton, Indiana,488.6,102,stable,IN
+900,Twin Bridges RDF,IN,Hendricks, Indiana,461.8,772,falling,IN
+904,Wabash Valley LF,IN,Wabash, Indiana,460.5,202,stable,IN
+908,West Clinton LF,IN,Vermillion, Indiana,477.3,103,stable,IN
+914,Barton County SLF,KS,Barton,0,0,0,0,0
+915,Brooks Landfill,KS,Sedgwick,0,0,0,0,0
+916,Butler County Landfill,KS,Butler,0,0,0,0,0
+924,Coffey County LF,KS,Coffey,0,0,0,0,0
+928,Finney County Landfill / Western Plains Regional LF,KS,Finney,0,0,0,0,0
+929,Ford County Closed LF,KS,Ford,0,0,0,0,0
+931,"Forest View Landfill, LLC",KS,Wyandotte,0,0,0,0,0
+936,Harvey County LF,KS,Harvey,0,0,0,0,0
+941,Kiowa County Landfill,KS,Kiowa,0,0,0,0,0
+945,McPherson County Landfill,KS,McPherson,0,0,0,0,0
+949,Oak Grove Landfill,KS,Crawford,0,0,0,0,0
+951,Phillips County LF,KS,Phillips,0,0,0,0,0
+952,Plumb Thicket Landfill,KS,Harper,0,0,0,0,0
+953,Pratt County LF,KS,Pratt,0,0,0,0,0
+956,Reno County MSWLF,KS,Reno,0,0,0,0,0
+958,Rolling Meadows LF,KS,Shawnee,0,0,0,0,0
+959,Rooks County LF,KS,Rooks,0,0,0,0,0
+961,Russell County LF,KS,Russell,0,0,0,0,0
+963,Seward County Landfill,KS,Seward,0,0,0,0,0
+969,Trego County LF,KS,Trego,0,0,0,0,0
+972,Wichita County LF,KS,Wichita,0,0,0,0,0
+973,Advanced Disposal Morehead Landfill Inc.,KY,Rowan, Kentucky,516.3,126,stable,KY
+976,Big Run Landfill,KY,Boyd, Kentucky,533.2,348,falling,KY
+977,Blue Ridge RDF,KY,Estill, Kentucky,610.1,113,stable,KY
+985,Epperson Waste Disposal,KY,Grant, Kentucky,548.4,143,stable,KY
+987,Glasgow Regional Landfill,KY,Barren, Kentucky,539,295,rising,KY
+988,Green Valley Landfill,KY,Greenup, Kentucky,527.5,265,stable,KY
+990,Hardin County Landfill,KY,Hardin, Kentucky,535.4,614,stable,KY
+991,Hopkins County Regional Landfill,KY,Hopkins, Kentucky,477.4,287,stable,KY
+992,Laurel Ridge Landfill Inc.,KY,Laurel, Kentucky,546.3,393,stable,KY
+994,Maysville-Mason County LF,KY,Mason, Kentucky,507.9,113,stable,KY
+996,Nelson County SWDF,KY,Nelson, Kentucky,524,273,stable,KY
+997,Ohio County Balefill Landfill,KY,Ohio, Kentucky,510.5,156,stable,KY
+1003,Rumpke/Pendleton County LF,KY,Pendleton, Kentucky,539,94,stable,KY
+1004,Southern Sanitation LF,KY,Logan, Kentucky,528.3,185,stable,KY
+1006,"Tri-K Landfill, Inc.",KY,Lincoln, Kentucky,561.5,176,rising,KY
+1007,Valley View LF,KY,Trimble, Kentucky,530,57,stable,KY
+1010,West Kentucky Landfill,KY,Graves, Kentucky,490.7,235,stable,KY
+1012,Acadia Parish SLF,LA,Acadia,0,0,0,0,0
+1015,Colonial LF,LA,Ascension,0,0,0,0,0
+1016,Crescent Acres LF,LA,Orleans,0,0,0,0,0
+1017,East Baton Rouge Parish LF,LA,East Baton Rouge,0,0,0,0,0
+1020,"Harold J. ""Babe"" Landry LF",LA,St. Mary,0,0,0,0,0
+1022,Jefferson Davis Parish Landfill,LA,Jefferson Davis,0,0,0,0,0
+1024,La Salle/Grant Parish SLF,LA,La Salle,0,0,0,0,0
+1027,Magnolia Landfill,LA,Ouachita,0,0,0,0,0
+1028,Mundy Landfill,LA,De Soto,0,0,0,0,0
+1029,N. Dugas LF,LA,Lafayette,0,0,0,0,0
+1031,"Reliable Landfill, LLC",LA,Pointe Coupee,0,0,0,0,0
+1033,Sabine Parish SLF,LA,Sabine,0,0,0,0,0
+1035,St. Landry Parish LF,LA,St. Landry,0,0,0,0,0
+1037,Tangipahoa Parish Regional Solid Waste Facility,LA,Tangipahoa,0,0,0,0,0
+1038,Tensas Parish LF,LA,Tensas,0,0,0,0,0
+1039,Terrebonne Parish LF,LA,Terrebonne,0,0,0,0,0
+1041,Venice Landfill,LA,Plaquemines,0,0,0,0,0
+1044,West Carroll SLF,LA,West Carroll,0,0,0,0,0
+1046,Woodland Hills LF,LA,Calcasieu,0,0,0,0,0
+1048,Woolworth Road Landfill,LA,Caddo,0,0,0,0,0
+1049,Acushnet LF,MA,Bristol, Massachusetts,437.6,3030,falling,MA
+1050,Amherst LF,MA,Hampshire, Massachusetts,408.2,767,falling,MA
+1052,Barnstable LF,MA,Barnstable, Massachusetts,483,1901,falling,MA
+1053,Bondi Island Landfill,MA,Hampden, Massachusetts,428.8,2431,falling,MA
+1056,Carver-Marion-Wareham Landfill,MA,Plymouth, Massachusetts,486.3,3187,falling,MA
+1064,Fitchburg-Westminster LF,MA,Worcester, Massachusetts,470.8,4544,falling,MA
+1065,Gardner Street Landfill,MA,Suffolk, Massachusetts,428.9,3178,falling,MA
+1071,Haverhill Landfill,MA,Essex, Massachusetts,462.4,4439,falling,MA
+1074,Lowell LF,MA,Middlesex, Massachusetts,441.1,8027,falling,MA
+1079,Nantucket LF,MA,Nantucket, Massachusetts,491.4,62,falling,MA
+1084,Plainville LF,MA,Norfolk, Massachusetts,474.6,4087,falling,MA
+1102,Beulah Municipal Landfill,MD,Dorchester, Maryland,484.1,223,stable,MD
+1104,Brown Station Road Sanitary Landfill,MD,Prince George's,0,0,0,0,0
+1105,Cecil County Central Landfill,MD,Cecil, Maryland,531.8,635,rising,MD
+1108,Charles County Landfill #2,MD,Charles, Maryland,446.8,714,stable,MD
+1109,Eastern Sanitary Landfill Solid Waste Management Facility (ESL),MD,Baltimore, Maryland,492,5024,stable,MD
+1109,Eastern Sanitary Landfill Solid Waste Management Facility (ESL),MD,Baltimore, Maryland,489.5,3263,stable,MD
+1113,Garrett County SWD and RF,MD,Garrett, Maryland,413.8,179,stable,MD
+1114,Glen Burnie Landfill,MD,Anne Arundel, Maryland,462.3,2937,falling,MD
+1117,Harford Waste Disposal Center,MD,Harford, Maryland,512.8,1546,stable,MD
+1121,Midshore I - Regional Solid Waste Facility,MD,Talbot, Maryland,462.1,299,stable,MD
+1122,Midshore II - Regional Solid Waste Facility,MD,Caroline, Maryland,486.6,194,stable,MD
+1124,Mountainview SLF,MD,Allegany, Maryland,511.2,511,stable,MD
+1126,Newland Park SLF,MD,Wicomico, Maryland,537.5,622,stable,MD
+1132,Pennington Avenue LF,MD,Baltimore city,0,0,0,0,0
+1136,Reich's Ford Road SLF,MD,Frederick, Maryland,449.1,1239,falling,MD
+1139,Saint Andrews SLF,MD,St. Mary's,0,0,0,0,0
+1144,Westover/Ring SLF,MD,Somerset, Maryland,495.8,152,stable,MD
+1146,Bath LF,ME,Sagadahoc, Maine,407,212,falling,ME
+1147,Brunswick LF,ME,Cumberland, Maine,459.1,1720,falling,ME
+1151,Dolby Landfill,ME,Penobscot, Maine,508.6,1004,stable,ME
+1153,Hatch Hill LF,ME,Kennebec, Maine,462.6,772,falling,ME
+1155,Little Squaw LF,ME,Piscataquis, Maine,508.8,147,stable,ME
+1157,Presque Isle LF,ME,Aroostook, Maine,478.4,508,falling,ME
+1165,Adrian Landfill,MI,Lenawee, Michigan,421.2,540,stable,MI
+1166,Advanced Disposal Arbor Hills Landfill Inc.,MI,Washtenaw, Michigan,422.7,1551,falling,MI
+1168,Autumn Hills Recycling & Disposal Facility,MI,Ottawa, Michigan,386.8,1168,falling,MI
+1169,Brent Run Landfill,MI,Genesee, Michigan,477.5,2440,falling,MI
+1172,Cedar Ridge Recycling & Disposal Facility,MI,Charlevoix, Michigan,437.6,174,stable,MI
+1173,"Central Sanitary Landfill, Inc.",MI,Montcalm, Michigan,414.8,330,stable,MI
+1176,City of Midland Sanitary LF,MI,Midland, Michigan,413,445,rising,MI
+1178,Dafter Sanitary Landfill Inc,MI,Chippewa, Michigan,399,189,stable,MI
+1179,Delta County Landfill,MI,Delta, Michigan,445.4,255,stable,MI
+1180,Eagle Valley RDF,MI,Oakland, Michigan,480.9,7343,falling,MI
+1181,Elk Run Sanitary Landfill,MI,Presque Isle, Michigan,431,106,falling,MI
+1182,Forest Lawn Landfill,MI,Berrien, Michigan,453.5,953,falling,MI
+1183,Glen's Sanitary Landfill Inc.,MI,Leelanau, Michigan,430.3,159,stable,MI
+1186,Hastings Sanitary Landfill,MI,Barry, Michigan,366,287,stable,MI
+1188,Huron Landfill,MI,Huron, Michigan,446.6,230,falling,MI
+1189,K&W LF,MI,Ontonagon, Michigan,378.8,51,stable,MI
+1193,Manistee County LF,MI,Manistee, Michigan,415.4,167,falling,MI
+1194,Marquette County SWL,MI,Marquette, Michigan,411.5,354,falling,MI
+1196,Menominee Landfill,MI,Menominee, Michigan,396.6,148,stable,MI
+1197,Montmorency-Oscoda-Alpena Landfill,MI,Montmorency, Michigan,451.1,81,falling,MI
+1198,Muskegon County SWF,MI,Muskegon, Michigan,444.6,942,falling,MI
+1199,Northern Oaks Recycling & Disposal Facility,MI,Clare, Michigan,477.4,223,stable,MI
+1203,"People's Landfill, Inc.",MI,Saginaw, Michigan,455.4,1167,stable,MI
+1204,Pine Tree Acres LF Inc.,MI,Macomb, Michigan,494.7,5320,falling,MI
+1214,Tri-City RDF,MI,Sanilac, Michigan,441.3,261,stable,MI
+1215,Venice Park Recycling & Disposal Facility,MI,Shiawassee, Michigan,480.8,429,stable,MI
+1220,Wexford County Landfill,MI,Wexford, Michigan,499.1,218,stable,MI
+1223,Wood Island Waste Management Inc.,MI,Alger, Michigan,402.4,62,stable,MI
+1225,Advanced Disposal Rolling Hills Landfill Inc.,MN,Wright,0,0,0,0,0
+1226,Albert Lea Landfill,MN,Freeborn,0,0,0,0,0
+1227,Anoka-Ramsey Sanitary LF,MN,Anoka,0,0,0,0,0
+1229,Blue Earth County/Ponderosa Sanitary Landfill,MN,Blue Earth,0,0,0,0,0
+1231,Burnsville SLF,MN,Dakota,0,0,0,0,0
+1234,Crow Wing County SLF,MN,Crow Wing,0,0,0,0,0
+1235,East Central SLF (ECSWC),MN,Kanabec,0,0,0,0,0
+1236,Elk River SLF Inc.,MN,Sherburne,0,0,0,0,0
+1237,Flying Cloud SLF,MN,Hennepin,0,0,0,0,0
+1240,Kandiyohi County SLF,MN,Kandiyohi,0,0,0,0,0
+1243,Lyon County SLF,MN,Lyon,0,0,0,0,0
+1244,Mar-Kit Sanitary Landfill,MN,Kittson,0,0,0,0,0
+1245,Morrison County Landfill,MN,Morrison,0,0,0,0,0
+1246,Nobles County Landfill Inc.,MN,Nobles,0,0,0,0,0
+1247,Olmsted County/Kalmar LF,MN,Olmsted,0,0,0,0,0
+1250,Rice County SLF,MN,Rice,0,0,0,0,0
+1251,Roseau County LF,MN,Roseau,0,0,0,0,0
+1252,Spruce Ridge Landfill,MN,McLeod,0,0,0,0,0
+1255,Steele County SLF,MN,Steele,0,0,0,0,0
+1258,WLSSD SLF,MN,St. Louis,0,0,0,0,0
+1266,Backridge Landfill,MO,Lewis, Missouri,445.6,57,stable,MO
+1274,Central Missouri SLF,MO,Pettis, Missouri,478.5,245,stable,MO
+1278,City of Maryville Sanitary Landfill,MO,Nodaway, Missouri,440.7,103,stable,MO
+1293,Fulton SLF,MO,Callaway, Missouri,447.5,237,stable,MO
+1303,Jackson County Landfill,MO,Cape Girardeau, Missouri,454,418,stable,MO
+1304,Jefferson City Sanitary Landfill,MO,Cole, Missouri,441.8,398,falling,MO
+1313,Lemons East Sanitary Landfill / Lemons West Landfill,MO,Stoddard, Missouri,485.7,197,stable,MO
+1334,Plattco/Riverview,MO,Platte, Missouri,438.9,475,stable,MO
+1348,St. Joseph City SLF,MO,Buchanan, Missouri,479.2,499,falling,MO
+1367,Byram Landfill,MS,Hinds, Mississippi,481.9,1241,stable,MS
+1368,Central Landfill,MS,Pearl River, Mississippi,500.9,356,stable,MS
+1370,City of Durant LF,MS,Holmes, Mississippi,554.6,111,stable,MS
+1374,Golden Triangle Regional Landfill,MS,Oktibbeha, Mississippi,425,172,stable,MS
+1375,Gulf Pines LF,MS,Harrison, Mississippi,494.5,1096,stable,MS
+1379,Kemper County Solid Waste Landfill,MS,Kemper, Mississippi,378.3,51,stable,MS
+1380,Leflore County Landfill,MS,Leflore, Mississippi,505.3,160,rising,MS
+1383,Northeast Mississippi Regional Landfill,MS,Tippah, Mississippi,466.2,123,rising,MS
+1388,Pleasant Hills,MS,DeSoto, Mississippi,458.1,807,rising,MS
+1389,Prairie Bluff Sanitary Landfill,MS,Chickasaw, Mississippi,469.7,101,stable,MS
+1390,Three Rivers Regional Landfill,MS,Pontotoc, Mississippi,460.4,163,stable,MS
+1391,Tunica Landfill,MS,Tunica, Mississippi,509,50,stable,MS
+1393,Billings City Landfill,MT,Yellowstone, Montana,510,962,rising,MT
+1395,City of Bozeman SLF,MT,Gallatin, Montana,433.9,420,stable,MT
+1404,Flathead County Landfill,MT,Flathead, Montana,522.5,667,stable,MT
+1406,High Plains SLF,MT,Cascade, Montana,427.9,447,falling,MT
+1409,Lewis & Clark County Landfill,MT,Lewis and Clark,0,0,0,0,0
+1412,Missoula Landfill,MT,Missoula, Montana,419,532,falling,MT
+1422,Alamance County Landfill,NC,Alamance, North Carolina,494,962,stable,NC
+1423,Alexander County Landfill,NC,Alexander, North Carolina,469.2,238,stable,NC
+1425,Anderson Creek LF Harnett County,NC,Harnett, North Carolina,490.9,609,stable,NC
+1427,Anson County Waste Management Facility,NC,Anson, North Carolina,451.5,148,stable,NC
+1428,Ashe County Landfill,NC,Ashe, North Carolina,445.6,187,stable,NC
+1429,Avery County LF,NC,Avery, North Carolina,484.3,123,stable,NC
+1432,Blackburn SLF,NC,Catawba, North Carolina,465.1,922,stable,NC
+1434,Brunswick County LF,NC,Brunswick, North Carolina,466.4,1002,rising,NC
+1435,Buncombe County New Landfill,NC,Buncombe, North Carolina,471.1,1597,stable,NC
+1437,Caldwell County Mt. Herman Landfill,NC,Caldwell, North Carolina,483.8,542,stable,NC
+1438,Canton LF-Haywood County,NC,Haywood, North Carolina,515.7,492,stable,NC
+1440,Caswell County LF,NC,Caswell, North Carolina,485.3,164,stable,NC
+1441,Charlotte Motor Speedway Landfill V,NC,Cabarrus, North Carolina,479.7,998,falling,NC
+1445,City of Albemarle LF,NC,Stanly, North Carolina,482.5,385,stable,NC
+1446,City of Durham SLF,NC,Durham, North Carolina,453.1,1356,falling,NC
+1447,City of Greensboro White Street Landfill,NC,Guilford, North Carolina,481,2810,stable,NC
+1449,Cleveland County LF,NC,Cleveland, North Carolina,503.9,638,rising,NC
+1450,Cliffside South Rutherford County LF,NC,Rutherford, North Carolina,472.5,453,stable,NC
+1451,"Columbus County, ARS",NC,Columbus, North Carolina,451.2,345,stable,NC
+1452,Craven County LF,NC,Craven, North Carolina,498.4,643,stable,NC
+1456,Davidson County LF,NC,Davidson, North Carolina,490.5,1039,stable,NC
+1457,Davie County LF,NC,Davie, North Carolina,501.6,297,stable,NC
+1459,East Carolina Regional LF,NC,Bertie, North Carolina,440.2,130,stable,NC
+1461,Edgecombe County LF,NC,Edgecombe, North Carolina,453.8,325,stable,NC
+1462,Feltonsville Sanitary Landfill,NC,Wake, North Carolina,459.8,4439,falling,NC
+1465,Gaston County LF,NC,Gaston, North Carolina,487.2,1256,stable,NC
+1467,Granville County LF 1,NC,Granville, North Carolina,503.9,368,falling,NC
+1474,Henderson County LF,NC,Henderson, North Carolina,457.3,836,falling,NC
+1475,Hertford County LF,NC,Hertford, North Carolina,389.1,128,falling,NC
+1476,Hoke County LF,NC,Hoke, North Carolina,464,205,stable,NC
+1477,Iredell County LF,NC,Iredell, North Carolina,474.5,952,falling,NC
+1480,Johnston County MSW LF,NC,Johnston, North Carolina,474.2,937,stable,NC
+1481,Jones County LF,NC,Jones, North Carolina,457.4,66,stable,NC
+1484,Lenoir County LF,NC,Lenoir, North Carolina,485.9,381,falling,NC
+1489,McDowell County LF,NC,McDowell, North Carolina,500,313,stable,NC
+1490,Mecklenburg County LF,NC,Mecklenburg, North Carolina,443.3,4274,falling,NC
+1492,Moore County LF,NC,Moore, North Carolina,479.8,699,stable,NC
+1493,Nash County LF,NC,Nash, North Carolina,453.3,549,falling,NC
+1494,New Hanover County Secure Landfill,NC,New Hanover, North Carolina,460.1,1219,stable,NC
+1497,Northampton County LF,NC,Northampton, North Carolina,434.4,143,stable,NC
+1498,Onslow County LF,NC,Onslow, North Carolina,530.3,726,stable,NC
+1501,Pasquotank County LF,NC,Pasquotank, North Carolina,490.1,235,stable,NC
+1505,Pitt County LF,NC,Pitt, North Carolina,430,737,falling,NC
+1510,Robeson County LF,NC,Robeson, North Carolina,428.9,638,stable,NC
+1511,Rockingham County LF,NC,Rockingham, North Carolina,519.9,674,stable,NC
+1516,"Sampson County Disposal, LLC",NC,Sampson, North Carolina,461.7,365,stable,NC
+1518,Scotland County LF,NC,Scotland, North Carolina,499.9,222,stable,NC
+1521,Stokes County LF,NC,Stokes, North Carolina,489.3,325,rising,NC
+1522,Surry County LF 1 & LF 3,NC,Surry, North Carolina,509,516,stable,NC
+1524,Swain County LF,NC,Swain, North Carolina,548.1,104,stable,NC
+1527,Transylvania County SLF,NC,Transylvania, North Carolina,433.5,261,stable,NC
+1530,Upper Piedmont Regional Landfill,NC,Person, North Carolina,478.1,253,stable,NC
+1534,Vance County LF,NC,Vance, North Carolina,474.8,266,stable,NC
+1536,Watauga County Landfill,NC,Watauga, North Carolina,437.5,250,falling,NC
+1541,Wilkes County LF 2,NC,Wilkes, North Carolina,420.2,414,falling,NC
+1542,Wilson County LF,NC,Wilson, North Carolina,449.9,464,falling,NC
+1543,Yancey/Mitchell County LF,NC,Yancey, North Carolina,458.8,130,stable,NC
+1547,City of Minot LF,ND,Ward, North Dakota,455.4,301,stable,ND
+1548,Dakota MSW Landfill,ND,Sargent, North Dakota,550.1,29,stable,ND
+1550,Grand Forks Active Landfill,ND,Grand Forks, North Dakota,457.9,299,stable,ND
+1559,Alliance Disposal Area LF,NE,Box Butte, Nebraska,439,64,stable,NE
+1560,Beatrice Disposal Area LF,NE,Gage, Nebraska,454.7,144,stable,NE
+1561,Bluff Road Landfill,NE,Lancaster, Nebraska,440.3,1369,stable,NE
+1567,Fremont Landfill,NE,Dodge, Nebraska,525.7,251,stable,NE
+1572,Holdrege Prairie Hill Landfill,NE,Phelps, Nebraska,469.9,59,stable,NE
+1573,J Bar J Landfill,NE,Perkins, Nebraska,376.7,17,stable,NE
+1574,Kearney Area Solid Waste Agency Landfill,NE,Buffalo, Nebraska,449.3,226,stable,NE
+1577,Lexington Area Solid Waste Agency Landfill,NE,Dawson, Nebraska,417,116,stable,NE
+1580,NNSWC LF,NE,Stanton, Nebraska,272,20,falling,NE
+1583,Otoe County LF,NE,Otoe, Nebraska,460.6,99,stable,NE
+1585,Sarpy County SLF,NE,Sarpy, Nebraska,470.3,771,falling,NE
+1586,Scottsbluff Disposal LF,NE,Scotts Bluff, Nebraska,432.7,207,stable,NE
+1590,York County LF,NE,York, Nebraska,443.7,83,stable,NE
+1595,City of Keene Landfill,NH,Cheshire, New Hampshire,460.9,470,stable,NH
+1596,Colebrook Landfill,NH,Coos, New Hampshire,474.4,238,falling,NH
+1597,Concord Suncook Road Landfill Pre-1981,NH,Merrimack, New Hampshire,493.4,947,falling,NH
+1602,Durham Primary Landfill,NH,Strafford, New Hampshire,497.6,703,stable,NH
+1616,Laconia Disposal Gardens,NH,Belknap, New Hampshire,527.4,475,stable,NH
+1617,Lebanon Regional Solid Waste Facility,NH,Grafton, New Hampshire,453.3,565,falling,NH
+1639,Atlantic County Utilities Authority Landfill,NJ,Atlantic, New Jersey,495.8,1699,falling,NJ
+1640,Burlington County SLF,NJ,Burlington, New Jersey,527.8,2956,falling,NJ
+1641,Cape May County MUA Secure Landfill,NJ,Cape May, New Jersey,564.6,881,stable,NJ
+1647,Gloucester County Solid Waste Complex,NJ,Gloucester, New Jersey,541.6,1853,stable,NJ
+1653,Kingsland Landfill,NJ,Bergen, New Jersey,472.4,5571,falling,NJ
+1658,Monmouth County Reclamation Center,NJ,Monmouth, New Jersey,523.2,4160,stable,NJ
+1660,Ocean County LF,NJ,Ocean, New Jersey,521.2,4511,falling,NJ
+1664,Salem County SLF,NJ,Salem, New Jersey,554.1,462,stable,NJ
+1666,Warren County District Landfill,NJ,Warren, New Jersey,506.4,706,falling,NJ
+1667,Caja del Rio Landfill,NM,Santa Fe, New Mexico,321.9,705,falling,NM
+1668,Camino Real Landfill,NM,Dona Ana, New Mexico,400.9,921,rising,NM
+1669,Cerro Colorado LF,NM,Bernalillo, New Mexico,389.7,3018,falling,NM
+1670,Clovis Regional Solid Waste Facility,NM,Curry, New Mexico,363.7,173,falling,NM
+1673,Lea County Landfill,NM,Lea, New Mexico,367.1,233,falling,NM
+1674,Los Alamos County LF,NM,Los Alamos, New Mexico,422,100,falling,NM
+1676,Northeastern New Mexico Regional Landfill,NM,Mora, New Mexico,305.8,21,stable,NM
+1677,Otero/Greentree Regional Landfill,NM,Otero, New Mexico,415.4,325,stable,NM
+1678,Rio Rancho Landfill,NM,Sandoval, New Mexico,406.2,685,falling,NM
+1679,San Juan County Regional Landfill,NM,San Juan, New Mexico,341.7,461,falling,NM
+1680,Sand Point Landfill,NM,Eddy, New Mexico,383.3,245,falling,NM
+1684,Battle Mountain Sanitary Landfill,NV,Lander, Nevada,267.8,18,stable,NV
+1686,Carson City Sanitary Landfill,NV,Carson City,0,0,0,0,0
+1687,City of Elko Municipal Landfill,NV,Elko, Nevada,381.4,184,stable,NV
+1690,Ely Sanitary Landfill,NV,White Pine, Nevada,347.5,44,stable,NV
+1691,Eureka Sanitary Landfill,NV,Eureka, Nevada,239.9,6,stable,NV
+1692,Goldfield Sanitary Landfill,NV,Esmeralda, Nevada,433.2,6,stable,NV
+1693,Hawthorne Sanitary Landfill,NV,Mineral, Nevada,414.9,30,stable,NV
+1695,Lockwood Regional LF,NV,Storey, Nevada,238.6,17,falling,NV
+1700,Pahrump Valley Sanitary Landfill,NV,Nye, Nevada,426.9,341,stable,NV
+1701,Pershing County Sanitary Landfill,NV,Pershing, Nevada,349.4,28,stable,NV
+1703,Russell Pass Sanitary Landfill,NV,Churchill, Nevada,403.6,125,falling,NV
+1710,Albany Landfill,NY,Albany, New York,518.7,1919,stable,NY
+1712,Auburn SLF #1 & #2,NY,Cayuga, New York,526.6,547,stable,NY
+1714,Ava Landfill,NY,Oneida, New York,503.8,1525,falling,NY
+1716,Bristol Hill SLF,NY,Oswego, New York,541.3,776,stable,NY
+1719,Broome County Landfill,NY,Broome, New York,501.3,1274,stable,NY
+1721,Chaffee LF,NY,Erie, New York,542.4,6402,stable,NY
+1722,Chautauqua County Landfill,NY,Chautauqua, New York,529,937,stable,NY
+1723,Chemung County Landfill,NY,Chemung, New York,529.8,597,stable,NY
+1725,Chenango County Landfill,NY,Chenango, New York,515.4,351,stable,NY
+1728,Clifton Park LF,NY,Saratoga, New York,528.6,1514,stable,NY
+1730,Cortland County SLF,NY,Cortland, New York,516,290,stable,NY
+1731,Croton Point Landfill,NY,Westchester, New York,480.7,5771,falling,NY
+1734,Delaware County LF,NY,Delaware, New York,475.7,334,stable,NY
+1740,Edgemere SLF,NY,Queens, New York,423.5,11239,falling,NY
+1750,Haverstraw SLF,NY,Rockland, New York,485.7,1794,falling,NY
+1759,Modern Landfill Inc,NY,Niagara, New York,552.5,1579,stable,NY
+1760,Mohawk Valley SLF,NY,Herkimer, New York,523.2,453,stable,NY
+1763,New Bath Landfill,NY,Steuben, New York,485.5,637,falling,NY
+1771,Ontario County SLF,NY,Ontario, New York,504.4,748,stable,NY
+1782,Seneca Meadows SWMF,NY,Seneca, New York,512,236,stable,NY
+1790,Troy SLF,NY,Rensselaer, New York,521.6,1025,falling,NY
+1796,American LF,OH,Stark, Ohio,455.5,2285,falling,OH
+1799,Athens-Hocking Reclamation Center,OH,Athens, Ohio,456.4,282,stable,OH
+1805,Carbon Limestone LF,OH,Mahoning, Ohio,434.8,1433,falling,OH
+1806,Celina Landfill,OH,Mercer, Ohio,459.4,238,stable,OH
+1809,City of Brooklyn LF,OH,Cuyahoga, Ohio,478.6,7772,falling,OH
+1814,"Coshocton Landfill, Inc.",OH,Coshocton, Ohio,474.2,232,stable,OH
+1815,County Environmental Landfill of Wyandot,OH,Wyandot, Ohio,436.9,130,stable,OH
+1819,Defiance County Landfill,OH,Defiance, Ohio,452.8,221,stable,OH
+1821,"East Liverpool LF, Inc.",OH,Columbiana, Ohio,442.6,639,falling,OH
+1822,ELDA RDF,OH,Hamilton, Ohio,473.7,4410,falling,OH
+1824,Evergreen Recycling & Disposal LF,OH,Wood, Ohio,461.4,661,stable,OH
+1827,Gallia County LF,OH,Gallia, Ohio,490.1,197,stable,OH
+1828,Geneva Landfill,OH,Ashtabula, Ohio,451.4,591,falling,OH
+1830,Hancock County Sanitary LF,OH,Hancock, Ohio,450.8,418,stable,OH
+1832,Hoffman Road Sanitary LF,OH,Lucas, Ohio,465.4,2392,falling,OH
+1835,Kimble Sanitary LF,OH,Tuscarawas, Ohio,447,555,stable,OH
+1836,Lake County Recycling and Disposal Facility,OH,Geauga, Ohio,446.1,576,stable,OH
+1838,Lorain County Landfill I & II,OH,Lorain, Ohio,468,1820,falling,OH
+1843,Muskingum,OH,Muskingum, Ohio,507.3,551,stable,OH
+1844,Noble Road LF,OH,Richland, Ohio,466.1,762,stable,OH
+1849,Preble County SLF,OH,Preble, Ohio,489.3,267,stable,OH
+1852,Rumpke Brown County Landfill,OH,Brown, Ohio,481.2,275,stable,OH
+1861,"Triangle Landfill, Inc.",OH,Ross, Ohio,492.7,473,stable,OH
+1863,Williams County LF,OH,Williams, Ohio,409.3,202,falling,OH
+1864,Willowcreek Landfill,OH,Portage, Ohio,473.7,905,stable,OH
+1867,"Absolute Waste Solutions, Inc. Landfill",OK,Pottawatomie, Oklahoma,441.1,375,falling,OK
+1868,Alderson Regional Landfill,OK,Pittsburg, Oklahoma,417.2,252,falling,OK
+1869,American Environmental Landfill,OK,Osage, Oklahoma,362.5,233,falling,OK
+1870,Broken Arrow LF,OK,Wagoner, Oklahoma,402.7,366,stable,OK
+1873,Cherokee Nation SLF,OK,Adair, Oklahoma,440.1,112,stable,OK
+1876,City of Okmulgee Landfill,OK,Okmulgee, Oklahoma,489.8,246,stable,OK
+1877,City of Sallisaw Solid Waste Disposal Facility,OK,Sequoyah, Oklahoma,441.4,236,stable,OK
+1878,East Oak SLF,OK,Oklahoma, Oklahoma,466.5,3759,falling,OK
+1882,Great Plains Landfill,OK,Grady, Oklahoma,398.2,259,stable,OK
+1883,Lawton LF,OK,Comanche, Oklahoma,440.2,525,stable,OK
+1885,Muskogee Community LF,OK,Muskogee, Oklahoma,497.7,422,stable,OK
+1886,Newcastle Landfill,OK,McClain, Oklahoma,492,215,stable,OK
+1890,Oklahoma Environmental Management Authority (OEMA) Landfill,OK,Canadian, Oklahoma,426.9,583,falling,OK
+1893,Perkins,OK,Payne, Oklahoma,407.5,292,falling,OK
+1894,Ponca City Landfill,OK,Kay, Oklahoma,471.3,275,stable,OK
+1896,Quarry LF,OK,Tulsa, Oklahoma,481.4,3284,stable,OK
+1897,Red Carpet Landfill Inc.,OK,Major, Oklahoma,431.7,45,stable,OK
+1901,Southern OK Regional Disposal LF,OK,Carter, Oklahoma,474.3,280,stable,OK
+1908,Coffin Butte LF,OR,Benton, Oregon,379.2,371,falling,OR
+1909,Columbia Ridge LF,OR,Gilliam, Oregon,443,14,stable,OR
+1910,Crook County Landfill,OR,Crook, Oregon,502.4,175,stable,OR
+1912,Finley Buttes Regional Landfill,OR,Morrow, Oregon,426.2,57,stable,OR
+1915,Klamath Falls LF,OR,Klamath, Oregon,462.7,421,stable,OR
+1916,Knott Landfill,OR,Deschutes, Oregon,450.8,1064,falling,OR
+1920,"Riverbend Landfill Company, Inc.",OR,Yamhill, Oregon,447.7,555,stable,OR
+1922,Rossman's Landfill,OR,Clackamas, Oregon,463,2336,stable,OR
+1923,Short Mountain LF,OR,Lane, Oregon,389.9,1846,falling,OR
+1925,St. Johns LF,OR,Multnomah, Oregon,458,3743,falling,OR
+1927,Wasco County Landfill,OR,Wasco, Oregon,435.5,157,falling,OR
+1930,Advanced Disposal Greentree Landfill,PA,Elk, Pennsylvania,512.2,235,stable,PA
+1931,Advanced Disposal Services Sandy Run Landfill,PA,Bedford, Pennsylvania,474.6,346,stable,PA
+1932,Alliance SLF,PA,Lackawanna, Pennsylvania,479.3,1381,stable,PA
+1937,Bradford County Landfill,PA,Bradford, Pennsylvania,479.7,417,stable,PA
+1940,Commonwealth Environmental Systems (CES) LF,PA,Schuylkill, Pennsylvania,504.7,1030,stable,PA
+1941,Conestoga LF,PA,Berks, Pennsylvania,486.2,2491,stable,PA
+1943,County Environmental Landfill of Clarion,PA,Clarion, Pennsylvania,465.1,242,stable,PA
+1945,Dauphin Meadows LF,PA,Dauphin, Pennsylvania,471.8,1585,stable,PA
+1948,Evergreen Landfill,PA,Indiana, Pennsylvania,439.6,480,falling,PA
+1949,Fairless Landfill,PA,Bucks, Pennsylvania,490.9,4081,falling,PA
+1953,Greater Lebanon Refuse Authority LF,PA,Lebanon, Pennsylvania,467.3,855,stable,PA
+1954,Greenridge Reclamation Landfill,PA,Westmoreland, Pennsylvania,487.8,2609,stable,PA
+1957,Imperial Sanitary Landfill,PA,Allegheny, Pennsylvania,487.8,7927,falling,PA
+1958,J.J. Brunner LF,PA,Beaver, Pennsylvania,487.3,1181,stable,PA
+1967,Laurel Highlands LF,PA,Cambria, Pennsylvania,475.4,952,falling,PA
+1969,Lycoming County Landfill,PA,Lycoming, Pennsylvania,496.3,754,stable,PA
+1973,McKean County LF,PA,McKean, Pennsylvania,476.1,268,stable,PA
+1974,Mifflin County Solid Waste Authority LF,PA,Mifflin, Pennsylvania,470.7,311,stable,PA
+1989,SECCRA Community Landfill,PA,Chester, Pennsylvania,477.9,2933,falling,PA
+2035,Central LF,RI,Providence, Rhode Island,463.8,3359,falling,RI
+2037,Tiverton Landfill #2,RI,Newport, Rhode Island,462.7,555,falling,RI
+2043,Anderson Regional Landfill,SC,Anderson, South Carolina,464.9,1152,falling,SC
+2046,Bees Ferry Road Subtitle D LF,SC,Charleston, South Carolina,450.7,2044,falling,SC
+2047,Berkeley County Subtitle D LF,SC,Berkeley, South Carolina,452.7,960,stable,SC
+2048,Blackberry Valley Landfill,SC,Greenville, South Carolina,465.7,2628,falling,SC
+2053,Croft Landfill,SC,Spartanburg, South Carolina,472.8,1675,stable,SC
+2057,Georgetown County Subtitle D LF,SC,Georgetown, South Carolina,473.5,467,stable,SC
+2058,Greenwood County Landfills,SC,Greenwood, South Carolina,430.8,381,falling,SC
+2060,Highway 321 Lexington County Landfill,SC,Lexington, South Carolina,447.3,1466,falling,SC
+2061,Horry County SWA Landfill,SC,Horry, South Carolina,454.8,2068,falling,SC
+2062,Kershaw County Landfill,SC,Kershaw, South Carolina,443.7,365,falling,SC
+2064,Langley Landfill,SC,Aiken, South Carolina,411.8,891,stable,SC
+2077,Seneca MSWLF,SC,Oconee, South Carolina,448.7,511,falling,SC
+2085,Williamsburg County MSWLF,SC,Williamsburg, South Carolina,476.7,210,stable,SC
+2087,Brookings Regional Landfill,SD,Brookings, South Dakota,494.9,147,stable,SD
+2089,City of Mitchell Landfill,SD,Davison, South Dakota,491.3,124,stable,SD
+2090,Pierre Landfill,SD,Hughes, South Dakota,460.7,100,stable,SD
+2091,Rapid City Landfill,SD,Pennington, South Dakota,422.4,551,falling,SD
+2092,Sioux Falls Regional Sanitary Landfill (SFRSL),SD,Minnehaha, South Dakota,532.9,985,stable,SD
+2093,Tri-County Landfill,SD,Brule, South Dakota,543.1,37,stable,SD
+2095,Watertown Regional Landfill,SD,Codington, South Dakota,471.7,166,stable,SD
+2100,Bolivar-Hardeman County LF,TN,Hardeman, Tennessee,502,168,stable,TN
+2102,Bradley County LF,TN,Bradley, Tennessee,448.9,567,stable,TN
+2106,Carter Valley Landfill,TN,Hawkins, Tennessee,493.2,388,stable,TN
+2110,Cheatham County LF,TN,Cheatham, Tennessee,497.8,229,stable,TN
+2117,Cocke County LF,TN,Cocke, Tennessee,479.6,241,stable,TN
+2128,Dyersburg City LF,TN,Dyer, Tennessee,458.7,214,stable,TN
+2140,Gratio LF,TN,Obion, Tennessee,491.3,210,stable,TN
+2164,Lakeway Sanitation & Recycling Class I,TN,Hamblen, Tennessee,468,384,stable,TN
+2172,Matlock Bend Landfill,TN,Loudon, Tennessee,500.6,412,stable,TN
+2175,McMinn County LF,TN,McMinn, Tennessee,441.3,320,stable,TN
+2181,Milan City LF,TN,Gibson, Tennessee,473.8,301,stable,TN
+2192,Pickett County LF,TN,Pickett, Tennessee,376.4,32,stable,TN
+2193,Pulaski City LF,TN,Giles, Tennessee,434.9,178,stable,TN
+2198,Rhea County LF,TN,Rhea, Tennessee,511.7,218,stable,TN
+2199,Roane County Solid Waste Authority,TN,Roane, Tennessee,432.5,351,falling,TN
+2205,"Sevier Solid Waste, Incorporated",TN,Sevier, Tennessee,493.5,635,stable,TN
+2207,Smith County LF,TN,Smith, Tennessee,439,106,stable,TN
+2223,Williamson County LF,TN,Williamson, Tennessee,435.3,973,falling,TN
+2225,121 Regional Disposal Facility,TX,Collin, Texas,402.3,3374,falling,TX
+2228,Altair Disposal Services LLC,TX,Colorado, Texas,408.9,127,stable,TX
+2229,Angelina County Waste Management Center,TX,Angelina, Texas,457.2,465,falling,TX
+2230,Arlington LF,TX,Tarrant, Texas,437.7,8096,falling,TX
+2231,Atascocita RDF,TX,Harris, Texas,395.1,15735,falling,TX
+2232,Austin Community RDF,TX,Travis, Texas,391.9,3889,stable,TX
+2233,Baytown Landfill,TX,Chambers, Texas,435,168,falling,TX
+2234,Bell County/Sparks LF,TX,Bell, Texas,486.3,1403,stable,TX
+2241,Blue Ridge LF,TX,Fort Bend, Texas,372.3,2451,falling,TX
+2242,Brownsville Municipal Landfill,TX,Cameron, Texas,370.9,1511,falling,TX
+2243,C&T Regional Landfill,TX,Hidalgo, Texas,331.7,2357,falling,TX
+2244,Caliche Canyon LF,TX,Lubbock, Texas,417.9,1185,falling,TX
+2245,Camelot Landfill,TX,Denton, Texas,408.5,2746,stable,TX
+2246,Cefe Valenzuela Landfill,TX,Nueces, Texas,380.5,1471,falling,TX
+2247,Charles M Hinton Jr Regional Landfill,TX,Dallas, Texas,421.1,9700,stable,TX
+2248,Charter Waste Landfill,TX,Ector, Texas,423.6,562,falling,TX
+2249,City of Amarillo Landfill,TX,Potter, Texas,455.1,543,falling,TX
+2254,City of Corsicana LF,TX,Navarro, Texas,428.8,255,stable,TX
+2260,City of Kingsville Landfill,TX,Kleberg, Texas,454.4,136,stable,TX
+2261,City of Laredo LF,TX,Webb, Texas,328.7,685,falling,TX
+2264,City of Nacogdoches Landfill,TX,Nacogdoches, Texas,372.5,252,falling,TX
+2266,City of Pampa LF,TX,Gray, Texas,421.2,114,falling,TX
+2267,City of Perryton Landfill,TX,Ochiltree, Texas,353.8,34,stable,TX
+2270,City of Snyder Landfill,TX,Scurry, Texas,388.5,76,stable,TX
+2271,City of Sweetwater LF,TX,Nolan, Texas,448.8,86,stable,TX
+2272,City of Victoria Landfill,TX,Victoria, Texas,439.6,453,falling,TX
+2273,City of Waco LF,TX,McLennan, Texas,414.7,1081,falling,TX
+2276,Coastal Plains RDF,TX,Galveston, Texas,389.4,1380,falling,TX
+2278,Covel Gardens RDF,TX,Bexar, Texas,393,7118,falling,TX
+2279,CSC Disposal and Landfill,TX,Ellis, Texas,444.9,743,falling,TX
+2290,Fort Hood Landfill,TX,Coryell, Texas,478.6,294,stable,TX
+2297,Hillside Landfill,TX,Grayson, Texas,470.9,754,falling,TX
+2301,IESI East Texas Regional Landfill,TX,Rusk, Texas,450.7,291,stable,TX
+2304,IESI Weatherford Landfill,TX,Parker, Texas,455.9,679,falling,TX
+2305,Itasca Landfill,TX,Hill, Texas,434.1,215,stable,TX
+2307,Kerrville Landfill,TX,Kerr, Texas,394.1,334,falling,TX
+2312,Maloy Landfill,TX,Hunt, Texas,461.6,498,stable,TX
+2318,Mesquite Creek LF,TX,Comal, Texas,394.7,660,falling,TX
+2322,New Boston Landfill,TX,Bowie, Texas,412,461,falling,TX
+2328,Pine Hill LF,TX,Gregg, Texas,488.9,674,stable,TX
+2329,Pleasant Oaks Landfill,TX,Titus, Texas,384.2,131,falling,TX
+2333,Rock Prairie Road Landfill,TX,Brazos, Texas,373.1,581,falling,TX
+2335,San Angelo Landfill,TX,Tom Green, Texas,427.7,556,stable,TX
+2336,Seabreeze Environmental Landfill,TX,Brazoria, Texas,412.1,1384,falling,TX
+2338,Sinton Landfill,TX,San Patricio, Texas,414.3,305,falling,TX
+2340,Southwest Landfill,TX,Randall, Texas,427.7,614,falling,TX
+2348,Twin Oaks Landfill,TX,Grimes, Texas,400.1,139,stable,TX
+2353,Bayview LF,UT,Utah, Utah,384.2,1452,stable,UT
+2356,Bountiful Sanitary LF,UT,Davis, Utah,410.1,1136,stable,UT
+2359,Carbon County LF,UT,Carbon, Utah,422.1,102,stable,UT
+2360,City of Logan Sanitary Landfill,UT,Cache, Utah,389.9,347,stable,UT
+2363,Duchesne County LF,UT,Duchesne, Utah,478.7,86,stable,UT
+2365,Emery County LF,UT,Emery, Utah,406.5,48,stable,UT
+2373,Iron County/ Armstrong Pit LF,UT,Iron, Utah,445.4,196,stable,UT
+2374,Juab Rural Development Agency Landfill,UT,Juab, Utah,350.7,34,stable,UT
+2376,Leekay Landfill,UT,Salt Lake, Utah,409,3989,falling,UT
+2378,Manila City LF,UT,Daggett, Utah,474.5,8,*,UT
+2379,Millard County LF,UT,Millard, Utah,389,57,stable,UT
+2385,Rich County LF,UT,Rich, Utah,254.1,8,falling,UT
+2394,Tekoi Landfill,UT,Tooele, Utah,440.2,224,stable,UT
+2399,Uintah County/Vernal City LF,UT,Uintah, Utah,402.8,123,stable,UT
+2403,Weber County LF,UT,Weber, Utah,390.7,893,falling,UT
+2409,Amherst County Landfill,VA,Amherst, Virginia,425.7,194,falling,VA
+2411,Augusta County Service Authority Landfill,VA,Augusta, Virginia,469.2,495,stable,VA
+2416,Bethel LF,VA,Hampton city,0,0,0,0,0
+2417,Botetourt County Landfill,VA,Botetourt, Virginia,427.2,209,stable,VA
+2419,Campbell County Landfill,VA,Campbell, Virginia,419.3,317,falling,VA
+2423,Charles City County SLF,VA,Charles City,0,0,0,0,0
+2424,Chesterfield County Northern Area LF,VA,Chesterfield, Virginia,450.8,1688,falling,VA
+2425,City of Bristol Virginia Integrated Solid Waste Management Facility,VA,Bristol city,0,0,0,0,0
+2426,Concord Turnpike Regional Landfill,VA,Lynchburg city,0,0,0,0,0
+2427,Corral Farm Landfill,VA,Fauquier, Virginia,414.5,349,falling,VA
+2428,Danville City SLF,VA,Danville city,0,0,0,0,0
+2429,Dinwiddie County Landfill,VA,Dinwiddie, Virginia,447.1,161,falling,VA
+2434,Hanover 301 LF,VA,Hanover, Virginia,463.6,608,stable,VA
+2435,I-66 Landfill,VA,Fairfax, Virginia,342.4,4084,falling,VA
+2435,I-66 Landfill,VA,Fairfax, Virginia,373.4,100,stable,VA
+2437,Ivy Material Utilization Center,VA,Albemarle, Virginia,415.8,544,falling,VA
+2438,King and Queen Landfill,VA,King and Queen, Virginia,485.4,50,stable,VA
+2439,King George Landfill Inc.,VA,King George, Virginia,430.1,113,stable,VA
+2440,Livingston Landfill,VA,Spotsylvania, Virginia,451.5,626,falling,VA
+2441,Loudoun County SLF,VA,Loudoun, Virginia,371.6,1190,falling,VA
+2446,Maplewood Recycling & Waste Disposal,VA,Amelia, Virginia,453.2,81,stable,VA
+2449,Menchville Road Landfill,VA,Newport News city,0,0,0,0,0
+2455,Nottoway County Sanitary Landfill - Blackstone,VA,Nottoway, Virginia,483.7,102,stable,VA
+2456,Old Dominion LF,VA,Henrico, Virginia,445.5,1648,falling,VA
+2460,Pittsylvania County Landfill,VA,Pittsylvania, Virginia,379.7,353,falling,VA
+2461,Prince Edward County SLF,VA,Prince Edward, Virginia,514.4,130,stable,VA
+2462,Prince William County Sanitary Landfill,VA,Prince William, Virginia,347.6,1334,stable,VA
+2465,Roanoke Regional Landfill,VA,Roanoke, Virginia,441.5,585,stable,VA
+2465,Roanoke Regional Landfill,VA,Roanoke, Virginia,466.1,559,stable,VA
+2466,Rockbridge County SLF,VA,Rockbridge, Virginia,439.4,159,stable,VA
+2469,Shenandoah County LF,VA,Shenandoah, Virginia,426,266,stable,VA
+2472,South Boston Sanitary LF,VA,Halifax, Virginia,450.6,245,stable,VA
+2474,SPSA Regional LF,VA,Suffolk city,0,0,0,0,0
+2476,Stafford County LF,VA,Stafford, Virginia,441.4,567,falling,VA
+2478,Tri-City Regional Landfill,VA,Petersburg city,0,0,0,0,0
+2479,Virginia Beach Landfill No. 2,VA,Virginia Beach city,0,0,0,0,0
+2496,Cathcart LF,WA,Snohomish, Washington,484.5,3990,falling,WA
+2497,Cedar Hills Regional LF,WA,King, Washington,446.8,9969,falling,WA
+2500,Cheyne Road LF,WA,Yakima, Washington,387.5,979,falling,WA
+2501,Cowlitz County Headquarters Landfill,WA,Cowlitz, Washington,451.4,617,falling,WA
+2506,Fort Lewis LF #5,WA,Pierce, Washington,493.4,4434,falling,WA
+2514,Inman LF,WA,Skagit, Washington,479.1,794,falling,WA
+2522,Northside LF,WA,Spokane, Washington,399.6,2293,falling,WA
+2527,"Olympic View Sanitary LF, Inc. (OVSL)",WA,Kitsap, Washington,502.7,1615,stable,WA
+2530,Port Angeles SLF,WA,Clallam, Washington,501.1,651,stable,WA
+2532,Rainbow Valley LF,WA,Pacific, Washington,405.6,161,stable,WA
+2533,Roosevelt Regional MSW Landfill,WA,Klickitat, Washington,414.7,135,stable,WA
+2539,Sudbury Road LF,WA,Walla Walla, Washington,424.6,317,falling,WA
+2542,Thurston County Waste and Recovery Center,WA,Thurston, Washington,484,1573,falling,WA
+2548,Advanced Disposal Emerald Park Landfill LLC,WI,Waukesha, Wisconsin,477.6,2499,falling,WI
+2550,Advanced Disposal Hickory Meadows Landfill LLC,WI,Calumet, Wisconsin,422.1,239,stable,WI
+2551,Advanced Disposal Mallard Ridge Landfill Inc.,WI,Walworth, Wisconsin,491.1,621,stable,WI
+2552,Advanced Disposal Seven Mile Creek Landfill,WI,Eau Claire,0,0,0,0,0
+2555,Dane County LF #1-Verona,WI,Dane, Wisconsin,450.2,2399,falling,WI
+2565,Janesville City/Rock County Landfill,WI,Rock, Wisconsin,484.3,944,stable,WI
+2566,Kestrel Hawk Landfill,WI,Racine, Wisconsin,509.8,1209,stable,WI
+2567,Kewaunee County Solid Waste Balefill,WI,Kewaunee, Wisconsin,439.2,123,stable,WI
+2568,La Crosse County Landfill,WI,La Crosse,0,0,0,0,0
+2569,Lake Area Landfill,WI,Washburn, Wisconsin,488.9,128,stable,WI
+2571,Marathon County Landfill,WI,Marathon, Wisconsin,452.9,770,falling,WI
+2572,Marinette/Oconto County LF,WI,Marinette, Wisconsin,491,317,stable,WI
+2574,Metro RDF,WI,Milwaukee, Wisconsin,494.1,4918,stable,WI
+2580,Outagamie County LF,WI,Outagamie, Wisconsin,451.1,929,stable,WI
+2581,Pheasant Run Recycling and Disposal Facility,WI,Kenosha, Wisconsin,489.1,900,stable,WI
+2586,Ridgeview RDF,WI,Manitowoc, Wisconsin,475.7,529,stable,WI
+2591,Sauk County SLF,WI,Sauk, Wisconsin,455.1,373,stable,WI
+2592,Sheboygan Falls City LF,WI,Sheboygan, Wisconsin,467.4,687,falling,WI
+2596,Valley Trail Recycling & Disposal Facility,WI,Green Lake, Wisconsin,397.7,111,falling,WI
+2603,Brooke County LF (Subtitle D),WV,Brooke, West Virginia,471,163,stable,WV
+2604,City of Charleston Landfill,WV,Kanawha, West Virginia,493.2,1275,stable,WV
+2608,Greenbrier County Landfill,WV,Greenbrier, West Virginia,500.5,262,stable,WV
+2616,Pocahontas County Landfill,WV,Pocahontas, West Virginia,449.8,63,stable,WV
+2617,Raleigh County SWA Landfill,WV,Raleigh, West Virginia,483.5,510,stable,WV
+2621,Tucker County Landfill,WV,Tucker, West Virginia,527.4,59,falling,WV
+2623,Wetzel County Landfill,WV,Wetzel, West Virginia,499.3,117,stable,WV
+2625,Casper Balefill,WY,Natrona, Wyoming,419.9,382,falling,WY
+2626,Cheyenne Landfill,WY,Laramie, Wyoming,443.5,491,falling,WY
+2628,Sheridan Existing Landfill,WY,Sheridan, Wyoming,,165,stable,WY
